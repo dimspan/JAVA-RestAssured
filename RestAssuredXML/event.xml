@@ -1,0 +1,4430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Usdf20 Source="ENETPULSE" Version="2025-02-20T12:06:24.000000Z">
+  <EventStandings CompetitorType="INDIVIDUAL" Gender="SGEN$U" ID="5" Title="Altenberg Men's Skeleton" Type="EVNT$AERUnknown">
+    <Athlete Id="205" Order="1" ParticipationName="Eric Bernotas">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="1" Order="1"/>
+    </Athlete>
+    <Athlete Id="44630" Order="2" ParticipationName="Maya Pedersen">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="1" Order="2"/>
+    </Athlete>
+    <Athlete Id="217" Order="3" ParticipationName="Chris Soule">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="1" Order="3"/>
+    </Athlete>
+    <Athlete Id="44629" Order="4" ParticipationName="Tanja Morel">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="1" Order="4"/>
+    </Athlete>
+    <Athlete Id="208" Order="5" ParticipationName="Duff Gibson">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="1" Order="5"/>
+    </Athlete>
+    <Athlete Id="194299" Order="6" ParticipationName="Kerstin Szymkowiak">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="1" Order="6"/>
+    </Athlete>
+    <Athlete Id="208" Order="7" ParticipationName="Duff Gibson">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="1" Order="7"/>
+    </Athlete>
+    <Athlete Id="194292" Order="8" ParticipationName="Noelle Pikus-Pace">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="1" Order="8"/>
+    </Athlete>
+    <Athlete Id="203" Order="9" ParticipationName="Gregor Staehli">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="1" Order="9"/>
+    </Athlete>
+    <Athlete Id="194292" Order="10" ParticipationName="Noelle Pikus-Pace">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="1" Order="10"/>
+    </Athlete>
+    <Athlete Id="194299" Order="11" ParticipationName="Kerstin Szymkowiak">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="1" Order="11"/>
+    </Athlete>
+    <Athlete Id="209" Order="12" ParticipationName="Jeff Pain">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="1" Order="12"/>
+    </Athlete>
+    <Athlete Id="194292" Order="13" ParticipationName="Noelle Pikus-Pace">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="1" Order="13"/>
+    </Athlete>
+    <Athlete Id="209" Order="14" ParticipationName="Jeff Pain">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="1" Order="14" Value="575" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="194292" Order="15" ParticipationName="Noelle Pikus-Pace">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="1" Order="15" Value="560" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="217" Order="16" ParticipationName="Chris Soule">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="1" Order="16"/>
+    </Athlete>
+    <Athlete Id="209" Order="17" ParticipationName="Jeff Pain">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="2" Order="17"/>
+    </Athlete>
+    <Athlete Id="44632" Order="18" ParticipationName="Katie Uhlaender">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="2" Order="18"/>
+    </Athlete>
+    <Athlete Id="205" Order="19" ParticipationName="Eric Bernotas">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="2" Order="19"/>
+    </Athlete>
+    <Athlete Id="194292" Order="20" ParticipationName="Noelle Pikus-Pace">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="2" Order="20"/>
+    </Athlete>
+    <Athlete Id="1702726" Order="21" ParticipationName="Matthias Biedermann">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="2" Order="21"/>
+    </Athlete>
+    <Athlete Id="44628" Order="22" ParticipationName="Diana Sartor">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="2" Order="22"/>
+    </Athlete>
+    <Athlete Id="1701901" Order="23" ParticipationName="Frank Kleber">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="2" Order="23"/>
+    </Athlete>
+    <Athlete Id="44630" Order="24" ParticipationName="Maya Pedersen">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="2" Order="24"/>
+    </Athlete>
+    <Athlete Id="209" Order="25" ParticipationName="Jeff Pain">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="2" Order="25"/>
+    </Athlete>
+    <Athlete Id="194299" Order="26" ParticipationName="Kerstin Szymkowiak">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="2" Order="26"/>
+    </Athlete>
+    <Athlete Id="208" Order="27" ParticipationName="Duff Gibson">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="2" Order="27"/>
+    </Athlete>
+    <Athlete Id="44630" Order="28" ParticipationName="Maya Pedersen">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="2" Order="28"/>
+    </Athlete>
+    <Athlete Id="203" Order="29" ParticipationName="Gregor Staehli">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="2" Order="29"/>
+    </Athlete>
+    <Athlete Id="1703461" Order="30" ParticipationName="Deanna Panting">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="2" Order="30"/>
+    </Athlete>
+    <Athlete Id="217" Order="31" ParticipationName="Chris Soule">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="2" Order="31" Value="520" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="44630" Order="32" ParticipationName="Maya Pedersen">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="2" Order="32" Value="545" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="51040" Order="33" ParticipationName="Zach Lund">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="3" Order="33"/>
+    </Athlete>
+    <Athlete Id="194292" Order="34" ParticipationName="Noelle Pikus-Pace">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="3" Order="34"/>
+    </Athlete>
+    <Athlete Id="203" Order="35" ParticipationName="Gregor Staehli">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="3" Order="35"/>
+    </Athlete>
+    <Athlete Id="44630" Order="36" ParticipationName="Maya Pedersen">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="3" Order="36"/>
+    </Athlete>
+    <Athlete Id="209" Order="37" ParticipationName="Jeff Pain">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="3" Order="37"/>
+    </Athlete>
+    <Athlete Id="1702733" Order="38" ParticipationName="Monique Riekewald">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="3" Order="38"/>
+    </Athlete>
+    <Athlete Id="217" Order="39" ParticipationName="Chris Soule">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="3" Order="39"/>
+    </Athlete>
+    <Athlete Id="44629" Order="40" ParticipationName="Tanja Morel">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="3" Order="40"/>
+    </Athlete>
+    <Athlete Id="201" Order="41" ParticipationName="Markus Penz">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="3" Order="41"/>
+    </Athlete>
+    <Athlete Id="44628" Order="42" ParticipationName="Diana Sartor">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="3" Order="42"/>
+    </Athlete>
+    <Athlete Id="209" Order="43" ParticipationName="Jeff Pain">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="3" Order="43"/>
+    </Athlete>
+    <Athlete Id="44633" Order="44" ParticipationName="Lindsay Alcock">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="3" Order="44"/>
+    </Athlete>
+    <Athlete Id="217" Order="45" ParticipationName="Chris Soule">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="3" Order="45"/>
+    </Athlete>
+    <Athlete Id="44628" Order="46" ParticipationName="Diana Sartor">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="3" Order="46"/>
+    </Athlete>
+    <Athlete Id="208" Order="47" ParticipationName="Duff Gibson">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="3" Order="47" Value="504" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="194299" Order="48" ParticipationName="Kerstin Szymkowiak">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="3" Order="48" Value="470" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="208" Order="49" ParticipationName="Duff Gibson">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="4" Order="49"/>
+    </Athlete>
+    <Athlete Id="194299" Order="50" ParticipationName="Kerstin Szymkowiak">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="4" Order="50"/>
+    </Athlete>
+    <Athlete Id="1701901" Order="51" ParticipationName="Frank Kleber">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="4" Order="51"/>
+    </Athlete>
+    <Athlete Id="44633" Order="52" ParticipationName="Lindsay Alcock">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="4" Order="52"/>
+    </Athlete>
+    <Athlete Id="51040" Order="53" ParticipationName="Zach Lund">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="4" Order="53"/>
+    </Athlete>
+    <Athlete Id="44629" Order="54" ParticipationName="Tanja Morel">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="4" Order="54"/>
+    </Athlete>
+    <Athlete Id="202" Order="55" ParticipationName="Martin Rettl">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="4" Order="55"/>
+    </Athlete>
+    <Athlete Id="44632" Order="56" ParticipationName="Katie Uhlaender">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="4" Order="56"/>
+    </Athlete>
+    <Athlete Id="1701900" Order="57" ParticipationName="Florian Grassl">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="4" Order="57"/>
+    </Athlete>
+    <Athlete Id="44634" Order="58" ParticipationName="Mellisa Hollingsworth-Richards">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="4" Order="58"/>
+    </Athlete>
+    <Athlete Id="215" Order="59" ParticipationName="Kristan Bromley">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="4" Order="59"/>
+    </Athlete>
+    <Athlete Id="44632" Order="60" ParticipationName="Katie Uhlaender">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="4" Order="60"/>
+    </Athlete>
+    <Athlete Id="194283" Order="61" ParticipationName="Michi Halilovic">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="4" Order="61"/>
+    </Athlete>
+    <Athlete Id="44633" Order="62" ParticipationName="Lindsay Alcock">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="4" Order="62"/>
+    </Athlete>
+    <Athlete Id="203" Order="63" ParticipationName="Gregor Staehli">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="4" Order="63" Value="442" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="44633" Order="64" ParticipationName="Lindsay Alcock">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="4" Order="64" Value="457" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="203" Order="65" ParticipationName="Gregor Staehli">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="5" Order="65"/>
+    </Athlete>
+    <Athlete Id="44633" Order="66" ParticipationName="Lindsay Alcock">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="5" Order="66"/>
+    </Athlete>
+    <Athlete Id="209" Order="67" ParticipationName="Jeff Pain">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="5" Order="67"/>
+    </Athlete>
+    <Athlete Id="1702733" Order="68" ParticipationName="Monique Riekewald">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="5" Order="68"/>
+    </Athlete>
+    <Athlete Id="203" Order="69" ParticipationName="Gregor Staehli">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="5" Order="69"/>
+    </Athlete>
+    <Athlete Id="44634" Order="70" ParticipationName="Mellisa Hollingsworth-Richards">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="5" Order="70"/>
+    </Athlete>
+    <Athlete Id="209" Order="71" ParticipationName="Jeff Pain">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="5" Order="71"/>
+    </Athlete>
+    <Athlete Id="44633" Order="72" ParticipationName="Lindsay Alcock">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="5" Order="72"/>
+    </Athlete>
+    <Athlete Id="202" Order="73" ParticipationName="Martin Rettl">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="5" Order="73"/>
+    </Athlete>
+    <Athlete Id="44633" Order="74" ParticipationName="Lindsay Alcock">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="5" Order="74"/>
+    </Athlete>
+    <Athlete Id="1701901" Order="75" ParticipationName="Frank Kleber">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="5" Order="75"/>
+    </Athlete>
+    <Athlete Id="44628" Order="76" ParticipationName="Diana Sartor">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="5" Order="76"/>
+    </Athlete>
+    <Athlete Id="215" Order="77" ParticipationName="Kristan Bromley">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="5" Order="77"/>
+    </Athlete>
+    <Athlete Id="44630" Order="78" ParticipationName="Maya Pedersen">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="5" Order="78"/>
+    </Athlete>
+    <Athlete Id="51040" Order="79" ParticipationName="Zach Lund">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="5" Order="79" Value="435" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="44628" Order="80" ParticipationName="Diana Sartor">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="5" Order="80" Value="456" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1701901" Order="81" ParticipationName="Frank Kleber">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="6" Order="81"/>
+    </Athlete>
+    <Athlete Id="1701898" Order="82" ParticipationName="Yekaterina Mironova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="6" Order="82"/>
+    </Athlete>
+    <Athlete Id="51040" Order="83" ParticipationName="Zach Lund">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="6" Order="83"/>
+    </Athlete>
+    <Athlete Id="194285" Order="84" ParticipationName="Michelle Kelly">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="6" Order="84"/>
+    </Athlete>
+    <Athlete Id="217" Order="85" ParticipationName="Chris Soule">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="6" Order="85"/>
+    </Athlete>
+    <Athlete Id="44630" Order="86" ParticipationName="Maya Pedersen">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="6" Order="86"/>
+    </Athlete>
+    <Athlete Id="1701900" Order="87" ParticipationName="Florian Grassl">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="6" Order="87"/>
+    </Athlete>
+    <Athlete Id="44628" Order="88" ParticipationName="Diana Sartor">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="6" Order="88"/>
+    </Athlete>
+    <Athlete Id="215" Order="89" ParticipationName="Kristan Bromley">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="6" Order="89"/>
+    </Athlete>
+    <Athlete Id="44630" Order="90" ParticipationName="Maya Pedersen">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="6" Order="90"/>
+    </Athlete>
+    <Athlete Id="1702734" Order="91" ParticipationName="Lea Ann Parsley">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="6" Order="91"/>
+    </Athlete>
+    <Athlete Id="208" Order="92" ParticipationName="Duff Gibson">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="6" Order="92"/>
+    </Athlete>
+    <Athlete Id="44632" Order="93" ParticipationName="Katie Uhlaender">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="6" Order="93"/>
+    </Athlete>
+    <Athlete Id="205" Order="94" ParticipationName="Eric Bernotas">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="6" Order="94" Value="426" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="44632" Order="95" ParticipationName="Katie Uhlaender">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="6" Order="95" Value="431" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="51040" Order="96" ParticipationName="Zach Lund">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="6" Order="96"/>
+    </Athlete>
+    <Athlete Id="217" Order="97" ParticipationName="Chris Soule">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="7" Order="97"/>
+    </Athlete>
+    <Athlete Id="194285" Order="98" ParticipationName="Michelle Kelly">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="7" Order="98"/>
+    </Athlete>
+    <Athlete Id="215" Order="99" ParticipationName="Kristan Bromley">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="7" Order="99"/>
+    </Athlete>
+    <Athlete Id="44634" Order="100" ParticipationName="Mellisa Hollingsworth-Richards">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="7" Order="100"/>
+    </Athlete>
+    <Athlete Id="205" Order="101" ParticipationName="Eric Bernotas">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="7" Order="101"/>
+    </Athlete>
+    <Athlete Id="1702734" Order="102" ParticipationName="Lea Ann Parsley">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="7" Order="102"/>
+    </Athlete>
+    <Athlete Id="215" Order="103" ParticipationName="Kristan Bromley">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="7" Order="103"/>
+    </Athlete>
+    <Athlete Id="194299" Order="104" ParticipationName="Kerstin Szymkowiak">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="7" Order="104"/>
+    </Athlete>
+    <Athlete Id="51040" Order="105" ParticipationName="Zach Lund">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="7" Order="105"/>
+    </Athlete>
+    <Athlete Id="44632" Order="106" ParticipationName="Katie Uhlaender">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="7" Order="106"/>
+    </Athlete>
+    <Athlete Id="1702726" Order="107" ParticipationName="Matthias Biedermann">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="7" Order="107"/>
+    </Athlete>
+    <Athlete Id="44634" Order="108" ParticipationName="Mellisa Hollingsworth-Richards">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="7" Order="108"/>
+    </Athlete>
+    <Athlete Id="51040" Order="109" ParticipationName="Zach Lund">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="7" Order="109"/>
+    </Athlete>
+    <Athlete Id="44634" Order="110" ParticipationName="Mellisa Hollingsworth-Richards">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="7" Order="110"/>
+    </Athlete>
+    <Athlete Id="1701901" Order="111" ParticipationName="Frank Kleber">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="7" Order="111" Value="405" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="44629" Order="112" ParticipationName="Tanja Morel">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="7" Order="112" Value="412" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="194279" Order="113" ParticipationName="Tomass Dukurs">
+      <NOC Code="CNTR$LAT"/>
+      <Result Rank="8" Order="113"/>
+    </Athlete>
+    <Athlete Id="207" Order="114" ParticipationName="Paul Boehm">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="8" Order="114"/>
+    </Athlete>
+    <Athlete Id="44634" Order="115" ParticipationName="Mellisa Hollingsworth-Richards">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="8" Order="115"/>
+    </Athlete>
+    <Athlete Id="1702727" Order="116" ParticipationName="Yuzuru Hanyuda">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="8" Order="116"/>
+    </Athlete>
+    <Athlete Id="44632" Order="117" ParticipationName="Katie Uhlaender">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="8" Order="117"/>
+    </Athlete>
+    <Athlete Id="212" Order="118" ParticipationName="Kazuhiro Koshi">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="8" Order="118"/>
+    </Athlete>
+    <Athlete Id="194285" Order="119" ParticipationName="Michelle Kelly">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="8" Order="119"/>
+    </Athlete>
+    <Athlete Id="51040" Order="120" ParticipationName="Zach Lund">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="8" Order="120"/>
+    </Athlete>
+    <Athlete Id="1702733" Order="121" ParticipationName="Monique Riekewald">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="8" Order="121"/>
+    </Athlete>
+    <Athlete Id="205" Order="122" ParticipationName="Eric Bernotas">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="8" Order="122"/>
+    </Athlete>
+    <Athlete Id="1702733" Order="123" ParticipationName="Monique Riekewald">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="8" Order="123"/>
+    </Athlete>
+    <Athlete Id="212" Order="124" ParticipationName="Kazuhiro Koshi">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="8" Order="124"/>
+    </Athlete>
+    <Athlete Id="1702733" Order="125" ParticipationName="Monique Riekewald">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="8" Order="125"/>
+    </Athlete>
+    <Athlete Id="1701900" Order="126" ParticipationName="Florian Grassl">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="8" Order="126"/>
+    </Athlete>
+    <Athlete Id="194299" Order="127" ParticipationName="Kerstin Szymkowiak">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="8" Order="127"/>
+    </Athlete>
+    <Athlete Id="215" Order="128" ParticipationName="Kristan Bromley">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="8" Order="128" Value="313" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="44634" Order="129" ParticipationName="Mellisa Hollingsworth-Richards">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="8" Order="129" Value="396" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="44629" Order="130" ParticipationName="Tanja Morel">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="9" Order="130"/>
+    </Athlete>
+    <Athlete Id="208" Order="131" ParticipationName="Duff Gibson">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="9" Order="131"/>
+    </Athlete>
+    <Athlete Id="1702735" Order="132" ParticipationName="Kathrine Koczynski">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="9" Order="132"/>
+    </Athlete>
+    <Athlete Id="214" Order="133" ParticipationName="Adam Pengilly">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="9" Order="133"/>
+    </Athlete>
+    <Athlete Id="194292" Order="134" ParticipationName="Noelle Pikus-Pace">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="9" Order="134"/>
+    </Athlete>
+    <Athlete Id="194279" Order="135" ParticipationName="Tomass Dukurs">
+      <NOC Code="CNTR$LAT"/>
+      <Result Rank="9" Order="135"/>
+    </Athlete>
+    <Athlete Id="194285" Order="136" ParticipationName="Michelle Kelly">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="9" Order="136"/>
+    </Athlete>
+    <Athlete Id="217" Order="137" ParticipationName="Chris Soule">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="9" Order="137"/>
+    </Athlete>
+    <Athlete Id="44636" Order="138" ParticipationName="Eiko Nakayama">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="9" Order="138"/>
+    </Athlete>
+    <Athlete Id="205" Order="139" ParticipationName="Eric Bernotas">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="9" Order="139"/>
+    </Athlete>
+    <Athlete Id="194292" Order="140" ParticipationName="Noelle Pikus-Pace">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="9" Order="140"/>
+    </Athlete>
+    <Athlete Id="212" Order="141" ParticipationName="Kazuhiro Koshi">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="9" Order="141"/>
+    </Athlete>
+    <Athlete Id="44629" Order="142" ParticipationName="Tanja Morel">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="9" Order="142"/>
+    </Athlete>
+    <Athlete Id="202" Order="143" ParticipationName="Martin Rettl">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="9" Order="143" Value="261" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702733" Order="144" ParticipationName="Monique Riekewald">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="9" Order="144" Value="370" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1701900" Order="145" ParticipationName="Florian Grassl">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="10" Order="145"/>
+    </Athlete>
+    <Athlete Id="1702734" Order="146" ParticipationName="Lea Ann Parsley">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="10" Order="146"/>
+    </Athlete>
+    <Athlete Id="211" Order="147" ParticipationName="Masaru Inada">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="10" Order="147"/>
+    </Athlete>
+    <Athlete Id="44628" Order="148" ParticipationName="Diana Sartor">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="10" Order="148"/>
+    </Athlete>
+    <Athlete Id="194283" Order="149" ParticipationName="Michi Halilovic">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="10" Order="149"/>
+    </Athlete>
+    <Athlete Id="44633" Order="150" ParticipationName="Lindsay Alcock">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="10" Order="150"/>
+    </Athlete>
+    <Athlete Id="205" Order="151" ParticipationName="Eric Bernotas">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="10" Order="151"/>
+    </Athlete>
+    <Athlete Id="1702734" Order="152" ParticipationName="Lea Ann Parsley">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="10" Order="152"/>
+    </Athlete>
+    <Athlete Id="1701901" Order="153" ParticipationName="Frank Kleber">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="10" Order="153"/>
+    </Athlete>
+    <Athlete Id="1703518" Order="154" ParticipationName="Kathrin Huber">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="10" Order="154"/>
+    </Athlete>
+    <Athlete Id="203" Order="155" ParticipationName="Gregor Staehli">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="10" Order="155"/>
+    </Athlete>
+    <Athlete Id="194285" Order="156" ParticipationName="Michelle Kelly">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="10" Order="156"/>
+    </Athlete>
+    <Athlete Id="1701901" Order="157" ParticipationName="Frank Kleber">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="10" Order="157"/>
+    </Athlete>
+    <Athlete Id="1701898" Order="158" ParticipationName="Yekaterina Mironova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="10" Order="158"/>
+    </Athlete>
+    <Athlete Id="1701900" Order="159" ParticipationName="Florian Grassl">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="10" Order="159" Value="258" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702734" Order="160" ParticipationName="Lea Ann Parsley">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="10" Order="160" Value="300" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="214" Order="161" ParticipationName="Adam Pengilly">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="11" Order="161"/>
+    </Athlete>
+    <Athlete Id="44628" Order="162" ParticipationName="Diana Sartor">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="11" Order="162"/>
+    </Athlete>
+    <Athlete Id="202" Order="163" ParticipationName="Martin Rettl">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="11" Order="163"/>
+    </Athlete>
+    <Athlete Id="1702739" Order="164" ParticipationName="Natsuko Naka">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="11" Order="164"/>
+    </Athlete>
+    <Athlete Id="218" Order="165" ParticipationName="Martins Dukurs">
+      <NOC Code="CNTR$LAT"/>
+      <Result Rank="11" Order="165"/>
+    </Athlete>
+    <Athlete Id="1702736" Order="166" ParticipationName="Dany Locati">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="11" Order="166"/>
+    </Athlete>
+    <Athlete Id="207" Order="167" ParticipationName="Paul Boehm">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="11" Order="167"/>
+    </Athlete>
+    <Athlete Id="44640" Order="168" ParticipationName="Louise Corcoran">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="11" Order="168"/>
+    </Athlete>
+    <Athlete Id="208" Order="169" ParticipationName="Duff Gibson">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="11" Order="169"/>
+    </Athlete>
+    <Athlete Id="44629" Order="170" ParticipationName="Tanja Morel">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="11" Order="170"/>
+    </Athlete>
+    <Athlete Id="214" Order="171" ParticipationName="Adam Pengilly">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="11" Order="171"/>
+    </Athlete>
+    <Athlete Id="1703522" Order="172" ParticipationName="Judith Huber">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="11" Order="172"/>
+    </Athlete>
+    <Athlete Id="205" Order="173" ParticipationName="Eric Bernotas">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="11" Order="173"/>
+    </Athlete>
+    <Athlete Id="1702733" Order="174" ParticipationName="Monique Riekewald">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="11" Order="174"/>
+    </Athlete>
+    <Athlete Id="212" Order="175" ParticipationName="Kazuhiro Koshi">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="11" Order="175" Value="244" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="194285" Order="176" ParticipationName="Michelle Kelly">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="11" Order="176" Value="293" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="206" Order="177" ParticipationName="Kevin Ellis">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="12" Order="177"/>
+    </Athlete>
+    <Athlete Id="1703461" Order="178" ParticipationName="Deanna Panting">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="12" Order="178"/>
+    </Athlete>
+    <Athlete Id="1703501" Order="179" ParticipationName="Koshun Tojo">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="12" Order="179"/>
+    </Athlete>
+    <Athlete Id="44636" Order="180" ParticipationName="Eiko Nakayama">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="12" Order="180"/>
+    </Athlete>
+    <Athlete Id="1701901" Order="181" ParticipationName="Frank Kleber">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="12" Order="181"/>
+    </Athlete>
+    <Athlete Id="44632" Order="182" ParticipationName="Katie Uhlaender">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="12" Order="182"/>
+    </Athlete>
+    <Athlete Id="194283" Order="183" ParticipationName="Michi Halilovic">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="12" Order="183"/>
+    </Athlete>
+    <Athlete Id="44634" Order="184" ParticipationName="Mellisa Hollingsworth-Richards">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="12" Order="184"/>
+    </Athlete>
+    <Athlete Id="211" Order="185" ParticipationName="Masaru Inada">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="12" Order="185"/>
+    </Athlete>
+    <Athlete Id="1703522" Order="186" ParticipationName="Judith Huber">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="12" Order="186"/>
+    </Athlete>
+    <Athlete Id="1701900" Order="187" ParticipationName="Florian Grassl">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="12" Order="187"/>
+    </Athlete>
+    <Athlete Id="1703513" Order="188" ParticipationName="Sylvia Liebscher">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="12" Order="188"/>
+    </Athlete>
+    <Athlete Id="1702749" Order="189" ParticipationName="Caleb Smith">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="12" Order="189"/>
+    </Athlete>
+    <Athlete Id="44624" Order="190" ParticipationName="Desiree Bjerke">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="12" Order="190"/>
+    </Athlete>
+    <Athlete Id="1702726" Order="191" ParticipationName="Matthias Biedermann">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="12" Order="191" Value="228" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703461" Order="192" ParticipationName="Deanna Panting">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="12" Order="192" Value="270" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="218" Order="193" ParticipationName="Martins Dukurs">
+      <NOC Code="CNTR$LAT"/>
+      <Result Rank="13" Order="193"/>
+    </Athlete>
+    <Athlete Id="1702733" Order="194" ParticipationName="Monique Riekewald">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="13" Order="194"/>
+    </Athlete>
+    <Athlete Id="206" Order="195" ParticipationName="Kevin Ellis">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="13" Order="195"/>
+    </Athlete>
+    <Athlete Id="1703461" Order="196" ParticipationName="Deanna Panting">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="13" Order="196"/>
+    </Athlete>
+    <Athlete Id="201" Order="197" ParticipationName="Markus Penz">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="13" Order="197"/>
+    </Athlete>
+    <Athlete Id="1702735" Order="198" ParticipationName="Kathrine Koczynski">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="13" Order="198"/>
+    </Athlete>
+    <Athlete Id="212" Order="199" ParticipationName="Kazuhiro Koshi">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="13" Order="199"/>
+    </Athlete>
+    <Athlete Id="1703461" Order="200" ParticipationName="Deanna Panting">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="13" Order="200"/>
+    </Athlete>
+    <Athlete Id="194283" Order="201" ParticipationName="Michi Halilovic">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="13" Order="201"/>
+    </Athlete>
+    <Athlete Id="1702734" Order="202" ParticipationName="Lea Ann Parsley">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="13" Order="202"/>
+    </Athlete>
+    <Athlete Id="204" Order="203" ParticipationName="Philippe Cavoret">
+      <NOC Code="CNTR$FRA"/>
+      <Result Rank="13" Order="203"/>
+    </Athlete>
+    <Athlete Id="44629" Order="204" ParticipationName="Tanja Morel">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="13" Order="204"/>
+    </Athlete>
+    <Athlete Id="1702726" Order="205" ParticipationName="Matthias Biedermann">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="13" Order="205"/>
+    </Athlete>
+    <Athlete Id="1702734" Order="206" ParticipationName="Lea Ann Parsley">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="13" Order="206"/>
+    </Athlete>
+    <Athlete Id="194283" Order="207" ParticipationName="Michi Halilovic">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="13" Order="207" Value="225" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1701898" Order="208" ParticipationName="Yekaterina Mironova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="13" Order="208" Value="209" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="212" Order="209" ParticipationName="Kazuhiro Koshi">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="14" Order="209"/>
+    </Athlete>
+    <Athlete Id="44640" Order="210" ParticipationName="Louise Corcoran">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="14" Order="210"/>
+    </Athlete>
+    <Athlete Id="1702756" Order="211" ParticipationName="Urs Vescoli">
+      <NOC Code="CNTR$AUS"/>
+      <Result Rank="14" Order="211"/>
+    </Athlete>
+    <Athlete Id="1702734" Order="212" ParticipationName="Lea Ann Parsley">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="14" Order="212"/>
+    </Athlete>
+    <Athlete Id="211" Order="213" ParticipationName="Masaru Inada">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="14" Order="213"/>
+    </Athlete>
+    <Athlete Id="44635" Order="214" ParticipationName="Costanza Zanoletti">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="14" Order="214"/>
+    </Athlete>
+    <Athlete Id="218" Order="215" ParticipationName="Martins Dukurs">
+      <NOC Code="CNTR$LAT"/>
+      <Result Rank="14" Order="215"/>
+    </Athlete>
+    <Athlete Id="44636" Order="216" ParticipationName="Eiko Nakayama">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="14" Order="216"/>
+    </Athlete>
+    <Athlete Id="225" Order="217" ParticipationName="Ben Sandford">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="14" Order="217"/>
+    </Athlete>
+    <Athlete Id="1703461" Order="218" ParticipationName="Deanna Panting">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="14" Order="218"/>
+    </Athlete>
+    <Athlete Id="1702749" Order="219" ParticipationName="Caleb Smith">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="14" Order="219"/>
+    </Athlete>
+    <Athlete Id="1701899" Order="220" ParticipationName="Tristan Gale">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="14" Order="220"/>
+    </Athlete>
+    <Athlete Id="202" Order="221" ParticipationName="Martin Rettl">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="14" Order="221"/>
+    </Athlete>
+    <Athlete Id="1703518" Order="222" ParticipationName="Kathrin Huber">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="14" Order="222"/>
+    </Athlete>
+    <Athlete Id="201" Order="223" ParticipationName="Markus Penz">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="14" Order="223" Value="219" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="44636" Order="224" ParticipationName="Eiko Nakayama">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="14" Order="224" Value="200" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="202" Order="225" ParticipationName="Martin Rettl">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="15" Order="225"/>
+    </Athlete>
+    <Athlete Id="44636" Order="226" ParticipationName="Eiko Nakayama">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="15" Order="226"/>
+    </Athlete>
+    <Athlete Id="1702725" Order="227" ParticipationName="Kelly Forbes">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="15" Order="227"/>
+    </Athlete>
+    <Athlete Id="521779" Order="228" ParticipationName="Marion Thees-Trott">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="15" Order="228"/>
+    </Athlete>
+    <Athlete Id="1702725" Order="229" ParticipationName="Kelly Forbes">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="15" Order="229"/>
+    </Athlete>
+    <Athlete Id="1702739" Order="230" ParticipationName="Natsuko Naka">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="15" Order="230"/>
+    </Athlete>
+    <Athlete Id="211" Order="231" ParticipationName="Masaru Inada">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="15" Order="231"/>
+    </Athlete>
+    <Athlete Id="1701898" Order="232" ParticipationName="Yekaterina Mironova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="15" Order="232"/>
+    </Athlete>
+    <Athlete Id="207" Order="233" ParticipationName="Paul Boehm">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="15" Order="233"/>
+    </Athlete>
+    <Athlete Id="44640" Order="234" ParticipationName="Louise Corcoran">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="15" Order="234"/>
+    </Athlete>
+    <Athlete Id="194279" Order="235" ParticipationName="Tomass Dukurs">
+      <NOC Code="CNTR$LAT"/>
+      <Result Rank="15" Order="235"/>
+    </Athlete>
+    <Athlete Id="1703518" Order="236" ParticipationName="Kathrin Huber">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="15" Order="236"/>
+    </Athlete>
+    <Athlete Id="211" Order="237" ParticipationName="Masaru Inada">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="15" Order="237"/>
+    </Athlete>
+    <Athlete Id="1703513" Order="238" ParticipationName="Sylvia Liebscher">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="15" Order="238"/>
+    </Athlete>
+    <Athlete Id="214" Order="239" ParticipationName="Adam Pengilly">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="15" Order="239" Value="218" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="44640" Order="240" ParticipationName="Louise Corcoran">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="15" Order="240" Value="162" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702729" Order="241" ParticipationName="Cedric Tamani">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="16" Order="241"/>
+    </Athlete>
+    <Athlete Id="1702735" Order="242" ParticipationName="Kathrine Koczynski">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="16" Order="242"/>
+    </Athlete>
+    <Athlete Id="201" Order="243" ParticipationName="Markus Penz">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="16" Order="243"/>
+    </Athlete>
+    <Athlete Id="44638" Order="244" ParticipationName="Shelley Rudman">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="16" Order="244"/>
+    </Athlete>
+    <Athlete Id="204" Order="245" ParticipationName="Philippe Cavoret">
+      <NOC Code="CNTR$FRA"/>
+      <Result Rank="16" Order="245"/>
+    </Athlete>
+    <Athlete Id="1703461" Order="246" ParticipationName="Deanna Panting">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="16" Order="246"/>
+    </Athlete>
+    <Athlete Id="204" Order="247" ParticipationName="Philippe Cavoret">
+      <NOC Code="CNTR$FRA"/>
+      <Result Rank="16" Order="247"/>
+    </Athlete>
+    <Athlete Id="44638" Order="248" ParticipationName="Shelley Rudman">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="16" Order="248"/>
+    </Athlete>
+    <Athlete Id="212" Order="249" ParticipationName="Kazuhiro Koshi">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="16" Order="249"/>
+    </Athlete>
+    <Athlete Id="1701898" Order="250" ParticipationName="Yekaterina Mironova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="16" Order="250"/>
+    </Athlete>
+    <Athlete Id="194283" Order="251" ParticipationName="Michi Halilovic">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="16" Order="251"/>
+    </Athlete>
+    <Athlete Id="1703509" Order="252" ParticipationName="Alexandra Gruenberger">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="16" Order="252"/>
+    </Athlete>
+    <Athlete Id="201" Order="253" ParticipationName="Markus Penz">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="16" Order="253"/>
+    </Athlete>
+    <Athlete Id="44635" Order="254" ParticipationName="Costanza Zanoletti">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="16" Order="254"/>
+    </Athlete>
+    <Athlete Id="211" Order="255" ParticipationName="Masaru Inada">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="16" Order="255" Value="194" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702739" Order="256" ParticipationName="Natsuko Naka">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="16" Order="256" Value="140" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="201" Order="257" ParticipationName="Markus Penz">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="17" Order="257"/>
+    </Athlete>
+    <Athlete Id="1703462" Order="258" ParticipationName="Kathleen Lorenz">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="17" Order="258"/>
+    </Athlete>
+    <Athlete Id="194279" Order="259" ParticipationName="Tomass Dukurs">
+      <NOC Code="CNTR$LAT"/>
+      <Result Rank="17" Order="259"/>
+    </Athlete>
+    <Athlete Id="1701898" Order="260" ParticipationName="Yekaterina Mironova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="17" Order="260"/>
+    </Athlete>
+    <Athlete Id="1702729" Order="261" ParticipationName="Cedric Tamani">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="17" Order="261"/>
+    </Athlete>
+    <Athlete Id="44624" Order="262" ParticipationName="Desiree Bjerke">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="17" Order="262"/>
+    </Athlete>
+    <Athlete Id="201" Order="263" ParticipationName="Markus Penz">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="17" Order="263"/>
+    </Athlete>
+    <Athlete Id="1702801" Order="264" ParticipationName="Julia Eichhorn">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="17" Order="264"/>
+    </Athlete>
+    <Athlete Id="1702728" Order="265" ParticipationName="Alberto Polacchi">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="17" Order="265"/>
+    </Athlete>
+    <Athlete Id="1702736" Order="266" ParticipationName="Dany Locati">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="17" Order="266"/>
+    </Athlete>
+    <Athlete Id="1703501" Order="267" ParticipationName="Koshun Tojo">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="17" Order="267"/>
+    </Athlete>
+    <Athlete Id="1703461" Order="268" ParticipationName="Deanna Panting">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="17" Order="268"/>
+    </Athlete>
+    <Athlete Id="207" Order="269" ParticipationName="Paul Boehm">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="17" Order="269"/>
+    </Athlete>
+    <Athlete Id="44636" Order="270" ParticipationName="Eiko Nakayama">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="17" Order="270"/>
+    </Athlete>
+    <Athlete Id="207" Order="271" ParticipationName="Paul Boehm">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="17" Order="271" Value="166" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703518" Order="272" ParticipationName="Kathrin Huber">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="17" Order="272" Value="122" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702726" Order="273" ParticipationName="Matthias Biedermann">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="18" Order="273"/>
+    </Athlete>
+    <Athlete Id="1702739" Order="274" ParticipationName="Natsuko Naka">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="18" Order="274"/>
+    </Athlete>
+    <Athlete Id="200" Order="275" ParticipationName="Frank Rommel">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="18" Order="275"/>
+    </Athlete>
+    <Athlete Id="44640" Order="276" ParticipationName="Louise Corcoran">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="18" Order="276"/>
+    </Athlete>
+    <Athlete Id="1702727" Order="277" ParticipationName="Yuzuru Hanyuda">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="18" Order="277"/>
+    </Athlete>
+    <Athlete Id="44636" Order="278" ParticipationName="Eiko Nakayama">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="18" Order="278"/>
+    </Athlete>
+    <Athlete Id="1702749" Order="279" ParticipationName="Caleb Smith">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="18" Order="279"/>
+    </Athlete>
+    <Athlete Id="1703518" Order="280" ParticipationName="Kathrin Huber">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="18" Order="280"/>
+    </Athlete>
+    <Athlete Id="1702749" Order="281" ParticipationName="Caleb Smith">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="18" Order="281"/>
+    </Athlete>
+    <Athlete Id="44624" Order="282" ParticipationName="Desiree Bjerke">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="18" Order="282"/>
+    </Athlete>
+    <Athlete Id="211" Order="283" ParticipationName="Masaru Inada">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="18" Order="283"/>
+    </Athlete>
+    <Athlete Id="44636" Order="284" ParticipationName="Eiko Nakayama">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="18" Order="284"/>
+    </Athlete>
+    <Athlete Id="1703501" Order="285" ParticipationName="Koshun Tojo">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="18" Order="285"/>
+    </Athlete>
+    <Athlete Id="194285" Order="286" ParticipationName="Michelle Kelly">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="18" Order="286"/>
+    </Athlete>
+    <Athlete Id="194279" Order="287" ParticipationName="Tomass Dukurs">
+      <NOC Code="CNTR$LAT"/>
+      <Result Rank="18" Order="287" Value="154" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702735" Order="288" ParticipationName="Kathrine Koczynski">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="18" Order="288" Value="104" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="194283" Order="289" ParticipationName="Michi Halilovic">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="19" Order="289"/>
+    </Athlete>
+    <Athlete Id="194298" Order="290" ParticipationName="Tionette Stoddard">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="19" Order="290"/>
+    </Athlete>
+    <Athlete Id="218" Order="291" ParticipationName="Martins Dukurs">
+      <NOC Code="CNTR$LAT"/>
+      <Result Rank="19" Order="291"/>
+    </Athlete>
+    <Athlete Id="44624" Order="292" ParticipationName="Desiree Bjerke">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="19" Order="292"/>
+    </Athlete>
+    <Athlete Id="202" Order="293" ParticipationName="Martin Rettl">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="19" Order="293"/>
+    </Athlete>
+    <Athlete Id="1701898" Order="294" ParticipationName="Yekaterina Mironova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="19" Order="294"/>
+    </Athlete>
+    <Athlete Id="1702726" Order="295" ParticipationName="Matthias Biedermann">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="19" Order="295"/>
+    </Athlete>
+    <Athlete Id="1703517" Order="296" ParticipationName="Alexandra Lapshova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="19" Order="296"/>
+    </Athlete>
+    <Athlete Id="1329817" Order="297" ParticipationName="Alexander Tretiakov">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="19" Order="297"/>
+    </Athlete>
+    <Athlete Id="194285" Order="298" ParticipationName="Michelle Kelly">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="19" Order="298"/>
+    </Athlete>
+    <Athlete Id="1702756" Order="299" ParticipationName="Urs Vescoli">
+      <NOC Code="CNTR$AUS"/>
+      <Result Rank="19" Order="299"/>
+    </Athlete>
+    <Athlete Id="1703510" Order="300" ParticipationName="Michella Wichmann-Moeller">
+      <NOC Code="CNTR$DEN"/>
+      <Result Rank="19" Order="300"/>
+    </Athlete>
+    <Athlete Id="216" Order="301" ParticipationName="Shaun Boyle">
+      <NOC Code="CNTR$AUS"/>
+      <Result Rank="19" Order="301"/>
+    </Athlete>
+    <Athlete Id="1701899" Order="302" ParticipationName="Tristan Gale">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="19" Order="302"/>
+    </Athlete>
+    <Athlete Id="204" Order="303" ParticipationName="Philippe Cavoret">
+      <NOC Code="CNTR$FRA"/>
+      <Result Rank="19" Order="303" Value="140" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="44624" Order="304" ParticipationName="Desiree Bjerke">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="19" Order="304" Value="99" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="204" Order="305" ParticipationName="Philippe Cavoret">
+      <NOC Code="CNTR$FRA"/>
+      <Result Rank="20" Order="305"/>
+    </Athlete>
+    <Athlete Id="1702738" Order="306" ParticipationName="Anna Shevtsova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="20" Order="306"/>
+    </Athlete>
+    <Athlete Id="204" Order="307" ParticipationName="Philippe Cavoret">
+      <NOC Code="CNTR$FRA"/>
+      <Result Rank="20" Order="307"/>
+    </Athlete>
+    <Athlete Id="44635" Order="308" ParticipationName="Costanza Zanoletti">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="20" Order="308"/>
+    </Athlete>
+    <Athlete Id="207" Order="309" ParticipationName="Paul Boehm">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="20" Order="309"/>
+    </Athlete>
+    <Athlete Id="1703509" Order="310" ParticipationName="Alexandra Gruenberger">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="20" Order="310"/>
+    </Athlete>
+    <Athlete Id="1703501" Order="311" ParticipationName="Koshun Tojo">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="20" Order="311"/>
+    </Athlete>
+    <Athlete Id="1702739" Order="312" ParticipationName="Natsuko Naka">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="20" Order="312"/>
+    </Athlete>
+    <Athlete Id="1703501" Order="313" ParticipationName="Koshun Tojo">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="20" Order="313"/>
+    </Athlete>
+    <Athlete Id="1702801" Order="314" ParticipationName="Julia Eichhorn">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="20" Order="314"/>
+    </Athlete>
+    <Athlete Id="218" Order="315" ParticipationName="Martins Dukurs">
+      <NOC Code="CNTR$LAT"/>
+      <Result Rank="20" Order="315"/>
+    </Athlete>
+    <Athlete Id="44640" Order="316" ParticipationName="Louise Corcoran">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="20" Order="316"/>
+    </Athlete>
+    <Athlete Id="204" Order="317" ParticipationName="Philippe Cavoret">
+      <NOC Code="CNTR$FRA"/>
+      <Result Rank="20" Order="317"/>
+    </Athlete>
+    <Athlete Id="44640" Order="318" ParticipationName="Louise Corcoran">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="20" Order="318"/>
+    </Athlete>
+    <Athlete Id="218" Order="319" ParticipationName="Martins Dukurs">
+      <NOC Code="CNTR$LAT"/>
+      <Result Rank="20" Order="319" Value="139" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703522" Order="320" ParticipationName="Judith Huber">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="20" Order="320" Value="95" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702816" Order="321" ParticipationName="Stefan Moerker">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="21" Order="321"/>
+    </Athlete>
+    <Athlete Id="214" Order="322" ParticipationName="Adam Pengilly">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="21" Order="322"/>
+    </Athlete>
+    <Athlete Id="44637" Order="323" ParticipationName="Svetlana Trunova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="21" Order="323"/>
+    </Athlete>
+    <Athlete Id="1702732" Order="324" ParticipationName="Dirk Matschenz">
+      <NOC Code="CNTR$NED"/>
+      <Result Rank="21" Order="324"/>
+    </Athlete>
+    <Athlete Id="214" Order="325" ParticipationName="Adam Pengilly">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="21" Order="325"/>
+    </Athlete>
+    <Athlete Id="1702756" Order="326" ParticipationName="Urs Vescoli">
+      <NOC Code="CNTR$AUS"/>
+      <Result Rank="21" Order="326"/>
+    </Athlete>
+    <Athlete Id="1702739" Order="327" ParticipationName="Natsuko Naka">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="21" Order="327"/>
+    </Athlete>
+    <Athlete Id="1703516" Order="328" ParticipationName="Nathan Cicoria">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="21" Order="328"/>
+    </Athlete>
+    <Athlete Id="1701898" Order="329" ParticipationName="Yekaterina Mironova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="21" Order="329"/>
+    </Athlete>
+    <Athlete Id="1702728" Order="330" ParticipationName="Alberto Polacchi">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="21" Order="330"/>
+    </Athlete>
+    <Athlete Id="1702739" Order="331" ParticipationName="Natsuko Naka">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="21" Order="331"/>
+    </Athlete>
+    <Athlete Id="1703501" Order="332" ParticipationName="Koshun Tojo">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="21" Order="332" Value="120" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702736" Order="333" ParticipationName="Dany Locati">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="21" Order="333" Value="85" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="44640" Order="334" ParticipationName="Louise Corcoran">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="21" Order="334"/>
+    </Athlete>
+    <Athlete Id="1702736" Order="335" ParticipationName="Dany Locati">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="21" Order="335"/>
+    </Athlete>
+    <Athlete Id="211" Order="336" ParticipationName="Masaru Inada">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="22" Order="336"/>
+    </Athlete>
+    <Athlete Id="1703503" Order="337" ParticipationName="Helge Grande Staerk">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="22" Order="337"/>
+    </Athlete>
+    <Athlete Id="1702738" Order="338" ParticipationName="Anna Shevtsova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="22" Order="338"/>
+    </Athlete>
+    <Athlete Id="1703511" Order="339" ParticipationName="Snorre Pedersen">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="22" Order="339"/>
+    </Athlete>
+    <Athlete Id="1702823" Order="340" ParticipationName="Jessica Kilian">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="22" Order="340"/>
+    </Athlete>
+    <Athlete Id="194268" Order="341" ParticipationName="Sergey Chudinov">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="22" Order="341"/>
+    </Athlete>
+    <Athlete Id="1702726" Order="342" ParticipationName="Matthias Biedermann">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="22" Order="342"/>
+    </Athlete>
+    <Athlete Id="1701899" Order="343" ParticipationName="Tristan Gale">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="22" Order="343"/>
+    </Athlete>
+    <Athlete Id="202" Order="344" ParticipationName="Martin Rettl">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="22" Order="344"/>
+    </Athlete>
+    <Athlete Id="1702738" Order="345" ParticipationName="Anna Shevtsova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="22" Order="345"/>
+    </Athlete>
+    <Athlete Id="1702732" Order="346" ParticipationName="Dirk Matschenz">
+      <NOC Code="CNTR$NED"/>
+      <Result Rank="22" Order="346"/>
+    </Athlete>
+    <Athlete Id="1702738" Order="347" ParticipationName="Anna Shevtsova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="22" Order="347"/>
+    </Athlete>
+    <Athlete Id="1702749" Order="348" ParticipationName="Caleb Smith">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="22" Order="348" Value="109" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="44635" Order="349" ParticipationName="Costanza Zanoletti">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="22" Order="349" Value="78" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703522" Order="350" ParticipationName="Judith Huber">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="22" Order="350"/>
+    </Athlete>
+    <Athlete Id="1702727" Order="351" ParticipationName="Yuzuru Hanyuda">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="23" Order="351"/>
+    </Athlete>
+    <Athlete Id="212" Order="352" ParticipationName="Kazuhiro Koshi">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="23" Order="352"/>
+    </Athlete>
+    <Athlete Id="1702736" Order="353" ParticipationName="Dany Locati">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="23" Order="353"/>
+    </Athlete>
+    <Athlete Id="1703501" Order="354" ParticipationName="Koshun Tojo">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="23" Order="354"/>
+    </Athlete>
+    <Athlete Id="1703513" Order="355" ParticipationName="Sylvia Liebscher">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="23" Order="355"/>
+    </Athlete>
+    <Athlete Id="1702731" Order="356" ParticipationName="Konstantin Aladashvili">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="23" Order="356"/>
+    </Athlete>
+    <Athlete Id="194279" Order="357" ParticipationName="Tomass Dukurs">
+      <NOC Code="CNTR$LAT"/>
+      <Result Rank="23" Order="357"/>
+    </Athlete>
+    <Athlete Id="1703509" Order="358" ParticipationName="Alexandra Gruenberger">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="23" Order="358"/>
+    </Athlete>
+    <Athlete Id="201" Order="359" ParticipationName="Markus Penz">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="23" Order="359"/>
+    </Athlete>
+    <Athlete Id="1702739" Order="360" ParticipationName="Natsuko Naka">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="23" Order="360"/>
+    </Athlete>
+    <Athlete Id="194268" Order="361" ParticipationName="Sergey Chudinov">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="23" Order="361"/>
+    </Athlete>
+    <Athlete Id="1703509" Order="362" ParticipationName="Alexandra Gruenberger">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="23" Order="362"/>
+    </Athlete>
+    <Athlete Id="1702727" Order="363" ParticipationName="Yuzuru Hanyuda">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="23" Order="363" Value="80" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703513" Order="364" ParticipationName="Sylvia Liebscher">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="23" Order="364" Value="73" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1701899" Order="365" ParticipationName="Tristan Gale">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="23" Order="365"/>
+    </Athlete>
+    <Athlete Id="1702731" Order="366" ParticipationName="Konstantin Aladashvili">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="24" Order="366"/>
+    </Athlete>
+    <Athlete Id="194268" Order="367" ParticipationName="Sergey Chudinov">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="24" Order="367"/>
+    </Athlete>
+    <Athlete Id="1703509" Order="368" ParticipationName="Alexandra Gruenberger">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="24" Order="368"/>
+    </Athlete>
+    <Athlete Id="215" Order="369" ParticipationName="Kristan Bromley">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="24" Order="369"/>
+    </Athlete>
+    <Athlete Id="44638" Order="370" ParticipationName="Shelley Rudman">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="24" Order="370"/>
+    </Athlete>
+    <Athlete Id="1702728" Order="371" ParticipationName="Alberto Polacchi">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="24" Order="371"/>
+    </Athlete>
+    <Athlete Id="216" Order="372" ParticipationName="Shaun Boyle">
+      <NOC Code="CNTR$AUS"/>
+      <Result Rank="24" Order="372"/>
+    </Athlete>
+    <Athlete Id="1702823" Order="373" ParticipationName="Jessica Kilian">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="24" Order="373"/>
+    </Athlete>
+    <Athlete Id="194294" Order="374" ParticipationName="Gregory Saint-Genies">
+      <NOC Code="CNTR$FRA"/>
+      <Result Rank="24" Order="374"/>
+    </Athlete>
+    <Athlete Id="1702823" Order="375" ParticipationName="Jessica Kilian">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="24" Order="375"/>
+    </Athlete>
+    <Athlete Id="1703516" Order="376" ParticipationName="Nathan Cicoria">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="24" Order="376"/>
+    </Athlete>
+    <Athlete Id="1703522" Order="377" ParticipationName="Judith Huber">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="24" Order="377"/>
+    </Athlete>
+    <Athlete Id="206" Order="378" ParticipationName="Kevin Ellis">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="24" Order="378" Value="72" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702738" Order="379" ParticipationName="Anna Shevtsova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="24" Order="379" Value="71" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702738" Order="380" ParticipationName="Anna Shevtsova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="24" Order="380"/>
+    </Athlete>
+    <Athlete Id="1702725" Order="381" ParticipationName="Kelly Forbes">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="25" Order="381"/>
+    </Athlete>
+    <Athlete Id="207" Order="382" ParticipationName="Paul Boehm">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="25" Order="382"/>
+    </Athlete>
+    <Athlete Id="1703510" Order="383" ParticipationName="Michella Wichmann-Moeller">
+      <NOC Code="CNTR$DEN"/>
+      <Result Rank="25" Order="383"/>
+    </Athlete>
+    <Athlete Id="1702816" Order="384" ParticipationName="Stefan Moerker">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="25" Order="384"/>
+    </Athlete>
+    <Athlete Id="1702737" Order="385" ParticipationName="Kelly Moffatt">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="25" Order="385"/>
+    </Athlete>
+    <Athlete Id="1703515" Order="386" ParticipationName="Hiroyuki Bamba">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="25" Order="386"/>
+    </Athlete>
+    <Athlete Id="204" Order="387" ParticipationName="Philippe Cavoret">
+      <NOC Code="CNTR$FRA"/>
+      <Result Rank="25" Order="387"/>
+    </Athlete>
+    <Athlete Id="1702738" Order="388" ParticipationName="Anna Shevtsova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="25" Order="388"/>
+    </Athlete>
+    <Athlete Id="207" Order="389" ParticipationName="Paul Boehm">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="25" Order="389"/>
+    </Athlete>
+    <Athlete Id="44635" Order="390" ParticipationName="Costanza Zanoletti">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="25" Order="390"/>
+    </Athlete>
+    <Athlete Id="1703511" Order="391" ParticipationName="Snorre Pedersen">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="25" Order="391"/>
+    </Athlete>
+    <Athlete Id="44637" Order="392" ParticipationName="Svetlana Trunova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="25" Order="392"/>
+    </Athlete>
+    <Athlete Id="1702725" Order="393" ParticipationName="Kelly Forbes">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="25" Order="393" Value="66" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1701899" Order="394" ParticipationName="Tristan Gale">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="25" Order="394" Value="70" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="44637" Order="395" ParticipationName="Svetlana Trunova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="25" Order="395"/>
+    </Athlete>
+    <Athlete Id="1329817" Order="396" ParticipationName="Alexander Tretiakov">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="26" Order="396"/>
+    </Athlete>
+    <Athlete Id="194294" Order="397" ParticipationName="Gregory Saint-Genies">
+      <NOC Code="CNTR$FRA"/>
+      <Result Rank="26" Order="397"/>
+    </Athlete>
+    <Athlete Id="194299" Order="398" ParticipationName="Kerstin Szymkowiak">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="26" Order="398"/>
+    </Athlete>
+    <Athlete Id="194294" Order="399" ParticipationName="Gregory Saint-Genies">
+      <NOC Code="CNTR$FRA"/>
+      <Result Rank="26" Order="399"/>
+    </Athlete>
+    <Athlete Id="1702738" Order="400" ParticipationName="Anna Shevtsova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="26" Order="400"/>
+    </Athlete>
+    <Athlete Id="1703516" Order="401" ParticipationName="Nathan Cicoria">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="26" Order="401"/>
+    </Athlete>
+    <Athlete Id="1703516" Order="402" ParticipationName="Nathan Cicoria">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="26" Order="402"/>
+    </Athlete>
+    <Athlete Id="44637" Order="403" ParticipationName="Svetlana Trunova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="26" Order="403"/>
+    </Athlete>
+    <Athlete Id="1702729" Order="404" ParticipationName="Cedric Tamani">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="26" Order="404"/>
+    </Athlete>
+    <Athlete Id="1702737" Order="405" ParticipationName="Kelly Moffatt">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="26" Order="405"/>
+    </Athlete>
+    <Athlete Id="1702756" Order="406" ParticipationName="Urs Vescoli">
+      <NOC Code="CNTR$AUS"/>
+      <Result Rank="26" Order="406" Value="66" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703509" Order="407" ParticipationName="Alexandra Gruenberger">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="26" Order="407" Value="70" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703511" Order="408" ParticipationName="Snorre Pedersen">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="26" Order="408"/>
+    </Athlete>
+    <Athlete Id="1702737" Order="409" ParticipationName="Kelly Moffatt">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="26" Order="409"/>
+    </Athlete>
+    <Athlete Id="216" Order="410" ParticipationName="Shaun Boyle">
+      <NOC Code="CNTR$AUS"/>
+      <Result Rank="27" Order="410"/>
+    </Athlete>
+    <Athlete Id="1702732" Order="411" ParticipationName="Dirk Matschenz">
+      <NOC Code="CNTR$NED"/>
+      <Result Rank="27" Order="411"/>
+    </Athlete>
+    <Athlete Id="1703512" Order="412" ParticipationName="Eric Gaulin">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="27" Order="412"/>
+    </Athlete>
+    <Athlete Id="194302" Order="413" ParticipationName="Amy Williams">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="27" Order="413"/>
+    </Athlete>
+    <Athlete Id="1703503" Order="414" ParticipationName="Helge Grande Staerk">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="27" Order="414"/>
+    </Athlete>
+    <Athlete Id="1702731" Order="415" ParticipationName="Konstantin Aladashvili">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="27" Order="415"/>
+    </Athlete>
+    <Athlete Id="1703510" Order="416" ParticipationName="Michella Wichmann-Moeller">
+      <NOC Code="CNTR$DEN"/>
+      <Result Rank="27" Order="416"/>
+    </Athlete>
+    <Athlete Id="194268" Order="417" ParticipationName="Sergey Chudinov">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="27" Order="417"/>
+    </Athlete>
+    <Athlete Id="1702737" Order="418" ParticipationName="Kelly Moffatt">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="27" Order="418"/>
+    </Athlete>
+    <Athlete Id="1703515" Order="419" ParticipationName="Hiroyuki Bamba">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="27" Order="419"/>
+    </Athlete>
+    <Athlete Id="1702823" Order="420" ParticipationName="Jessica Kilian">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="27" Order="420"/>
+    </Athlete>
+    <Athlete Id="1702729" Order="421" ParticipationName="Cedric Tamani">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="27" Order="421" Value="56" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="44638" Order="422" ParticipationName="Shelley Rudman">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="27" Order="422" Value="60" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="216" Order="423" ParticipationName="Shaun Boyle">
+      <NOC Code="CNTR$AUS"/>
+      <Result Rank="28" Order="423"/>
+    </Athlete>
+    <Athlete Id="206" Order="424" ParticipationName="Kevin Ellis">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="28" Order="424"/>
+    </Athlete>
+    <Athlete Id="194298" Order="425" ParticipationName="Tionette Stoddard">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="28" Order="425"/>
+    </Athlete>
+    <Athlete Id="1703512" Order="426" ParticipationName="Eric Gaulin">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="28" Order="426"/>
+    </Athlete>
+    <Athlete Id="1703512" Order="427" ParticipationName="Eric Gaulin">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="28" Order="427"/>
+    </Athlete>
+    <Athlete Id="1702737" Order="428" ParticipationName="Kelly Moffatt">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="28" Order="428"/>
+    </Athlete>
+    <Athlete Id="1702729" Order="429" ParticipationName="Cedric Tamani">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="28" Order="429"/>
+    </Athlete>
+    <Athlete Id="44624" Order="430" ParticipationName="Desiree Bjerke">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="28" Order="430"/>
+    </Athlete>
+    <Athlete Id="1702756" Order="431" ParticipationName="Urs Vescoli">
+      <NOC Code="CNTR$AUS"/>
+      <Result Rank="28" Order="431"/>
+    </Athlete>
+    <Athlete Id="1703510" Order="432" ParticipationName="Michella Wichmann-Moeller">
+      <NOC Code="CNTR$DEN"/>
+      <Result Rank="28" Order="432"/>
+    </Athlete>
+    <Athlete Id="194268" Order="433" ParticipationName="Sergey Chudinov">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="28" Order="433" Value="52" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="44637" Order="434" ParticipationName="Svetlana Trunova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="28" Order="434" Value="45" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703502" Order="435" ParticipationName="Stefano Maldifassi">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="29" Order="435"/>
+    </Athlete>
+    <Athlete Id="1703503" Order="436" ParticipationName="Helge Grande Staerk">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="29" Order="436"/>
+    </Athlete>
+    <Athlete Id="44637" Order="437" ParticipationName="Svetlana Trunova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="29" Order="437"/>
+    </Athlete>
+    <Athlete Id="194294" Order="438" ParticipationName="Gregory Saint-Genies">
+      <NOC Code="CNTR$FRA"/>
+      <Result Rank="29" Order="438"/>
+    </Athlete>
+    <Athlete Id="194268" Order="439" ParticipationName="Sergey Chudinov">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="29" Order="439"/>
+    </Athlete>
+    <Athlete Id="1703515" Order="440" ParticipationName="Hiroyuki Bamba">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="29" Order="440"/>
+    </Athlete>
+    <Athlete Id="214" Order="441" ParticipationName="Adam Pengilly">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="29" Order="441"/>
+    </Athlete>
+    <Athlete Id="1702728" Order="442" ParticipationName="Alberto Polacchi">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="29" Order="442" Value="44" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702801" Order="443" ParticipationName="Julia Eichhorn">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="29" Order="443" Value="38" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703504" Order="444" ParticipationName="Russell Ward">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="30" Order="444"/>
+    </Athlete>
+    <Athlete Id="216" Order="445" ParticipationName="Shaun Boyle">
+      <NOC Code="CNTR$AUS"/>
+      <Result Rank="30" Order="445"/>
+    </Athlete>
+    <Athlete Id="1703510" Order="446" ParticipationName="Michella Wichmann-Moeller">
+      <NOC Code="CNTR$DEN"/>
+      <Result Rank="30" Order="446"/>
+    </Athlete>
+    <Athlete Id="1702753" Order="447" ParticipationName="Peter van Wees">
+      <NOC Code="CNTR$NED"/>
+      <Result Rank="30" Order="447"/>
+    </Athlete>
+    <Athlete Id="1702748" Order="448" ParticipationName="Daniel Maechler">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="30" Order="448"/>
+    </Athlete>
+    <Athlete Id="216" Order="449" ParticipationName="Shaun Boyle">
+      <NOC Code="CNTR$AUS"/>
+      <Result Rank="30" Order="449"/>
+    </Athlete>
+    <Athlete Id="1702748" Order="450" ParticipationName="Daniel Maechler">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="30" Order="450"/>
+    </Athlete>
+    <Athlete Id="216" Order="451" ParticipationName="Shaun Boyle">
+      <NOC Code="CNTR$AUS"/>
+      <Result Rank="30" Order="451" Value="35" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702737" Order="452" ParticipationName="Kelly Moffatt">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="30" Order="452" Value="37" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703508" Order="453" ParticipationName="Martin Kvapil">
+      <NOC Code="CNTR$CZE"/>
+      <Result Rank="31" Order="453"/>
+    </Athlete>
+    <Athlete Id="1702756" Order="454" ParticipationName="Urs Vescoli">
+      <NOC Code="CNTR$AUS"/>
+      <Result Rank="31" Order="454"/>
+    </Athlete>
+    <Athlete Id="1703502" Order="455" ParticipationName="Stefano Maldifassi">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="31" Order="455"/>
+    </Athlete>
+    <Athlete Id="194294" Order="456" ParticipationName="Gregory Saint-Genies">
+      <NOC Code="CNTR$FRA"/>
+      <Result Rank="31" Order="456"/>
+    </Athlete>
+    <Athlete Id="1703512" Order="457" ParticipationName="Eric Gaulin">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="31" Order="457"/>
+    </Athlete>
+    <Athlete Id="194279" Order="458" ParticipationName="Tomass Dukurs">
+      <NOC Code="CNTR$LAT"/>
+      <Result Rank="31" Order="458"/>
+    </Athlete>
+    <Athlete Id="1703516" Order="459" ParticipationName="Nathan Cicoria">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="31" Order="459" Value="32" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702823" Order="460" ParticipationName="Jessica Kilian">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="31" Order="460" Value="32" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702753" Order="461" ParticipationName="Peter van Wees">
+      <NOC Code="CNTR$NED"/>
+      <Result Rank="32" Order="461"/>
+    </Athlete>
+    <Athlete Id="225" Order="462" ParticipationName="Ben Sandford">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="32" Order="462"/>
+    </Athlete>
+    <Athlete Id="216" Order="463" ParticipationName="Shaun Boyle">
+      <NOC Code="CNTR$AUS"/>
+      <Result Rank="32" Order="463"/>
+    </Athlete>
+    <Athlete Id="1702729" Order="464" ParticipationName="Cedric Tamani">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="32" Order="464"/>
+    </Athlete>
+    <Athlete Id="1702731" Order="465" ParticipationName="Konstantin Aladashvili">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="32" Order="465"/>
+    </Athlete>
+    <Athlete Id="1329817" Order="466" ParticipationName="Alexander Tretiakov">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="32" Order="466"/>
+    </Athlete>
+    <Athlete Id="1702732" Order="467" ParticipationName="Dirk Matschenz">
+      <NOC Code="CNTR$NED"/>
+      <Result Rank="32" Order="467" Value="30" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703510" Order="468" ParticipationName="Michella Wichmann-Moeller">
+      <NOC Code="CNTR$DEN"/>
+      <Result Rank="32" Order="468" Value="32" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702731" Order="469" ParticipationName="Konstantin Aladashvili">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="33" Order="469"/>
+    </Athlete>
+    <Athlete Id="194279" Order="470" ParticipationName="Tomass Dukurs">
+      <NOC Code="CNTR$LAT"/>
+      <Result Rank="33" Order="470"/>
+    </Athlete>
+    <Athlete Id="1329817" Order="471" ParticipationName="Alexander Tretiakov">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="33" Order="471"/>
+    </Athlete>
+    <Athlete Id="1703502" Order="472" ParticipationName="Stefano Maldifassi">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="33" Order="472"/>
+    </Athlete>
+    <Athlete Id="1702728" Order="473" ParticipationName="Alberto Polacchi">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="33" Order="473"/>
+    </Athlete>
+    <Athlete Id="1703502" Order="474" ParticipationName="Stefano Maldifassi">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="33" Order="474"/>
+    </Athlete>
+    <Athlete Id="225" Order="475" ParticipationName="Ben Sandford">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="33" Order="475" Value="30" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="521779" Order="476" ParticipationName="Marion Thees-Trott">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="33" Order="476" Value="27" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703505" Order="477" ParticipationName="Marek Jiricko">
+      <NOC Code="CNTR$CZE"/>
+      <Result Rank="34" Order="477"/>
+    </Athlete>
+    <Athlete Id="194268" Order="478" ParticipationName="Sergey Chudinov">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="34" Order="478"/>
+    </Athlete>
+    <Athlete Id="1702748" Order="479" ParticipationName="Daniel Maechler">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="34" Order="479"/>
+    </Athlete>
+    <Athlete Id="1703503" Order="480" ParticipationName="Helge Grande Staerk">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="34" Order="480"/>
+    </Athlete>
+    <Athlete Id="1702748" Order="481" ParticipationName="Daniel Maechler">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="34" Order="481"/>
+    </Athlete>
+    <Athlete Id="1703526" Order="482" ParticipationName="Havard Engelien">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="34" Order="482"/>
+    </Athlete>
+    <Athlete Id="1703511" Order="483" ParticipationName="Snorre Pedersen">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="34" Order="483" Value="23" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703462" Order="484" ParticipationName="Kathleen Lorenz">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="34" Order="484" Value="22" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703507" Order="485" ParticipationName="David Ludwig">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="35" Order="485"/>
+    </Athlete>
+    <Athlete Id="1703502" Order="486" ParticipationName="Stefano Maldifassi">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="35" Order="486"/>
+    </Athlete>
+    <Athlete Id="1703514" Order="487" ParticipationName="Hubert Licman">
+      <NOC Code="CNTR$CZE"/>
+      <Result Rank="35" Order="487"/>
+    </Athlete>
+    <Athlete Id="1703515" Order="488" ParticipationName="Hiroyuki Bamba">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="35" Order="488"/>
+    </Athlete>
+    <Athlete Id="1702753" Order="489" ParticipationName="Peter van Wees">
+      <NOC Code="CNTR$NED"/>
+      <Result Rank="35" Order="489"/>
+    </Athlete>
+    <Athlete Id="1702731" Order="490" ParticipationName="Konstantin Aladashvili">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="35" Order="490"/>
+    </Athlete>
+    <Athlete Id="213" Order="491" ParticipationName="Aleksandr Tretyakov">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="35" Order="491" Value="23" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="194298" Order="492" ParticipationName="Tionette Stoddard">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="35" Order="492" Value="21" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702816" Order="493" ParticipationName="Stefan Moerker">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="36" Order="493"/>
+    </Athlete>
+    <Athlete Id="1702731" Order="494" ParticipationName="Konstantin Aladashvili">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="36" Order="494"/>
+    </Athlete>
+    <Athlete Id="1703519" Order="495" ParticipationName="Odd Arne Almli">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="36" Order="495"/>
+    </Athlete>
+    <Athlete Id="1329817" Order="496" ParticipationName="Alexander Tretiakov">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="36" Order="496"/>
+    </Athlete>
+    <Athlete Id="1703512" Order="497" ParticipationName="Eric Gaulin">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="36" Order="497"/>
+    </Athlete>
+    <Athlete Id="1702731" Order="498" ParticipationName="Konstantin Aladashvili">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="36" Order="498" Value="22" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703517" Order="499" ParticipationName="Alexandra Lapshova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="36" Order="499" Value="18" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702728" Order="500" ParticipationName="Alberto Polacchi">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="37" Order="500"/>
+    </Athlete>
+    <Athlete Id="1702728" Order="501" ParticipationName="Alberto Polacchi">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="37" Order="501"/>
+    </Athlete>
+    <Athlete Id="1703520" Order="502" ParticipationName="Stuart Hayden">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="37" Order="502"/>
+    </Athlete>
+    <Athlete Id="194293" Order="503" ParticipationName="Iain Roberts">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="37" Order="503"/>
+    </Athlete>
+    <Athlete Id="218" Order="504" ParticipationName="Martins Dukurs">
+      <NOC Code="CNTR$LAT"/>
+      <Result Rank="37" Order="504"/>
+    </Athlete>
+    <Athlete Id="1702816" Order="505" ParticipationName="Stefan Moerker">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="37" Order="505" Value="20" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703527" Order="506" ParticipationName="Tea Karvinen">
+      <NOC Code="CNTR$FIN"/>
+      <Result Rank="37" Order="506" Value="5" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703506" Order="507" ParticipationName="Markus Jaegert">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="38" Order="507"/>
+    </Athlete>
+    <Athlete Id="1702753" Order="508" ParticipationName="Peter van Wees">
+      <NOC Code="CNTR$NED"/>
+      <Result Rank="38" Order="508"/>
+    </Athlete>
+    <Athlete Id="1702753" Order="509" ParticipationName="Peter van Wees">
+      <NOC Code="CNTR$NED"/>
+      <Result Rank="38" Order="509"/>
+    </Athlete>
+    <Athlete Id="1703505" Order="510" ParticipationName="Marek Jiricko">
+      <NOC Code="CNTR$CZE"/>
+      <Result Rank="38" Order="510"/>
+    </Athlete>
+    <Athlete Id="194294" Order="511" ParticipationName="Gregory Saint-Genies">
+      <NOC Code="CNTR$FRA"/>
+      <Result Rank="38" Order="511"/>
+    </Athlete>
+    <Athlete Id="200" Order="512" ParticipationName="Frank Rommel">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="38" Order="512" Value="20" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="194302" Order="513" ParticipationName="Amy Williams">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="38" Order="513" Value="4" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1329817" Order="514" ParticipationName="Alexander Tretiakov">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="39" Order="514"/>
+    </Athlete>
+    <Athlete Id="1329817" Order="515" ParticipationName="Alexander Tretiakov">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="39" Order="515"/>
+    </Athlete>
+    <Athlete Id="1703521" Order="516" ParticipationName="Ivo Pakalns">
+      <NOC Code="CNTR$LAT"/>
+      <Result Rank="39" Order="516"/>
+    </Athlete>
+    <Athlete Id="1703520" Order="517" ParticipationName="Stuart Hayden">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="39" Order="517"/>
+    </Athlete>
+    <Athlete Id="1703520" Order="518" ParticipationName="Stuart Hayden">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="39" Order="518"/>
+    </Athlete>
+    <Athlete Id="194294" Order="519" ParticipationName="Gregory Saint-Genies">
+      <NOC Code="CNTR$FRA"/>
+      <Result Rank="39" Order="519" Value="20" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703504" Order="520" ParticipationName="Russell Ward">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="40" Order="520"/>
+    </Athlete>
+    <Athlete Id="194293" Order="521" ParticipationName="Iain Roberts">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="40" Order="521"/>
+    </Athlete>
+    <Athlete Id="1703514" Order="522" ParticipationName="Hubert Licman">
+      <NOC Code="CNTR$CZE"/>
+      <Result Rank="40" Order="522"/>
+    </Athlete>
+    <Athlete Id="1702753" Order="523" ParticipationName="Peter van Wees">
+      <NOC Code="CNTR$NED"/>
+      <Result Rank="40" Order="523"/>
+    </Athlete>
+    <Athlete Id="1703503" Order="524" ParticipationName="Helge Grande Staerk">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="40" Order="524" Value="19" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703505" Order="525" ParticipationName="Marek Jiricko">
+      <NOC Code="CNTR$CZE"/>
+      <Result Rank="41" Order="525"/>
+    </Athlete>
+    <Athlete Id="194293" Order="526" ParticipationName="Iain Roberts">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="41" Order="526"/>
+    </Athlete>
+    <Athlete Id="1703515" Order="527" ParticipationName="Hiroyuki Bamba">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="41" Order="527" Value="12" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703505" Order="528" ParticipationName="Marek Jiricko">
+      <NOC Code="CNTR$CZE"/>
+      <Result Rank="42" Order="528"/>
+    </Athlete>
+    <Athlete Id="1703512" Order="529" ParticipationName="Eric Gaulin">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="42" Order="529" Value="11" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703514" Order="530" ParticipationName="Hubert Licman">
+      <NOC Code="CNTR$CZE"/>
+      <Result Rank="43" Order="530"/>
+    </Athlete>
+    <Athlete Id="1702748" Order="531" ParticipationName="Daniel Maechler">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="43" Order="531" Value="2" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703502" Order="532" ParticipationName="Stefano Maldifassi">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="44" Order="532" Value="2" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702753" Order="533" ParticipationName="Peter van Wees">
+      <NOC Code="CNTR$NED"/>
+      <Result Rank="45" Order="533" Value="1" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703504" Order="534" ParticipationName="Russell Ward">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="46" Order="534" Value="1" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702729" Order="535" ParticipationName="Cedric Tamani">
+      <NOC Code="CNTR$SUI"/>
+      <Result Irm="SC_IRM$DNS" ValueType="IRM" Order="535"/>
+    </Athlete>
+    <Athlete Id="1702732" Order="536" ParticipationName="Dirk Matschenz">
+      <NOC Code="CNTR$NED"/>
+      <Result Irm="SC_IRM$DNS" ValueType="IRM" Order="536"/>
+    </Athlete>
+    <Athlete Id="194268" Order="537" ParticipationName="Sergey Chudinov">
+      <NOC Code="CNTR$MIX"/>
+      <Result Irm="SC_IRM$DSQ" ValueType="IRM" Order="537"/>
+    </Athlete>
+    <Athlete Id="214" Order="538" ParticipationName="Adam Pengilly">
+      <NOC Code="CNTR$GBR"/>
+      <Result Irm="SC_IRM$DSQ" ValueType="IRM" Order="538"/>
+    </Athlete>
+    <Athlete Id="1702737" Order="539" ParticipationName="Kelly Moffatt">
+      <NOC Code="CNTR$NZL"/>
+      <Result Irm="SC_IRM$DSQ" ValueType="IRM" Order="539"/>
+    </Athlete>
+    <Athlete Id="1703508" Order="540" ParticipationName="Martin Kvapil">
+      <NOC Code="CNTR$CZE"/>
+      <Result Irm="SC_IRM$DSQ" ValueType="IRM" Order="540"/>
+    </Athlete>
+    <Athlete Id="44637" Order="541" ParticipationName="Svetlana Trunova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Irm="SC_IRM$DSQ" ValueType="IRM" Order="541"/>
+    </Athlete>
+    <Discipline Code="SDIS$SKN" Id="4907" Title="Skeleton">
+      <Competition City="No City" Country="No Country" Id="4" Title="World Cup [mixed] [2005]">
+        <Category>Olympic Qualifier</Category>
+        <Schedule StartDate="2005-01-01 00:00:00" EndDate="2005-01-01 00:00:00"/>
+      </Competition>
+    </Discipline>
+  </EventStandings>
+  <EventStandings CompetitorType="INDIVIDUAL" Gender="SGEN$U" ID="7" Title="Altenberg Women's Skeleton" Type="EVNT$AERUnknown">
+    <Athlete Id="205" Order="1" ParticipationName="Eric Bernotas">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="1" Order="1"/>
+    </Athlete>
+    <Athlete Id="44630" Order="2" ParticipationName="Maya Pedersen">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="1" Order="2"/>
+    </Athlete>
+    <Athlete Id="217" Order="3" ParticipationName="Chris Soule">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="1" Order="3"/>
+    </Athlete>
+    <Athlete Id="44629" Order="4" ParticipationName="Tanja Morel">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="1" Order="4"/>
+    </Athlete>
+    <Athlete Id="208" Order="5" ParticipationName="Duff Gibson">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="1" Order="5"/>
+    </Athlete>
+    <Athlete Id="194299" Order="6" ParticipationName="Kerstin Szymkowiak">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="1" Order="6"/>
+    </Athlete>
+    <Athlete Id="208" Order="7" ParticipationName="Duff Gibson">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="1" Order="7"/>
+    </Athlete>
+    <Athlete Id="194292" Order="8" ParticipationName="Noelle Pikus-Pace">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="1" Order="8"/>
+    </Athlete>
+    <Athlete Id="203" Order="9" ParticipationName="Gregor Staehli">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="1" Order="9"/>
+    </Athlete>
+    <Athlete Id="194292" Order="10" ParticipationName="Noelle Pikus-Pace">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="1" Order="10"/>
+    </Athlete>
+    <Athlete Id="194299" Order="11" ParticipationName="Kerstin Szymkowiak">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="1" Order="11"/>
+    </Athlete>
+    <Athlete Id="209" Order="12" ParticipationName="Jeff Pain">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="1" Order="12"/>
+    </Athlete>
+    <Athlete Id="194292" Order="13" ParticipationName="Noelle Pikus-Pace">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="1" Order="13"/>
+    </Athlete>
+    <Athlete Id="209" Order="14" ParticipationName="Jeff Pain">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="1" Order="14" Value="575" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="194292" Order="15" ParticipationName="Noelle Pikus-Pace">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="1" Order="15" Value="560" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="217" Order="16" ParticipationName="Chris Soule">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="1" Order="16"/>
+    </Athlete>
+    <Athlete Id="209" Order="17" ParticipationName="Jeff Pain">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="2" Order="17"/>
+    </Athlete>
+    <Athlete Id="44632" Order="18" ParticipationName="Katie Uhlaender">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="2" Order="18"/>
+    </Athlete>
+    <Athlete Id="205" Order="19" ParticipationName="Eric Bernotas">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="2" Order="19"/>
+    </Athlete>
+    <Athlete Id="194292" Order="20" ParticipationName="Noelle Pikus-Pace">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="2" Order="20"/>
+    </Athlete>
+    <Athlete Id="1702726" Order="21" ParticipationName="Matthias Biedermann">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="2" Order="21"/>
+    </Athlete>
+    <Athlete Id="44628" Order="22" ParticipationName="Diana Sartor">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="2" Order="22"/>
+    </Athlete>
+    <Athlete Id="1701901" Order="23" ParticipationName="Frank Kleber">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="2" Order="23"/>
+    </Athlete>
+    <Athlete Id="44630" Order="24" ParticipationName="Maya Pedersen">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="2" Order="24"/>
+    </Athlete>
+    <Athlete Id="209" Order="25" ParticipationName="Jeff Pain">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="2" Order="25"/>
+    </Athlete>
+    <Athlete Id="194299" Order="26" ParticipationName="Kerstin Szymkowiak">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="2" Order="26"/>
+    </Athlete>
+    <Athlete Id="208" Order="27" ParticipationName="Duff Gibson">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="2" Order="27"/>
+    </Athlete>
+    <Athlete Id="44630" Order="28" ParticipationName="Maya Pedersen">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="2" Order="28"/>
+    </Athlete>
+    <Athlete Id="203" Order="29" ParticipationName="Gregor Staehli">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="2" Order="29"/>
+    </Athlete>
+    <Athlete Id="1703461" Order="30" ParticipationName="Deanna Panting">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="2" Order="30"/>
+    </Athlete>
+    <Athlete Id="217" Order="31" ParticipationName="Chris Soule">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="2" Order="31" Value="520" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="44630" Order="32" ParticipationName="Maya Pedersen">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="2" Order="32" Value="545" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="51040" Order="33" ParticipationName="Zach Lund">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="3" Order="33"/>
+    </Athlete>
+    <Athlete Id="194292" Order="34" ParticipationName="Noelle Pikus-Pace">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="3" Order="34"/>
+    </Athlete>
+    <Athlete Id="203" Order="35" ParticipationName="Gregor Staehli">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="3" Order="35"/>
+    </Athlete>
+    <Athlete Id="44630" Order="36" ParticipationName="Maya Pedersen">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="3" Order="36"/>
+    </Athlete>
+    <Athlete Id="209" Order="37" ParticipationName="Jeff Pain">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="3" Order="37"/>
+    </Athlete>
+    <Athlete Id="1702733" Order="38" ParticipationName="Monique Riekewald">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="3" Order="38"/>
+    </Athlete>
+    <Athlete Id="217" Order="39" ParticipationName="Chris Soule">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="3" Order="39"/>
+    </Athlete>
+    <Athlete Id="44629" Order="40" ParticipationName="Tanja Morel">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="3" Order="40"/>
+    </Athlete>
+    <Athlete Id="201" Order="41" ParticipationName="Markus Penz">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="3" Order="41"/>
+    </Athlete>
+    <Athlete Id="44628" Order="42" ParticipationName="Diana Sartor">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="3" Order="42"/>
+    </Athlete>
+    <Athlete Id="209" Order="43" ParticipationName="Jeff Pain">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="3" Order="43"/>
+    </Athlete>
+    <Athlete Id="44633" Order="44" ParticipationName="Lindsay Alcock">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="3" Order="44"/>
+    </Athlete>
+    <Athlete Id="217" Order="45" ParticipationName="Chris Soule">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="3" Order="45"/>
+    </Athlete>
+    <Athlete Id="44628" Order="46" ParticipationName="Diana Sartor">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="3" Order="46"/>
+    </Athlete>
+    <Athlete Id="208" Order="47" ParticipationName="Duff Gibson">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="3" Order="47" Value="504" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="194299" Order="48" ParticipationName="Kerstin Szymkowiak">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="3" Order="48" Value="470" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="208" Order="49" ParticipationName="Duff Gibson">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="4" Order="49"/>
+    </Athlete>
+    <Athlete Id="194299" Order="50" ParticipationName="Kerstin Szymkowiak">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="4" Order="50"/>
+    </Athlete>
+    <Athlete Id="1701901" Order="51" ParticipationName="Frank Kleber">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="4" Order="51"/>
+    </Athlete>
+    <Athlete Id="44633" Order="52" ParticipationName="Lindsay Alcock">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="4" Order="52"/>
+    </Athlete>
+    <Athlete Id="51040" Order="53" ParticipationName="Zach Lund">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="4" Order="53"/>
+    </Athlete>
+    <Athlete Id="44629" Order="54" ParticipationName="Tanja Morel">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="4" Order="54"/>
+    </Athlete>
+    <Athlete Id="202" Order="55" ParticipationName="Martin Rettl">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="4" Order="55"/>
+    </Athlete>
+    <Athlete Id="44632" Order="56" ParticipationName="Katie Uhlaender">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="4" Order="56"/>
+    </Athlete>
+    <Athlete Id="1701900" Order="57" ParticipationName="Florian Grassl">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="4" Order="57"/>
+    </Athlete>
+    <Athlete Id="44634" Order="58" ParticipationName="Mellisa Hollingsworth-Richards">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="4" Order="58"/>
+    </Athlete>
+    <Athlete Id="215" Order="59" ParticipationName="Kristan Bromley">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="4" Order="59"/>
+    </Athlete>
+    <Athlete Id="44632" Order="60" ParticipationName="Katie Uhlaender">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="4" Order="60"/>
+    </Athlete>
+    <Athlete Id="194283" Order="61" ParticipationName="Michi Halilovic">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="4" Order="61"/>
+    </Athlete>
+    <Athlete Id="44633" Order="62" ParticipationName="Lindsay Alcock">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="4" Order="62"/>
+    </Athlete>
+    <Athlete Id="203" Order="63" ParticipationName="Gregor Staehli">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="4" Order="63" Value="442" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="44633" Order="64" ParticipationName="Lindsay Alcock">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="4" Order="64" Value="457" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="203" Order="65" ParticipationName="Gregor Staehli">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="5" Order="65"/>
+    </Athlete>
+    <Athlete Id="44633" Order="66" ParticipationName="Lindsay Alcock">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="5" Order="66"/>
+    </Athlete>
+    <Athlete Id="209" Order="67" ParticipationName="Jeff Pain">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="5" Order="67"/>
+    </Athlete>
+    <Athlete Id="1702733" Order="68" ParticipationName="Monique Riekewald">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="5" Order="68"/>
+    </Athlete>
+    <Athlete Id="203" Order="69" ParticipationName="Gregor Staehli">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="5" Order="69"/>
+    </Athlete>
+    <Athlete Id="44634" Order="70" ParticipationName="Mellisa Hollingsworth-Richards">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="5" Order="70"/>
+    </Athlete>
+    <Athlete Id="209" Order="71" ParticipationName="Jeff Pain">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="5" Order="71"/>
+    </Athlete>
+    <Athlete Id="44633" Order="72" ParticipationName="Lindsay Alcock">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="5" Order="72"/>
+    </Athlete>
+    <Athlete Id="202" Order="73" ParticipationName="Martin Rettl">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="5" Order="73"/>
+    </Athlete>
+    <Athlete Id="44633" Order="74" ParticipationName="Lindsay Alcock">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="5" Order="74"/>
+    </Athlete>
+    <Athlete Id="1701901" Order="75" ParticipationName="Frank Kleber">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="5" Order="75"/>
+    </Athlete>
+    <Athlete Id="44628" Order="76" ParticipationName="Diana Sartor">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="5" Order="76"/>
+    </Athlete>
+    <Athlete Id="215" Order="77" ParticipationName="Kristan Bromley">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="5" Order="77"/>
+    </Athlete>
+    <Athlete Id="44630" Order="78" ParticipationName="Maya Pedersen">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="5" Order="78"/>
+    </Athlete>
+    <Athlete Id="51040" Order="79" ParticipationName="Zach Lund">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="5" Order="79" Value="435" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="44628" Order="80" ParticipationName="Diana Sartor">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="5" Order="80" Value="456" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1701901" Order="81" ParticipationName="Frank Kleber">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="6" Order="81"/>
+    </Athlete>
+    <Athlete Id="1701898" Order="82" ParticipationName="Yekaterina Mironova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="6" Order="82"/>
+    </Athlete>
+    <Athlete Id="51040" Order="83" ParticipationName="Zach Lund">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="6" Order="83"/>
+    </Athlete>
+    <Athlete Id="194285" Order="84" ParticipationName="Michelle Kelly">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="6" Order="84"/>
+    </Athlete>
+    <Athlete Id="217" Order="85" ParticipationName="Chris Soule">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="6" Order="85"/>
+    </Athlete>
+    <Athlete Id="44630" Order="86" ParticipationName="Maya Pedersen">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="6" Order="86"/>
+    </Athlete>
+    <Athlete Id="1701900" Order="87" ParticipationName="Florian Grassl">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="6" Order="87"/>
+    </Athlete>
+    <Athlete Id="44628" Order="88" ParticipationName="Diana Sartor">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="6" Order="88"/>
+    </Athlete>
+    <Athlete Id="215" Order="89" ParticipationName="Kristan Bromley">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="6" Order="89"/>
+    </Athlete>
+    <Athlete Id="44630" Order="90" ParticipationName="Maya Pedersen">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="6" Order="90"/>
+    </Athlete>
+    <Athlete Id="1702734" Order="91" ParticipationName="Lea Ann Parsley">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="6" Order="91"/>
+    </Athlete>
+    <Athlete Id="208" Order="92" ParticipationName="Duff Gibson">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="6" Order="92"/>
+    </Athlete>
+    <Athlete Id="44632" Order="93" ParticipationName="Katie Uhlaender">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="6" Order="93"/>
+    </Athlete>
+    <Athlete Id="205" Order="94" ParticipationName="Eric Bernotas">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="6" Order="94" Value="426" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="44632" Order="95" ParticipationName="Katie Uhlaender">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="6" Order="95" Value="431" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="51040" Order="96" ParticipationName="Zach Lund">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="6" Order="96"/>
+    </Athlete>
+    <Athlete Id="217" Order="97" ParticipationName="Chris Soule">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="7" Order="97"/>
+    </Athlete>
+    <Athlete Id="194285" Order="98" ParticipationName="Michelle Kelly">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="7" Order="98"/>
+    </Athlete>
+    <Athlete Id="215" Order="99" ParticipationName="Kristan Bromley">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="7" Order="99"/>
+    </Athlete>
+    <Athlete Id="44634" Order="100" ParticipationName="Mellisa Hollingsworth-Richards">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="7" Order="100"/>
+    </Athlete>
+    <Athlete Id="205" Order="101" ParticipationName="Eric Bernotas">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="7" Order="101"/>
+    </Athlete>
+    <Athlete Id="1702734" Order="102" ParticipationName="Lea Ann Parsley">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="7" Order="102"/>
+    </Athlete>
+    <Athlete Id="215" Order="103" ParticipationName="Kristan Bromley">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="7" Order="103"/>
+    </Athlete>
+    <Athlete Id="194299" Order="104" ParticipationName="Kerstin Szymkowiak">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="7" Order="104"/>
+    </Athlete>
+    <Athlete Id="51040" Order="105" ParticipationName="Zach Lund">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="7" Order="105"/>
+    </Athlete>
+    <Athlete Id="44632" Order="106" ParticipationName="Katie Uhlaender">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="7" Order="106"/>
+    </Athlete>
+    <Athlete Id="1702726" Order="107" ParticipationName="Matthias Biedermann">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="7" Order="107"/>
+    </Athlete>
+    <Athlete Id="44634" Order="108" ParticipationName="Mellisa Hollingsworth-Richards">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="7" Order="108"/>
+    </Athlete>
+    <Athlete Id="51040" Order="109" ParticipationName="Zach Lund">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="7" Order="109"/>
+    </Athlete>
+    <Athlete Id="44634" Order="110" ParticipationName="Mellisa Hollingsworth-Richards">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="7" Order="110"/>
+    </Athlete>
+    <Athlete Id="1701901" Order="111" ParticipationName="Frank Kleber">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="7" Order="111" Value="405" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="44629" Order="112" ParticipationName="Tanja Morel">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="7" Order="112" Value="412" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="194279" Order="113" ParticipationName="Tomass Dukurs">
+      <NOC Code="CNTR$LAT"/>
+      <Result Rank="8" Order="113"/>
+    </Athlete>
+    <Athlete Id="207" Order="114" ParticipationName="Paul Boehm">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="8" Order="114"/>
+    </Athlete>
+    <Athlete Id="44634" Order="115" ParticipationName="Mellisa Hollingsworth-Richards">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="8" Order="115"/>
+    </Athlete>
+    <Athlete Id="1702727" Order="116" ParticipationName="Yuzuru Hanyuda">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="8" Order="116"/>
+    </Athlete>
+    <Athlete Id="44632" Order="117" ParticipationName="Katie Uhlaender">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="8" Order="117"/>
+    </Athlete>
+    <Athlete Id="212" Order="118" ParticipationName="Kazuhiro Koshi">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="8" Order="118"/>
+    </Athlete>
+    <Athlete Id="194285" Order="119" ParticipationName="Michelle Kelly">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="8" Order="119"/>
+    </Athlete>
+    <Athlete Id="51040" Order="120" ParticipationName="Zach Lund">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="8" Order="120"/>
+    </Athlete>
+    <Athlete Id="1702733" Order="121" ParticipationName="Monique Riekewald">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="8" Order="121"/>
+    </Athlete>
+    <Athlete Id="205" Order="122" ParticipationName="Eric Bernotas">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="8" Order="122"/>
+    </Athlete>
+    <Athlete Id="1702733" Order="123" ParticipationName="Monique Riekewald">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="8" Order="123"/>
+    </Athlete>
+    <Athlete Id="212" Order="124" ParticipationName="Kazuhiro Koshi">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="8" Order="124"/>
+    </Athlete>
+    <Athlete Id="1702733" Order="125" ParticipationName="Monique Riekewald">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="8" Order="125"/>
+    </Athlete>
+    <Athlete Id="1701900" Order="126" ParticipationName="Florian Grassl">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="8" Order="126"/>
+    </Athlete>
+    <Athlete Id="194299" Order="127" ParticipationName="Kerstin Szymkowiak">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="8" Order="127"/>
+    </Athlete>
+    <Athlete Id="215" Order="128" ParticipationName="Kristan Bromley">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="8" Order="128" Value="313" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="44634" Order="129" ParticipationName="Mellisa Hollingsworth-Richards">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="8" Order="129" Value="396" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="44629" Order="130" ParticipationName="Tanja Morel">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="9" Order="130"/>
+    </Athlete>
+    <Athlete Id="208" Order="131" ParticipationName="Duff Gibson">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="9" Order="131"/>
+    </Athlete>
+    <Athlete Id="1702735" Order="132" ParticipationName="Kathrine Koczynski">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="9" Order="132"/>
+    </Athlete>
+    <Athlete Id="214" Order="133" ParticipationName="Adam Pengilly">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="9" Order="133"/>
+    </Athlete>
+    <Athlete Id="194292" Order="134" ParticipationName="Noelle Pikus-Pace">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="9" Order="134"/>
+    </Athlete>
+    <Athlete Id="194279" Order="135" ParticipationName="Tomass Dukurs">
+      <NOC Code="CNTR$LAT"/>
+      <Result Rank="9" Order="135"/>
+    </Athlete>
+    <Athlete Id="194285" Order="136" ParticipationName="Michelle Kelly">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="9" Order="136"/>
+    </Athlete>
+    <Athlete Id="217" Order="137" ParticipationName="Chris Soule">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="9" Order="137"/>
+    </Athlete>
+    <Athlete Id="44636" Order="138" ParticipationName="Eiko Nakayama">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="9" Order="138"/>
+    </Athlete>
+    <Athlete Id="205" Order="139" ParticipationName="Eric Bernotas">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="9" Order="139"/>
+    </Athlete>
+    <Athlete Id="194292" Order="140" ParticipationName="Noelle Pikus-Pace">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="9" Order="140"/>
+    </Athlete>
+    <Athlete Id="212" Order="141" ParticipationName="Kazuhiro Koshi">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="9" Order="141"/>
+    </Athlete>
+    <Athlete Id="44629" Order="142" ParticipationName="Tanja Morel">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="9" Order="142"/>
+    </Athlete>
+    <Athlete Id="202" Order="143" ParticipationName="Martin Rettl">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="9" Order="143" Value="261" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702733" Order="144" ParticipationName="Monique Riekewald">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="9" Order="144" Value="370" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1701900" Order="145" ParticipationName="Florian Grassl">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="10" Order="145"/>
+    </Athlete>
+    <Athlete Id="1702734" Order="146" ParticipationName="Lea Ann Parsley">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="10" Order="146"/>
+    </Athlete>
+    <Athlete Id="211" Order="147" ParticipationName="Masaru Inada">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="10" Order="147"/>
+    </Athlete>
+    <Athlete Id="44628" Order="148" ParticipationName="Diana Sartor">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="10" Order="148"/>
+    </Athlete>
+    <Athlete Id="194283" Order="149" ParticipationName="Michi Halilovic">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="10" Order="149"/>
+    </Athlete>
+    <Athlete Id="44633" Order="150" ParticipationName="Lindsay Alcock">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="10" Order="150"/>
+    </Athlete>
+    <Athlete Id="205" Order="151" ParticipationName="Eric Bernotas">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="10" Order="151"/>
+    </Athlete>
+    <Athlete Id="1702734" Order="152" ParticipationName="Lea Ann Parsley">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="10" Order="152"/>
+    </Athlete>
+    <Athlete Id="1701901" Order="153" ParticipationName="Frank Kleber">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="10" Order="153"/>
+    </Athlete>
+    <Athlete Id="1703518" Order="154" ParticipationName="Kathrin Huber">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="10" Order="154"/>
+    </Athlete>
+    <Athlete Id="203" Order="155" ParticipationName="Gregor Staehli">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="10" Order="155"/>
+    </Athlete>
+    <Athlete Id="194285" Order="156" ParticipationName="Michelle Kelly">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="10" Order="156"/>
+    </Athlete>
+    <Athlete Id="1701901" Order="157" ParticipationName="Frank Kleber">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="10" Order="157"/>
+    </Athlete>
+    <Athlete Id="1701898" Order="158" ParticipationName="Yekaterina Mironova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="10" Order="158"/>
+    </Athlete>
+    <Athlete Id="1701900" Order="159" ParticipationName="Florian Grassl">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="10" Order="159" Value="258" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702734" Order="160" ParticipationName="Lea Ann Parsley">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="10" Order="160" Value="300" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="214" Order="161" ParticipationName="Adam Pengilly">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="11" Order="161"/>
+    </Athlete>
+    <Athlete Id="44628" Order="162" ParticipationName="Diana Sartor">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="11" Order="162"/>
+    </Athlete>
+    <Athlete Id="202" Order="163" ParticipationName="Martin Rettl">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="11" Order="163"/>
+    </Athlete>
+    <Athlete Id="1702739" Order="164" ParticipationName="Natsuko Naka">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="11" Order="164"/>
+    </Athlete>
+    <Athlete Id="218" Order="165" ParticipationName="Martins Dukurs">
+      <NOC Code="CNTR$LAT"/>
+      <Result Rank="11" Order="165"/>
+    </Athlete>
+    <Athlete Id="1702736" Order="166" ParticipationName="Dany Locati">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="11" Order="166"/>
+    </Athlete>
+    <Athlete Id="207" Order="167" ParticipationName="Paul Boehm">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="11" Order="167"/>
+    </Athlete>
+    <Athlete Id="44640" Order="168" ParticipationName="Louise Corcoran">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="11" Order="168"/>
+    </Athlete>
+    <Athlete Id="208" Order="169" ParticipationName="Duff Gibson">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="11" Order="169"/>
+    </Athlete>
+    <Athlete Id="44629" Order="170" ParticipationName="Tanja Morel">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="11" Order="170"/>
+    </Athlete>
+    <Athlete Id="214" Order="171" ParticipationName="Adam Pengilly">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="11" Order="171"/>
+    </Athlete>
+    <Athlete Id="1703522" Order="172" ParticipationName="Judith Huber">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="11" Order="172"/>
+    </Athlete>
+    <Athlete Id="205" Order="173" ParticipationName="Eric Bernotas">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="11" Order="173"/>
+    </Athlete>
+    <Athlete Id="1702733" Order="174" ParticipationName="Monique Riekewald">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="11" Order="174"/>
+    </Athlete>
+    <Athlete Id="212" Order="175" ParticipationName="Kazuhiro Koshi">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="11" Order="175" Value="244" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="194285" Order="176" ParticipationName="Michelle Kelly">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="11" Order="176" Value="293" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="206" Order="177" ParticipationName="Kevin Ellis">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="12" Order="177"/>
+    </Athlete>
+    <Athlete Id="1703461" Order="178" ParticipationName="Deanna Panting">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="12" Order="178"/>
+    </Athlete>
+    <Athlete Id="1703501" Order="179" ParticipationName="Koshun Tojo">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="12" Order="179"/>
+    </Athlete>
+    <Athlete Id="44636" Order="180" ParticipationName="Eiko Nakayama">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="12" Order="180"/>
+    </Athlete>
+    <Athlete Id="1701901" Order="181" ParticipationName="Frank Kleber">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="12" Order="181"/>
+    </Athlete>
+    <Athlete Id="44632" Order="182" ParticipationName="Katie Uhlaender">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="12" Order="182"/>
+    </Athlete>
+    <Athlete Id="194283" Order="183" ParticipationName="Michi Halilovic">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="12" Order="183"/>
+    </Athlete>
+    <Athlete Id="44634" Order="184" ParticipationName="Mellisa Hollingsworth-Richards">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="12" Order="184"/>
+    </Athlete>
+    <Athlete Id="211" Order="185" ParticipationName="Masaru Inada">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="12" Order="185"/>
+    </Athlete>
+    <Athlete Id="1703522" Order="186" ParticipationName="Judith Huber">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="12" Order="186"/>
+    </Athlete>
+    <Athlete Id="1701900" Order="187" ParticipationName="Florian Grassl">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="12" Order="187"/>
+    </Athlete>
+    <Athlete Id="1703513" Order="188" ParticipationName="Sylvia Liebscher">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="12" Order="188"/>
+    </Athlete>
+    <Athlete Id="1702749" Order="189" ParticipationName="Caleb Smith">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="12" Order="189"/>
+    </Athlete>
+    <Athlete Id="44624" Order="190" ParticipationName="Desiree Bjerke">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="12" Order="190"/>
+    </Athlete>
+    <Athlete Id="1702726" Order="191" ParticipationName="Matthias Biedermann">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="12" Order="191" Value="228" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703461" Order="192" ParticipationName="Deanna Panting">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="12" Order="192" Value="270" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="218" Order="193" ParticipationName="Martins Dukurs">
+      <NOC Code="CNTR$LAT"/>
+      <Result Rank="13" Order="193"/>
+    </Athlete>
+    <Athlete Id="1702733" Order="194" ParticipationName="Monique Riekewald">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="13" Order="194"/>
+    </Athlete>
+    <Athlete Id="206" Order="195" ParticipationName="Kevin Ellis">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="13" Order="195"/>
+    </Athlete>
+    <Athlete Id="1703461" Order="196" ParticipationName="Deanna Panting">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="13" Order="196"/>
+    </Athlete>
+    <Athlete Id="201" Order="197" ParticipationName="Markus Penz">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="13" Order="197"/>
+    </Athlete>
+    <Athlete Id="1702735" Order="198" ParticipationName="Kathrine Koczynski">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="13" Order="198"/>
+    </Athlete>
+    <Athlete Id="212" Order="199" ParticipationName="Kazuhiro Koshi">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="13" Order="199"/>
+    </Athlete>
+    <Athlete Id="1703461" Order="200" ParticipationName="Deanna Panting">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="13" Order="200"/>
+    </Athlete>
+    <Athlete Id="194283" Order="201" ParticipationName="Michi Halilovic">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="13" Order="201"/>
+    </Athlete>
+    <Athlete Id="1702734" Order="202" ParticipationName="Lea Ann Parsley">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="13" Order="202"/>
+    </Athlete>
+    <Athlete Id="204" Order="203" ParticipationName="Philippe Cavoret">
+      <NOC Code="CNTR$FRA"/>
+      <Result Rank="13" Order="203"/>
+    </Athlete>
+    <Athlete Id="44629" Order="204" ParticipationName="Tanja Morel">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="13" Order="204"/>
+    </Athlete>
+    <Athlete Id="1702726" Order="205" ParticipationName="Matthias Biedermann">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="13" Order="205"/>
+    </Athlete>
+    <Athlete Id="1702734" Order="206" ParticipationName="Lea Ann Parsley">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="13" Order="206"/>
+    </Athlete>
+    <Athlete Id="194283" Order="207" ParticipationName="Michi Halilovic">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="13" Order="207" Value="225" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1701898" Order="208" ParticipationName="Yekaterina Mironova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="13" Order="208" Value="209" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="212" Order="209" ParticipationName="Kazuhiro Koshi">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="14" Order="209"/>
+    </Athlete>
+    <Athlete Id="44640" Order="210" ParticipationName="Louise Corcoran">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="14" Order="210"/>
+    </Athlete>
+    <Athlete Id="1702756" Order="211" ParticipationName="Urs Vescoli">
+      <NOC Code="CNTR$AUS"/>
+      <Result Rank="14" Order="211"/>
+    </Athlete>
+    <Athlete Id="1702734" Order="212" ParticipationName="Lea Ann Parsley">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="14" Order="212"/>
+    </Athlete>
+    <Athlete Id="211" Order="213" ParticipationName="Masaru Inada">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="14" Order="213"/>
+    </Athlete>
+    <Athlete Id="44635" Order="214" ParticipationName="Costanza Zanoletti">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="14" Order="214"/>
+    </Athlete>
+    <Athlete Id="218" Order="215" ParticipationName="Martins Dukurs">
+      <NOC Code="CNTR$LAT"/>
+      <Result Rank="14" Order="215"/>
+    </Athlete>
+    <Athlete Id="44636" Order="216" ParticipationName="Eiko Nakayama">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="14" Order="216"/>
+    </Athlete>
+    <Athlete Id="225" Order="217" ParticipationName="Ben Sandford">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="14" Order="217"/>
+    </Athlete>
+    <Athlete Id="1703461" Order="218" ParticipationName="Deanna Panting">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="14" Order="218"/>
+    </Athlete>
+    <Athlete Id="1702749" Order="219" ParticipationName="Caleb Smith">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="14" Order="219"/>
+    </Athlete>
+    <Athlete Id="1701899" Order="220" ParticipationName="Tristan Gale">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="14" Order="220"/>
+    </Athlete>
+    <Athlete Id="202" Order="221" ParticipationName="Martin Rettl">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="14" Order="221"/>
+    </Athlete>
+    <Athlete Id="1703518" Order="222" ParticipationName="Kathrin Huber">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="14" Order="222"/>
+    </Athlete>
+    <Athlete Id="201" Order="223" ParticipationName="Markus Penz">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="14" Order="223" Value="219" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="44636" Order="224" ParticipationName="Eiko Nakayama">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="14" Order="224" Value="200" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="202" Order="225" ParticipationName="Martin Rettl">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="15" Order="225"/>
+    </Athlete>
+    <Athlete Id="44636" Order="226" ParticipationName="Eiko Nakayama">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="15" Order="226"/>
+    </Athlete>
+    <Athlete Id="1702725" Order="227" ParticipationName="Kelly Forbes">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="15" Order="227"/>
+    </Athlete>
+    <Athlete Id="521779" Order="228" ParticipationName="Marion Thees-Trott">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="15" Order="228"/>
+    </Athlete>
+    <Athlete Id="1702725" Order="229" ParticipationName="Kelly Forbes">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="15" Order="229"/>
+    </Athlete>
+    <Athlete Id="1702739" Order="230" ParticipationName="Natsuko Naka">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="15" Order="230"/>
+    </Athlete>
+    <Athlete Id="211" Order="231" ParticipationName="Masaru Inada">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="15" Order="231"/>
+    </Athlete>
+    <Athlete Id="1701898" Order="232" ParticipationName="Yekaterina Mironova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="15" Order="232"/>
+    </Athlete>
+    <Athlete Id="207" Order="233" ParticipationName="Paul Boehm">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="15" Order="233"/>
+    </Athlete>
+    <Athlete Id="44640" Order="234" ParticipationName="Louise Corcoran">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="15" Order="234"/>
+    </Athlete>
+    <Athlete Id="194279" Order="235" ParticipationName="Tomass Dukurs">
+      <NOC Code="CNTR$LAT"/>
+      <Result Rank="15" Order="235"/>
+    </Athlete>
+    <Athlete Id="1703518" Order="236" ParticipationName="Kathrin Huber">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="15" Order="236"/>
+    </Athlete>
+    <Athlete Id="211" Order="237" ParticipationName="Masaru Inada">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="15" Order="237"/>
+    </Athlete>
+    <Athlete Id="1703513" Order="238" ParticipationName="Sylvia Liebscher">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="15" Order="238"/>
+    </Athlete>
+    <Athlete Id="214" Order="239" ParticipationName="Adam Pengilly">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="15" Order="239" Value="218" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="44640" Order="240" ParticipationName="Louise Corcoran">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="15" Order="240" Value="162" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702729" Order="241" ParticipationName="Cedric Tamani">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="16" Order="241"/>
+    </Athlete>
+    <Athlete Id="1702735" Order="242" ParticipationName="Kathrine Koczynski">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="16" Order="242"/>
+    </Athlete>
+    <Athlete Id="201" Order="243" ParticipationName="Markus Penz">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="16" Order="243"/>
+    </Athlete>
+    <Athlete Id="44638" Order="244" ParticipationName="Shelley Rudman">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="16" Order="244"/>
+    </Athlete>
+    <Athlete Id="204" Order="245" ParticipationName="Philippe Cavoret">
+      <NOC Code="CNTR$FRA"/>
+      <Result Rank="16" Order="245"/>
+    </Athlete>
+    <Athlete Id="1703461" Order="246" ParticipationName="Deanna Panting">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="16" Order="246"/>
+    </Athlete>
+    <Athlete Id="204" Order="247" ParticipationName="Philippe Cavoret">
+      <NOC Code="CNTR$FRA"/>
+      <Result Rank="16" Order="247"/>
+    </Athlete>
+    <Athlete Id="44638" Order="248" ParticipationName="Shelley Rudman">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="16" Order="248"/>
+    </Athlete>
+    <Athlete Id="212" Order="249" ParticipationName="Kazuhiro Koshi">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="16" Order="249"/>
+    </Athlete>
+    <Athlete Id="1701898" Order="250" ParticipationName="Yekaterina Mironova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="16" Order="250"/>
+    </Athlete>
+    <Athlete Id="194283" Order="251" ParticipationName="Michi Halilovic">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="16" Order="251"/>
+    </Athlete>
+    <Athlete Id="1703509" Order="252" ParticipationName="Alexandra Gruenberger">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="16" Order="252"/>
+    </Athlete>
+    <Athlete Id="201" Order="253" ParticipationName="Markus Penz">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="16" Order="253"/>
+    </Athlete>
+    <Athlete Id="44635" Order="254" ParticipationName="Costanza Zanoletti">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="16" Order="254"/>
+    </Athlete>
+    <Athlete Id="211" Order="255" ParticipationName="Masaru Inada">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="16" Order="255" Value="194" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702739" Order="256" ParticipationName="Natsuko Naka">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="16" Order="256" Value="140" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="201" Order="257" ParticipationName="Markus Penz">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="17" Order="257"/>
+    </Athlete>
+    <Athlete Id="1703462" Order="258" ParticipationName="Kathleen Lorenz">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="17" Order="258"/>
+    </Athlete>
+    <Athlete Id="194279" Order="259" ParticipationName="Tomass Dukurs">
+      <NOC Code="CNTR$LAT"/>
+      <Result Rank="17" Order="259"/>
+    </Athlete>
+    <Athlete Id="1701898" Order="260" ParticipationName="Yekaterina Mironova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="17" Order="260"/>
+    </Athlete>
+    <Athlete Id="1702729" Order="261" ParticipationName="Cedric Tamani">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="17" Order="261"/>
+    </Athlete>
+    <Athlete Id="44624" Order="262" ParticipationName="Desiree Bjerke">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="17" Order="262"/>
+    </Athlete>
+    <Athlete Id="201" Order="263" ParticipationName="Markus Penz">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="17" Order="263"/>
+    </Athlete>
+    <Athlete Id="1702801" Order="264" ParticipationName="Julia Eichhorn">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="17" Order="264"/>
+    </Athlete>
+    <Athlete Id="1702728" Order="265" ParticipationName="Alberto Polacchi">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="17" Order="265"/>
+    </Athlete>
+    <Athlete Id="1702736" Order="266" ParticipationName="Dany Locati">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="17" Order="266"/>
+    </Athlete>
+    <Athlete Id="1703501" Order="267" ParticipationName="Koshun Tojo">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="17" Order="267"/>
+    </Athlete>
+    <Athlete Id="1703461" Order="268" ParticipationName="Deanna Panting">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="17" Order="268"/>
+    </Athlete>
+    <Athlete Id="207" Order="269" ParticipationName="Paul Boehm">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="17" Order="269"/>
+    </Athlete>
+    <Athlete Id="44636" Order="270" ParticipationName="Eiko Nakayama">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="17" Order="270"/>
+    </Athlete>
+    <Athlete Id="207" Order="271" ParticipationName="Paul Boehm">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="17" Order="271" Value="166" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703518" Order="272" ParticipationName="Kathrin Huber">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="17" Order="272" Value="122" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702726" Order="273" ParticipationName="Matthias Biedermann">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="18" Order="273"/>
+    </Athlete>
+    <Athlete Id="1702739" Order="274" ParticipationName="Natsuko Naka">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="18" Order="274"/>
+    </Athlete>
+    <Athlete Id="200" Order="275" ParticipationName="Frank Rommel">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="18" Order="275"/>
+    </Athlete>
+    <Athlete Id="44640" Order="276" ParticipationName="Louise Corcoran">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="18" Order="276"/>
+    </Athlete>
+    <Athlete Id="1702727" Order="277" ParticipationName="Yuzuru Hanyuda">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="18" Order="277"/>
+    </Athlete>
+    <Athlete Id="44636" Order="278" ParticipationName="Eiko Nakayama">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="18" Order="278"/>
+    </Athlete>
+    <Athlete Id="1702749" Order="279" ParticipationName="Caleb Smith">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="18" Order="279"/>
+    </Athlete>
+    <Athlete Id="1703518" Order="280" ParticipationName="Kathrin Huber">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="18" Order="280"/>
+    </Athlete>
+    <Athlete Id="1702749" Order="281" ParticipationName="Caleb Smith">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="18" Order="281"/>
+    </Athlete>
+    <Athlete Id="44624" Order="282" ParticipationName="Desiree Bjerke">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="18" Order="282"/>
+    </Athlete>
+    <Athlete Id="211" Order="283" ParticipationName="Masaru Inada">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="18" Order="283"/>
+    </Athlete>
+    <Athlete Id="44636" Order="284" ParticipationName="Eiko Nakayama">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="18" Order="284"/>
+    </Athlete>
+    <Athlete Id="1703501" Order="285" ParticipationName="Koshun Tojo">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="18" Order="285"/>
+    </Athlete>
+    <Athlete Id="194285" Order="286" ParticipationName="Michelle Kelly">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="18" Order="286"/>
+    </Athlete>
+    <Athlete Id="194279" Order="287" ParticipationName="Tomass Dukurs">
+      <NOC Code="CNTR$LAT"/>
+      <Result Rank="18" Order="287" Value="154" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702735" Order="288" ParticipationName="Kathrine Koczynski">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="18" Order="288" Value="104" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="194283" Order="289" ParticipationName="Michi Halilovic">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="19" Order="289"/>
+    </Athlete>
+    <Athlete Id="194298" Order="290" ParticipationName="Tionette Stoddard">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="19" Order="290"/>
+    </Athlete>
+    <Athlete Id="218" Order="291" ParticipationName="Martins Dukurs">
+      <NOC Code="CNTR$LAT"/>
+      <Result Rank="19" Order="291"/>
+    </Athlete>
+    <Athlete Id="44624" Order="292" ParticipationName="Desiree Bjerke">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="19" Order="292"/>
+    </Athlete>
+    <Athlete Id="202" Order="293" ParticipationName="Martin Rettl">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="19" Order="293"/>
+    </Athlete>
+    <Athlete Id="1701898" Order="294" ParticipationName="Yekaterina Mironova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="19" Order="294"/>
+    </Athlete>
+    <Athlete Id="1702726" Order="295" ParticipationName="Matthias Biedermann">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="19" Order="295"/>
+    </Athlete>
+    <Athlete Id="1703517" Order="296" ParticipationName="Alexandra Lapshova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="19" Order="296"/>
+    </Athlete>
+    <Athlete Id="1329817" Order="297" ParticipationName="Alexander Tretiakov">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="19" Order="297"/>
+    </Athlete>
+    <Athlete Id="194285" Order="298" ParticipationName="Michelle Kelly">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="19" Order="298"/>
+    </Athlete>
+    <Athlete Id="1702756" Order="299" ParticipationName="Urs Vescoli">
+      <NOC Code="CNTR$AUS"/>
+      <Result Rank="19" Order="299"/>
+    </Athlete>
+    <Athlete Id="1703510" Order="300" ParticipationName="Michella Wichmann-Moeller">
+      <NOC Code="CNTR$DEN"/>
+      <Result Rank="19" Order="300"/>
+    </Athlete>
+    <Athlete Id="216" Order="301" ParticipationName="Shaun Boyle">
+      <NOC Code="CNTR$AUS"/>
+      <Result Rank="19" Order="301"/>
+    </Athlete>
+    <Athlete Id="1701899" Order="302" ParticipationName="Tristan Gale">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="19" Order="302"/>
+    </Athlete>
+    <Athlete Id="204" Order="303" ParticipationName="Philippe Cavoret">
+      <NOC Code="CNTR$FRA"/>
+      <Result Rank="19" Order="303" Value="140" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="44624" Order="304" ParticipationName="Desiree Bjerke">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="19" Order="304" Value="99" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="204" Order="305" ParticipationName="Philippe Cavoret">
+      <NOC Code="CNTR$FRA"/>
+      <Result Rank="20" Order="305"/>
+    </Athlete>
+    <Athlete Id="1702738" Order="306" ParticipationName="Anna Shevtsova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="20" Order="306"/>
+    </Athlete>
+    <Athlete Id="204" Order="307" ParticipationName="Philippe Cavoret">
+      <NOC Code="CNTR$FRA"/>
+      <Result Rank="20" Order="307"/>
+    </Athlete>
+    <Athlete Id="44635" Order="308" ParticipationName="Costanza Zanoletti">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="20" Order="308"/>
+    </Athlete>
+    <Athlete Id="207" Order="309" ParticipationName="Paul Boehm">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="20" Order="309"/>
+    </Athlete>
+    <Athlete Id="1703509" Order="310" ParticipationName="Alexandra Gruenberger">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="20" Order="310"/>
+    </Athlete>
+    <Athlete Id="1703501" Order="311" ParticipationName="Koshun Tojo">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="20" Order="311"/>
+    </Athlete>
+    <Athlete Id="1702739" Order="312" ParticipationName="Natsuko Naka">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="20" Order="312"/>
+    </Athlete>
+    <Athlete Id="1703501" Order="313" ParticipationName="Koshun Tojo">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="20" Order="313"/>
+    </Athlete>
+    <Athlete Id="1702801" Order="314" ParticipationName="Julia Eichhorn">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="20" Order="314"/>
+    </Athlete>
+    <Athlete Id="218" Order="315" ParticipationName="Martins Dukurs">
+      <NOC Code="CNTR$LAT"/>
+      <Result Rank="20" Order="315"/>
+    </Athlete>
+    <Athlete Id="44640" Order="316" ParticipationName="Louise Corcoran">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="20" Order="316"/>
+    </Athlete>
+    <Athlete Id="204" Order="317" ParticipationName="Philippe Cavoret">
+      <NOC Code="CNTR$FRA"/>
+      <Result Rank="20" Order="317"/>
+    </Athlete>
+    <Athlete Id="44640" Order="318" ParticipationName="Louise Corcoran">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="20" Order="318"/>
+    </Athlete>
+    <Athlete Id="218" Order="319" ParticipationName="Martins Dukurs">
+      <NOC Code="CNTR$LAT"/>
+      <Result Rank="20" Order="319" Value="139" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703522" Order="320" ParticipationName="Judith Huber">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="20" Order="320" Value="95" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702816" Order="321" ParticipationName="Stefan Moerker">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="21" Order="321"/>
+    </Athlete>
+    <Athlete Id="214" Order="322" ParticipationName="Adam Pengilly">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="21" Order="322"/>
+    </Athlete>
+    <Athlete Id="44637" Order="323" ParticipationName="Svetlana Trunova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="21" Order="323"/>
+    </Athlete>
+    <Athlete Id="1702732" Order="324" ParticipationName="Dirk Matschenz">
+      <NOC Code="CNTR$NED"/>
+      <Result Rank="21" Order="324"/>
+    </Athlete>
+    <Athlete Id="214" Order="325" ParticipationName="Adam Pengilly">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="21" Order="325"/>
+    </Athlete>
+    <Athlete Id="1702756" Order="326" ParticipationName="Urs Vescoli">
+      <NOC Code="CNTR$AUS"/>
+      <Result Rank="21" Order="326"/>
+    </Athlete>
+    <Athlete Id="1702739" Order="327" ParticipationName="Natsuko Naka">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="21" Order="327"/>
+    </Athlete>
+    <Athlete Id="1703516" Order="328" ParticipationName="Nathan Cicoria">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="21" Order="328"/>
+    </Athlete>
+    <Athlete Id="1701898" Order="329" ParticipationName="Yekaterina Mironova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="21" Order="329"/>
+    </Athlete>
+    <Athlete Id="1702728" Order="330" ParticipationName="Alberto Polacchi">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="21" Order="330"/>
+    </Athlete>
+    <Athlete Id="1702739" Order="331" ParticipationName="Natsuko Naka">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="21" Order="331"/>
+    </Athlete>
+    <Athlete Id="1703501" Order="332" ParticipationName="Koshun Tojo">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="21" Order="332" Value="120" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702736" Order="333" ParticipationName="Dany Locati">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="21" Order="333" Value="85" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="44640" Order="334" ParticipationName="Louise Corcoran">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="21" Order="334"/>
+    </Athlete>
+    <Athlete Id="1702736" Order="335" ParticipationName="Dany Locati">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="21" Order="335"/>
+    </Athlete>
+    <Athlete Id="211" Order="336" ParticipationName="Masaru Inada">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="22" Order="336"/>
+    </Athlete>
+    <Athlete Id="1703503" Order="337" ParticipationName="Helge Grande Staerk">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="22" Order="337"/>
+    </Athlete>
+    <Athlete Id="1702738" Order="338" ParticipationName="Anna Shevtsova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="22" Order="338"/>
+    </Athlete>
+    <Athlete Id="1703511" Order="339" ParticipationName="Snorre Pedersen">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="22" Order="339"/>
+    </Athlete>
+    <Athlete Id="1702823" Order="340" ParticipationName="Jessica Kilian">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="22" Order="340"/>
+    </Athlete>
+    <Athlete Id="194268" Order="341" ParticipationName="Sergey Chudinov">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="22" Order="341"/>
+    </Athlete>
+    <Athlete Id="1702726" Order="342" ParticipationName="Matthias Biedermann">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="22" Order="342"/>
+    </Athlete>
+    <Athlete Id="1701899" Order="343" ParticipationName="Tristan Gale">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="22" Order="343"/>
+    </Athlete>
+    <Athlete Id="202" Order="344" ParticipationName="Martin Rettl">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="22" Order="344"/>
+    </Athlete>
+    <Athlete Id="1702738" Order="345" ParticipationName="Anna Shevtsova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="22" Order="345"/>
+    </Athlete>
+    <Athlete Id="1702732" Order="346" ParticipationName="Dirk Matschenz">
+      <NOC Code="CNTR$NED"/>
+      <Result Rank="22" Order="346"/>
+    </Athlete>
+    <Athlete Id="1702738" Order="347" ParticipationName="Anna Shevtsova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="22" Order="347"/>
+    </Athlete>
+    <Athlete Id="1702749" Order="348" ParticipationName="Caleb Smith">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="22" Order="348" Value="109" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="44635" Order="349" ParticipationName="Costanza Zanoletti">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="22" Order="349" Value="78" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703522" Order="350" ParticipationName="Judith Huber">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="22" Order="350"/>
+    </Athlete>
+    <Athlete Id="1702727" Order="351" ParticipationName="Yuzuru Hanyuda">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="23" Order="351"/>
+    </Athlete>
+    <Athlete Id="212" Order="352" ParticipationName="Kazuhiro Koshi">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="23" Order="352"/>
+    </Athlete>
+    <Athlete Id="1702736" Order="353" ParticipationName="Dany Locati">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="23" Order="353"/>
+    </Athlete>
+    <Athlete Id="1703501" Order="354" ParticipationName="Koshun Tojo">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="23" Order="354"/>
+    </Athlete>
+    <Athlete Id="1703513" Order="355" ParticipationName="Sylvia Liebscher">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="23" Order="355"/>
+    </Athlete>
+    <Athlete Id="1702731" Order="356" ParticipationName="Konstantin Aladashvili">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="23" Order="356"/>
+    </Athlete>
+    <Athlete Id="194279" Order="357" ParticipationName="Tomass Dukurs">
+      <NOC Code="CNTR$LAT"/>
+      <Result Rank="23" Order="357"/>
+    </Athlete>
+    <Athlete Id="1703509" Order="358" ParticipationName="Alexandra Gruenberger">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="23" Order="358"/>
+    </Athlete>
+    <Athlete Id="201" Order="359" ParticipationName="Markus Penz">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="23" Order="359"/>
+    </Athlete>
+    <Athlete Id="1702739" Order="360" ParticipationName="Natsuko Naka">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="23" Order="360"/>
+    </Athlete>
+    <Athlete Id="194268" Order="361" ParticipationName="Sergey Chudinov">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="23" Order="361"/>
+    </Athlete>
+    <Athlete Id="1703509" Order="362" ParticipationName="Alexandra Gruenberger">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="23" Order="362"/>
+    </Athlete>
+    <Athlete Id="1702727" Order="363" ParticipationName="Yuzuru Hanyuda">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="23" Order="363" Value="80" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703513" Order="364" ParticipationName="Sylvia Liebscher">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="23" Order="364" Value="73" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1701899" Order="365" ParticipationName="Tristan Gale">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="23" Order="365"/>
+    </Athlete>
+    <Athlete Id="1702731" Order="366" ParticipationName="Konstantin Aladashvili">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="24" Order="366"/>
+    </Athlete>
+    <Athlete Id="194268" Order="367" ParticipationName="Sergey Chudinov">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="24" Order="367"/>
+    </Athlete>
+    <Athlete Id="1703509" Order="368" ParticipationName="Alexandra Gruenberger">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="24" Order="368"/>
+    </Athlete>
+    <Athlete Id="215" Order="369" ParticipationName="Kristan Bromley">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="24" Order="369"/>
+    </Athlete>
+    <Athlete Id="44638" Order="370" ParticipationName="Shelley Rudman">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="24" Order="370"/>
+    </Athlete>
+    <Athlete Id="1702728" Order="371" ParticipationName="Alberto Polacchi">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="24" Order="371"/>
+    </Athlete>
+    <Athlete Id="216" Order="372" ParticipationName="Shaun Boyle">
+      <NOC Code="CNTR$AUS"/>
+      <Result Rank="24" Order="372"/>
+    </Athlete>
+    <Athlete Id="1702823" Order="373" ParticipationName="Jessica Kilian">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="24" Order="373"/>
+    </Athlete>
+    <Athlete Id="194294" Order="374" ParticipationName="Gregory Saint-Genies">
+      <NOC Code="CNTR$FRA"/>
+      <Result Rank="24" Order="374"/>
+    </Athlete>
+    <Athlete Id="1702823" Order="375" ParticipationName="Jessica Kilian">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="24" Order="375"/>
+    </Athlete>
+    <Athlete Id="1703516" Order="376" ParticipationName="Nathan Cicoria">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="24" Order="376"/>
+    </Athlete>
+    <Athlete Id="1703522" Order="377" ParticipationName="Judith Huber">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="24" Order="377"/>
+    </Athlete>
+    <Athlete Id="206" Order="378" ParticipationName="Kevin Ellis">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="24" Order="378" Value="72" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702738" Order="379" ParticipationName="Anna Shevtsova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="24" Order="379" Value="71" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702738" Order="380" ParticipationName="Anna Shevtsova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="24" Order="380"/>
+    </Athlete>
+    <Athlete Id="1702725" Order="381" ParticipationName="Kelly Forbes">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="25" Order="381"/>
+    </Athlete>
+    <Athlete Id="207" Order="382" ParticipationName="Paul Boehm">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="25" Order="382"/>
+    </Athlete>
+    <Athlete Id="1703510" Order="383" ParticipationName="Michella Wichmann-Moeller">
+      <NOC Code="CNTR$DEN"/>
+      <Result Rank="25" Order="383"/>
+    </Athlete>
+    <Athlete Id="1702816" Order="384" ParticipationName="Stefan Moerker">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="25" Order="384"/>
+    </Athlete>
+    <Athlete Id="1702737" Order="385" ParticipationName="Kelly Moffatt">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="25" Order="385"/>
+    </Athlete>
+    <Athlete Id="1703515" Order="386" ParticipationName="Hiroyuki Bamba">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="25" Order="386"/>
+    </Athlete>
+    <Athlete Id="204" Order="387" ParticipationName="Philippe Cavoret">
+      <NOC Code="CNTR$FRA"/>
+      <Result Rank="25" Order="387"/>
+    </Athlete>
+    <Athlete Id="1702738" Order="388" ParticipationName="Anna Shevtsova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="25" Order="388"/>
+    </Athlete>
+    <Athlete Id="207" Order="389" ParticipationName="Paul Boehm">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="25" Order="389"/>
+    </Athlete>
+    <Athlete Id="44635" Order="390" ParticipationName="Costanza Zanoletti">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="25" Order="390"/>
+    </Athlete>
+    <Athlete Id="1703511" Order="391" ParticipationName="Snorre Pedersen">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="25" Order="391"/>
+    </Athlete>
+    <Athlete Id="44637" Order="392" ParticipationName="Svetlana Trunova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="25" Order="392"/>
+    </Athlete>
+    <Athlete Id="1702725" Order="393" ParticipationName="Kelly Forbes">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="25" Order="393" Value="66" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1701899" Order="394" ParticipationName="Tristan Gale">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="25" Order="394" Value="70" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="44637" Order="395" ParticipationName="Svetlana Trunova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="25" Order="395"/>
+    </Athlete>
+    <Athlete Id="1329817" Order="396" ParticipationName="Alexander Tretiakov">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="26" Order="396"/>
+    </Athlete>
+    <Athlete Id="194294" Order="397" ParticipationName="Gregory Saint-Genies">
+      <NOC Code="CNTR$FRA"/>
+      <Result Rank="26" Order="397"/>
+    </Athlete>
+    <Athlete Id="194299" Order="398" ParticipationName="Kerstin Szymkowiak">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="26" Order="398"/>
+    </Athlete>
+    <Athlete Id="194294" Order="399" ParticipationName="Gregory Saint-Genies">
+      <NOC Code="CNTR$FRA"/>
+      <Result Rank="26" Order="399"/>
+    </Athlete>
+    <Athlete Id="1702738" Order="400" ParticipationName="Anna Shevtsova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="26" Order="400"/>
+    </Athlete>
+    <Athlete Id="1703516" Order="401" ParticipationName="Nathan Cicoria">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="26" Order="401"/>
+    </Athlete>
+    <Athlete Id="1703516" Order="402" ParticipationName="Nathan Cicoria">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="26" Order="402"/>
+    </Athlete>
+    <Athlete Id="44637" Order="403" ParticipationName="Svetlana Trunova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="26" Order="403"/>
+    </Athlete>
+    <Athlete Id="1702729" Order="404" ParticipationName="Cedric Tamani">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="26" Order="404"/>
+    </Athlete>
+    <Athlete Id="1702737" Order="405" ParticipationName="Kelly Moffatt">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="26" Order="405"/>
+    </Athlete>
+    <Athlete Id="1702756" Order="406" ParticipationName="Urs Vescoli">
+      <NOC Code="CNTR$AUS"/>
+      <Result Rank="26" Order="406" Value="66" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703509" Order="407" ParticipationName="Alexandra Gruenberger">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="26" Order="407" Value="70" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703511" Order="408" ParticipationName="Snorre Pedersen">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="26" Order="408"/>
+    </Athlete>
+    <Athlete Id="1702737" Order="409" ParticipationName="Kelly Moffatt">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="26" Order="409"/>
+    </Athlete>
+    <Athlete Id="216" Order="410" ParticipationName="Shaun Boyle">
+      <NOC Code="CNTR$AUS"/>
+      <Result Rank="27" Order="410"/>
+    </Athlete>
+    <Athlete Id="1702732" Order="411" ParticipationName="Dirk Matschenz">
+      <NOC Code="CNTR$NED"/>
+      <Result Rank="27" Order="411"/>
+    </Athlete>
+    <Athlete Id="1703512" Order="412" ParticipationName="Eric Gaulin">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="27" Order="412"/>
+    </Athlete>
+    <Athlete Id="194302" Order="413" ParticipationName="Amy Williams">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="27" Order="413"/>
+    </Athlete>
+    <Athlete Id="1703503" Order="414" ParticipationName="Helge Grande Staerk">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="27" Order="414"/>
+    </Athlete>
+    <Athlete Id="1702731" Order="415" ParticipationName="Konstantin Aladashvili">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="27" Order="415"/>
+    </Athlete>
+    <Athlete Id="1703510" Order="416" ParticipationName="Michella Wichmann-Moeller">
+      <NOC Code="CNTR$DEN"/>
+      <Result Rank="27" Order="416"/>
+    </Athlete>
+    <Athlete Id="194268" Order="417" ParticipationName="Sergey Chudinov">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="27" Order="417"/>
+    </Athlete>
+    <Athlete Id="1702737" Order="418" ParticipationName="Kelly Moffatt">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="27" Order="418"/>
+    </Athlete>
+    <Athlete Id="1703515" Order="419" ParticipationName="Hiroyuki Bamba">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="27" Order="419"/>
+    </Athlete>
+    <Athlete Id="1702823" Order="420" ParticipationName="Jessica Kilian">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="27" Order="420"/>
+    </Athlete>
+    <Athlete Id="1702729" Order="421" ParticipationName="Cedric Tamani">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="27" Order="421" Value="56" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="44638" Order="422" ParticipationName="Shelley Rudman">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="27" Order="422" Value="60" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="216" Order="423" ParticipationName="Shaun Boyle">
+      <NOC Code="CNTR$AUS"/>
+      <Result Rank="28" Order="423"/>
+    </Athlete>
+    <Athlete Id="206" Order="424" ParticipationName="Kevin Ellis">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="28" Order="424"/>
+    </Athlete>
+    <Athlete Id="194298" Order="425" ParticipationName="Tionette Stoddard">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="28" Order="425"/>
+    </Athlete>
+    <Athlete Id="1703512" Order="426" ParticipationName="Eric Gaulin">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="28" Order="426"/>
+    </Athlete>
+    <Athlete Id="1703512" Order="427" ParticipationName="Eric Gaulin">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="28" Order="427"/>
+    </Athlete>
+    <Athlete Id="1702737" Order="428" ParticipationName="Kelly Moffatt">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="28" Order="428"/>
+    </Athlete>
+    <Athlete Id="1702729" Order="429" ParticipationName="Cedric Tamani">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="28" Order="429"/>
+    </Athlete>
+    <Athlete Id="44624" Order="430" ParticipationName="Desiree Bjerke">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="28" Order="430"/>
+    </Athlete>
+    <Athlete Id="1702756" Order="431" ParticipationName="Urs Vescoli">
+      <NOC Code="CNTR$AUS"/>
+      <Result Rank="28" Order="431"/>
+    </Athlete>
+    <Athlete Id="1703510" Order="432" ParticipationName="Michella Wichmann-Moeller">
+      <NOC Code="CNTR$DEN"/>
+      <Result Rank="28" Order="432"/>
+    </Athlete>
+    <Athlete Id="194268" Order="433" ParticipationName="Sergey Chudinov">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="28" Order="433" Value="52" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="44637" Order="434" ParticipationName="Svetlana Trunova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="28" Order="434" Value="45" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703502" Order="435" ParticipationName="Stefano Maldifassi">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="29" Order="435"/>
+    </Athlete>
+    <Athlete Id="1703503" Order="436" ParticipationName="Helge Grande Staerk">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="29" Order="436"/>
+    </Athlete>
+    <Athlete Id="44637" Order="437" ParticipationName="Svetlana Trunova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="29" Order="437"/>
+    </Athlete>
+    <Athlete Id="194294" Order="438" ParticipationName="Gregory Saint-Genies">
+      <NOC Code="CNTR$FRA"/>
+      <Result Rank="29" Order="438"/>
+    </Athlete>
+    <Athlete Id="194268" Order="439" ParticipationName="Sergey Chudinov">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="29" Order="439"/>
+    </Athlete>
+    <Athlete Id="1703515" Order="440" ParticipationName="Hiroyuki Bamba">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="29" Order="440"/>
+    </Athlete>
+    <Athlete Id="214" Order="441" ParticipationName="Adam Pengilly">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="29" Order="441"/>
+    </Athlete>
+    <Athlete Id="1702728" Order="442" ParticipationName="Alberto Polacchi">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="29" Order="442" Value="44" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702801" Order="443" ParticipationName="Julia Eichhorn">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="29" Order="443" Value="38" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703504" Order="444" ParticipationName="Russell Ward">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="30" Order="444"/>
+    </Athlete>
+    <Athlete Id="216" Order="445" ParticipationName="Shaun Boyle">
+      <NOC Code="CNTR$AUS"/>
+      <Result Rank="30" Order="445"/>
+    </Athlete>
+    <Athlete Id="1703510" Order="446" ParticipationName="Michella Wichmann-Moeller">
+      <NOC Code="CNTR$DEN"/>
+      <Result Rank="30" Order="446"/>
+    </Athlete>
+    <Athlete Id="1702753" Order="447" ParticipationName="Peter van Wees">
+      <NOC Code="CNTR$NED"/>
+      <Result Rank="30" Order="447"/>
+    </Athlete>
+    <Athlete Id="1702748" Order="448" ParticipationName="Daniel Maechler">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="30" Order="448"/>
+    </Athlete>
+    <Athlete Id="216" Order="449" ParticipationName="Shaun Boyle">
+      <NOC Code="CNTR$AUS"/>
+      <Result Rank="30" Order="449"/>
+    </Athlete>
+    <Athlete Id="1702748" Order="450" ParticipationName="Daniel Maechler">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="30" Order="450"/>
+    </Athlete>
+    <Athlete Id="216" Order="451" ParticipationName="Shaun Boyle">
+      <NOC Code="CNTR$AUS"/>
+      <Result Rank="30" Order="451" Value="35" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702737" Order="452" ParticipationName="Kelly Moffatt">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="30" Order="452" Value="37" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703508" Order="453" ParticipationName="Martin Kvapil">
+      <NOC Code="CNTR$CZE"/>
+      <Result Rank="31" Order="453"/>
+    </Athlete>
+    <Athlete Id="1702756" Order="454" ParticipationName="Urs Vescoli">
+      <NOC Code="CNTR$AUS"/>
+      <Result Rank="31" Order="454"/>
+    </Athlete>
+    <Athlete Id="1703502" Order="455" ParticipationName="Stefano Maldifassi">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="31" Order="455"/>
+    </Athlete>
+    <Athlete Id="194294" Order="456" ParticipationName="Gregory Saint-Genies">
+      <NOC Code="CNTR$FRA"/>
+      <Result Rank="31" Order="456"/>
+    </Athlete>
+    <Athlete Id="1703512" Order="457" ParticipationName="Eric Gaulin">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="31" Order="457"/>
+    </Athlete>
+    <Athlete Id="194279" Order="458" ParticipationName="Tomass Dukurs">
+      <NOC Code="CNTR$LAT"/>
+      <Result Rank="31" Order="458"/>
+    </Athlete>
+    <Athlete Id="1703516" Order="459" ParticipationName="Nathan Cicoria">
+      <NOC Code="CNTR$CAN"/>
+      <Result Rank="31" Order="459" Value="32" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702823" Order="460" ParticipationName="Jessica Kilian">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="31" Order="460" Value="32" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702753" Order="461" ParticipationName="Peter van Wees">
+      <NOC Code="CNTR$NED"/>
+      <Result Rank="32" Order="461"/>
+    </Athlete>
+    <Athlete Id="225" Order="462" ParticipationName="Ben Sandford">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="32" Order="462"/>
+    </Athlete>
+    <Athlete Id="216" Order="463" ParticipationName="Shaun Boyle">
+      <NOC Code="CNTR$AUS"/>
+      <Result Rank="32" Order="463"/>
+    </Athlete>
+    <Athlete Id="1702729" Order="464" ParticipationName="Cedric Tamani">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="32" Order="464"/>
+    </Athlete>
+    <Athlete Id="1702731" Order="465" ParticipationName="Konstantin Aladashvili">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="32" Order="465"/>
+    </Athlete>
+    <Athlete Id="1329817" Order="466" ParticipationName="Alexander Tretiakov">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="32" Order="466"/>
+    </Athlete>
+    <Athlete Id="1702732" Order="467" ParticipationName="Dirk Matschenz">
+      <NOC Code="CNTR$NED"/>
+      <Result Rank="32" Order="467" Value="30" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703510" Order="468" ParticipationName="Michella Wichmann-Moeller">
+      <NOC Code="CNTR$DEN"/>
+      <Result Rank="32" Order="468" Value="32" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702731" Order="469" ParticipationName="Konstantin Aladashvili">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="33" Order="469"/>
+    </Athlete>
+    <Athlete Id="194279" Order="470" ParticipationName="Tomass Dukurs">
+      <NOC Code="CNTR$LAT"/>
+      <Result Rank="33" Order="470"/>
+    </Athlete>
+    <Athlete Id="1329817" Order="471" ParticipationName="Alexander Tretiakov">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="33" Order="471"/>
+    </Athlete>
+    <Athlete Id="1703502" Order="472" ParticipationName="Stefano Maldifassi">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="33" Order="472"/>
+    </Athlete>
+    <Athlete Id="1702728" Order="473" ParticipationName="Alberto Polacchi">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="33" Order="473"/>
+    </Athlete>
+    <Athlete Id="1703502" Order="474" ParticipationName="Stefano Maldifassi">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="33" Order="474"/>
+    </Athlete>
+    <Athlete Id="225" Order="475" ParticipationName="Ben Sandford">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="33" Order="475" Value="30" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="521779" Order="476" ParticipationName="Marion Thees-Trott">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="33" Order="476" Value="27" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703505" Order="477" ParticipationName="Marek Jiricko">
+      <NOC Code="CNTR$CZE"/>
+      <Result Rank="34" Order="477"/>
+    </Athlete>
+    <Athlete Id="194268" Order="478" ParticipationName="Sergey Chudinov">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="34" Order="478"/>
+    </Athlete>
+    <Athlete Id="1702748" Order="479" ParticipationName="Daniel Maechler">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="34" Order="479"/>
+    </Athlete>
+    <Athlete Id="1703503" Order="480" ParticipationName="Helge Grande Staerk">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="34" Order="480"/>
+    </Athlete>
+    <Athlete Id="1702748" Order="481" ParticipationName="Daniel Maechler">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="34" Order="481"/>
+    </Athlete>
+    <Athlete Id="1703526" Order="482" ParticipationName="Havard Engelien">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="34" Order="482"/>
+    </Athlete>
+    <Athlete Id="1703511" Order="483" ParticipationName="Snorre Pedersen">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="34" Order="483" Value="23" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703462" Order="484" ParticipationName="Kathleen Lorenz">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="34" Order="484" Value="22" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703507" Order="485" ParticipationName="David Ludwig">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="35" Order="485"/>
+    </Athlete>
+    <Athlete Id="1703502" Order="486" ParticipationName="Stefano Maldifassi">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="35" Order="486"/>
+    </Athlete>
+    <Athlete Id="1703514" Order="487" ParticipationName="Hubert Licman">
+      <NOC Code="CNTR$CZE"/>
+      <Result Rank="35" Order="487"/>
+    </Athlete>
+    <Athlete Id="1703515" Order="488" ParticipationName="Hiroyuki Bamba">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="35" Order="488"/>
+    </Athlete>
+    <Athlete Id="1702753" Order="489" ParticipationName="Peter van Wees">
+      <NOC Code="CNTR$NED"/>
+      <Result Rank="35" Order="489"/>
+    </Athlete>
+    <Athlete Id="1702731" Order="490" ParticipationName="Konstantin Aladashvili">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="35" Order="490"/>
+    </Athlete>
+    <Athlete Id="213" Order="491" ParticipationName="Aleksandr Tretyakov">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="35" Order="491" Value="23" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="194298" Order="492" ParticipationName="Tionette Stoddard">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="35" Order="492" Value="21" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702816" Order="493" ParticipationName="Stefan Moerker">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="36" Order="493"/>
+    </Athlete>
+    <Athlete Id="1702731" Order="494" ParticipationName="Konstantin Aladashvili">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="36" Order="494"/>
+    </Athlete>
+    <Athlete Id="1703519" Order="495" ParticipationName="Odd Arne Almli">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="36" Order="495"/>
+    </Athlete>
+    <Athlete Id="1329817" Order="496" ParticipationName="Alexander Tretiakov">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="36" Order="496"/>
+    </Athlete>
+    <Athlete Id="1703512" Order="497" ParticipationName="Eric Gaulin">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="36" Order="497"/>
+    </Athlete>
+    <Athlete Id="1702731" Order="498" ParticipationName="Konstantin Aladashvili">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="36" Order="498" Value="22" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703517" Order="499" ParticipationName="Alexandra Lapshova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="36" Order="499" Value="18" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702728" Order="500" ParticipationName="Alberto Polacchi">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="37" Order="500"/>
+    </Athlete>
+    <Athlete Id="1702728" Order="501" ParticipationName="Alberto Polacchi">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="37" Order="501"/>
+    </Athlete>
+    <Athlete Id="1703520" Order="502" ParticipationName="Stuart Hayden">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="37" Order="502"/>
+    </Athlete>
+    <Athlete Id="194293" Order="503" ParticipationName="Iain Roberts">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="37" Order="503"/>
+    </Athlete>
+    <Athlete Id="218" Order="504" ParticipationName="Martins Dukurs">
+      <NOC Code="CNTR$LAT"/>
+      <Result Rank="37" Order="504"/>
+    </Athlete>
+    <Athlete Id="1702816" Order="505" ParticipationName="Stefan Moerker">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="37" Order="505" Value="20" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703527" Order="506" ParticipationName="Tea Karvinen">
+      <NOC Code="CNTR$FIN"/>
+      <Result Rank="37" Order="506" Value="5" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703506" Order="507" ParticipationName="Markus Jaegert">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="38" Order="507"/>
+    </Athlete>
+    <Athlete Id="1702753" Order="508" ParticipationName="Peter van Wees">
+      <NOC Code="CNTR$NED"/>
+      <Result Rank="38" Order="508"/>
+    </Athlete>
+    <Athlete Id="1702753" Order="509" ParticipationName="Peter van Wees">
+      <NOC Code="CNTR$NED"/>
+      <Result Rank="38" Order="509"/>
+    </Athlete>
+    <Athlete Id="1703505" Order="510" ParticipationName="Marek Jiricko">
+      <NOC Code="CNTR$CZE"/>
+      <Result Rank="38" Order="510"/>
+    </Athlete>
+    <Athlete Id="194294" Order="511" ParticipationName="Gregory Saint-Genies">
+      <NOC Code="CNTR$FRA"/>
+      <Result Rank="38" Order="511"/>
+    </Athlete>
+    <Athlete Id="200" Order="512" ParticipationName="Frank Rommel">
+      <NOC Code="CNTR$GER"/>
+      <Result Rank="38" Order="512" Value="20" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="194302" Order="513" ParticipationName="Amy Williams">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="38" Order="513" Value="4" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1329817" Order="514" ParticipationName="Alexander Tretiakov">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="39" Order="514"/>
+    </Athlete>
+    <Athlete Id="1329817" Order="515" ParticipationName="Alexander Tretiakov">
+      <NOC Code="CNTR$MIX"/>
+      <Result Rank="39" Order="515"/>
+    </Athlete>
+    <Athlete Id="1703521" Order="516" ParticipationName="Ivo Pakalns">
+      <NOC Code="CNTR$LAT"/>
+      <Result Rank="39" Order="516"/>
+    </Athlete>
+    <Athlete Id="1703520" Order="517" ParticipationName="Stuart Hayden">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="39" Order="517"/>
+    </Athlete>
+    <Athlete Id="1703520" Order="518" ParticipationName="Stuart Hayden">
+      <NOC Code="CNTR$GBR"/>
+      <Result Rank="39" Order="518"/>
+    </Athlete>
+    <Athlete Id="194294" Order="519" ParticipationName="Gregory Saint-Genies">
+      <NOC Code="CNTR$FRA"/>
+      <Result Rank="39" Order="519" Value="20" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703504" Order="520" ParticipationName="Russell Ward">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="40" Order="520"/>
+    </Athlete>
+    <Athlete Id="194293" Order="521" ParticipationName="Iain Roberts">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="40" Order="521"/>
+    </Athlete>
+    <Athlete Id="1703514" Order="522" ParticipationName="Hubert Licman">
+      <NOC Code="CNTR$CZE"/>
+      <Result Rank="40" Order="522"/>
+    </Athlete>
+    <Athlete Id="1702753" Order="523" ParticipationName="Peter van Wees">
+      <NOC Code="CNTR$NED"/>
+      <Result Rank="40" Order="523"/>
+    </Athlete>
+    <Athlete Id="1703503" Order="524" ParticipationName="Helge Grande Staerk">
+      <NOC Code="CNTR$NOR"/>
+      <Result Rank="40" Order="524" Value="19" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703505" Order="525" ParticipationName="Marek Jiricko">
+      <NOC Code="CNTR$CZE"/>
+      <Result Rank="41" Order="525"/>
+    </Athlete>
+    <Athlete Id="194293" Order="526" ParticipationName="Iain Roberts">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="41" Order="526"/>
+    </Athlete>
+    <Athlete Id="1703515" Order="527" ParticipationName="Hiroyuki Bamba">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="41" Order="527" Value="12" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703505" Order="528" ParticipationName="Marek Jiricko">
+      <NOC Code="CNTR$CZE"/>
+      <Result Rank="42" Order="528"/>
+    </Athlete>
+    <Athlete Id="1703512" Order="529" ParticipationName="Eric Gaulin">
+      <NOC Code="CNTR$AUT"/>
+      <Result Rank="42" Order="529" Value="11" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703514" Order="530" ParticipationName="Hubert Licman">
+      <NOC Code="CNTR$CZE"/>
+      <Result Rank="43" Order="530"/>
+    </Athlete>
+    <Athlete Id="1702748" Order="531" ParticipationName="Daniel Maechler">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="43" Order="531" Value="2" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703502" Order="532" ParticipationName="Stefano Maldifassi">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="44" Order="532" Value="2" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702753" Order="533" ParticipationName="Peter van Wees">
+      <NOC Code="CNTR$NED"/>
+      <Result Rank="45" Order="533" Value="1" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1703504" Order="534" ParticipationName="Russell Ward">
+      <NOC Code="CNTR$NZL"/>
+      <Result Rank="46" Order="534" Value="1" ValueType="SCORE"/>
+    </Athlete>
+    <Athlete Id="1702729" Order="535" ParticipationName="Cedric Tamani">
+      <NOC Code="CNTR$SUI"/>
+      <Result Irm="SC_IRM$DNS" ValueType="IRM" Order="535"/>
+    </Athlete>
+    <Athlete Id="1702732" Order="536" ParticipationName="Dirk Matschenz">
+      <NOC Code="CNTR$NED"/>
+      <Result Irm="SC_IRM$DNS" ValueType="IRM" Order="536"/>
+    </Athlete>
+    <Athlete Id="194268" Order="537" ParticipationName="Sergey Chudinov">
+      <NOC Code="CNTR$MIX"/>
+      <Result Irm="SC_IRM$DSQ" ValueType="IRM" Order="537"/>
+    </Athlete>
+    <Athlete Id="214" Order="538" ParticipationName="Adam Pengilly">
+      <NOC Code="CNTR$GBR"/>
+      <Result Irm="SC_IRM$DSQ" ValueType="IRM" Order="538"/>
+    </Athlete>
+    <Athlete Id="1702737" Order="539" ParticipationName="Kelly Moffatt">
+      <NOC Code="CNTR$NZL"/>
+      <Result Irm="SC_IRM$DSQ" ValueType="IRM" Order="539"/>
+    </Athlete>
+    <Athlete Id="1703508" Order="540" ParticipationName="Martin Kvapil">
+      <NOC Code="CNTR$CZE"/>
+      <Result Irm="SC_IRM$DSQ" ValueType="IRM" Order="540"/>
+    </Athlete>
+    <Athlete Id="44637" Order="541" ParticipationName="Svetlana Trunova">
+      <NOC Code="CNTR$MIX"/>
+      <Result Irm="SC_IRM$DSQ" ValueType="IRM" Order="541"/>
+    </Athlete>
+    <Discipline Code="SDIS$SKN" Id="4907" Title="Skeleton">
+      <Competition City="No City" Country="No Country" Id="4" Title="World Cup [mixed] [2005]">
+        <Category>Olympic Qualifier</Category>
+        <Schedule StartDate="2005-01-01 00:00:00" EndDate="2005-01-01 00:00:00"/>
+      </Competition>
+    </Discipline>
+  </EventStandings>
+  <EventStandings CompetitorType="TEAM" Gender="SGEN$X" ID="10" Title="Mixed Team Skeleton" Type="Unknown">
+    <Team Id="920293_920325" Order="1" ParticipationName="CNTR$GER">
+      <NF Code="CNTR$GER" Country="CNTR$GER"/>
+      <Medal Date="2025-01-07 11:47:50" Kind="AWSB$ME_GOLD"/>
+      <Result Order="1" Rank="1"/>
+      <Athlete Id="920293" Order="1" ParticipationName="Christopher Grotheer"/>
+      <Athlete Id="920325" Order="2" ParticipationName="Tina Hermann"/>
+    </Team>
+    <Team Id="920291_920324" Order="2" ParticipationName="CNTR$GER">
+      <NF Code="CNTR$GER" Country="CNTR$GER"/>
+      <Medal Date="2025-01-07 11:48:05" Kind="AWSB$ME_SILVER"/>
+      <Result Order="2" Rank="2"/>
+      <Athlete Id="920291" Order="1" ParticipationName="Alexander Gassner"/>
+      <Athlete Id="920324" Order="2" ParticipationName="Jacqueline Loelling"/>
+    </Team>
+    <Team Id="521784_1329817" Order="3" ParticipationName="CNTR$MIX">
+      <NF Code="CNTR$MIX" Country="CNTR$MIX"/>
+      <Medal Date="2025-01-07 11:48:12" Kind="AWSB$ME_BRONZE"/>
+      <Result Order="3" Rank="3"/>
+      <Athlete Id="521784" Order="1" ParticipationName="Yelena Nikitina"/>
+      <Athlete Id="1329817" Order="2" ParticipationName="Alexander Tretiakov"/>
+    </Team>
+    <Team Id="920322_1328426" Order="4" ParticipationName="CNTR$GBR">
+      <NF Code="CNTR$GBR" Country="CNTR$GBR"/>
+      <Result Order="4" Rank="4"/>
+      <Athlete Id="920322" Order="1" ParticipationName="Laura Deas"/>
+      <Athlete Id="1328426" Order="2" ParticipationName="Matt Weston"/>
+    </Team>
+    <Team Id="1328422_1329816" Order="5" ParticipationName="CNTR$MIX">
+      <NF Code="CNTR$MIX" Country="CNTR$MIX"/>
+      <Result Order="5" Rank="5"/>
+      <Athlete Id="1328422" Order="1" ParticipationName="Evgeniy Rukosuev"/>
+      <Athlete Id="1329816" Order="2" ParticipationName="Alina Tararychenkova"/>
+    </Team>
+    <Team Id="521778_1702925" Order="6" ParticipationName="CNTR$AUT">
+      <NF Code="CNTR$AUT" Country="CNTR$AUT"/>
+      <Result Order="6" Rank="6"/>
+      <Athlete Id="521778" Order="1" ParticipationName="Janine Flock"/>
+      <Athlete Id="1702925" Order="2" ParticipationName="Florian Auer"/>
+    </Team>
+    <Team Id="1331202_1702946" Order="7" ParticipationName="CNTR$MIX">
+      <NF Code="CNTR$MIX" Country="CNTR$MIX"/>
+      <Result Order="7" Rank="7"/>
+      <Athlete Id="1331202" Order="1" ParticipationName="Marcus Wyatt"/>
+      <Athlete Id="1702946" Order="2" ParticipationName="Ashleigh Pittaway"/>
+    </Team>
+    <Team Id="1331914_1331931" Order="8" ParticipationName="CNTR$ITA">
+      <NF Code="CNTR$ITA" Country="CNTR$ITA"/>
+      <Result Order="8" Rank="8"/>
+      <Athlete Id="1331914" Order="1" ParticipationName="Amedeo Bagnis"/>
+      <Athlete Id="1331931" Order="2" ParticipationName="Valentina Margaglio"/>
+    </Team>
+    <Team Id="1331923_1702954" Order="9" ParticipationName="CNTR$ITA">
+      <NF Code="CNTR$ITA" Country="CNTR$ITA"/>
+      <Result Order="9" Rank="9"/>
+      <Athlete Id="1331923" Order="1" ParticipationName="Mattia Gaspari"/>
+      <Athlete Id="1702954" Order="2" ParticipationName="Alessia Crippa"/>
+    </Team>
+    <Team Id="1702939_1703865" Order="10" ParticipationName="CNTR$MIX">
+      <NF Code="CNTR$MIX" Country="CNTR$MIX"/>
+      <Result Order="10" Rank="10"/>
+      <Athlete Id="1702939" Order="1" ParticipationName="Kyle Murray"/>
+      <Athlete Id="1703865" Order="2" ParticipationName="Elisabeth Maier"/>
+    </Team>
+    <Team Id="920317_1702940" Order="11" ParticipationName="CNTR$BEL">
+      <NF Code="CNTR$BEL" Country="CNTR$BEL"/>
+      <Result Order="11" Rank="11"/>
+      <Athlete Id="920317" Order="1" ParticipationName="Kim Meylemans"/>
+      <Athlete Id="1702940" Order="2" ParticipationName="Colin Freeling"/>
+    </Team>
+    <Team Id="920319_1702890" Order="12" ParticipationName="CNTR$CAN">
+      <NF Code="CNTR$CAN" Country="CNTR$CAN"/>
+      <Result Order="12"/>
+      <Athlete Id="920319" Order="1" ParticipationName="Jane Channell"/>
+      <Athlete Id="1702890" Order="2" ParticipationName="Mark Lynch"/>
+    </Team>
+    <Discipline Code="SDIS$SKN" Id="4907" Title="Skeleton">
+      <Competition City="No City" Country="No Country" Id="4" Title="World Cup [mixed] [2005]">
+        <Category>Olympic Qualifier</Category>
+        <Schedule StartDate="2005-01-01 00:00:00" EndDate="2005-01-01 00:00:00"/>
+      </Competition>
+    </Discipline>
+  </EventStandings>
+</Usdf20>

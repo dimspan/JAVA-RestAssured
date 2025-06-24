@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Usdf20 Source="ENETPULSE" Version="2025-02-27T13:14:19.000000Z">
+  <EventStandings CompetitorType="INDIVIDUAL" Gender="SGEN$W" Id="20050" Title="Girls Skeleton" Type="Singles">
+    <Athlete Id="920324" Order="1" ParticipationName="Jacqueline Loelling">
+      <NOC Code="CNTR$GER"/>
+      <Medal Date="2025-02-19 17:22:54" Kind="AWSB$ME_GOLD"/>
+      <Result Rank="1" Order="1" Value="57.43" ValueType="TIME"/>
+    </Athlete>
+    <Athlete Id="1702963" Order="2" ParticipationName="Carina Mair">
+      <NOC Code="CNTR$AUT"/>
+      <Medal Date="2025-02-19 17:22:54" Kind="AWSB$ME_SILVER"/>
+      <Result Rank="2" Order="2" Value="58.4" ValueType="TIME"/>
+    </Athlete>
+    <Athlete Id="1704173" Order="3" ParticipationName="Carli Brockway">
+      <NOC Code="CNTR$CAN"/>
+      <Medal Date="2025-02-19 17:22:54" Kind="AWSB$ME_BRONZE"/>
+      <Result Rank="3" Order="3" Value="58.48" ValueType="TIME"/>
+    </Athlete>
+    <Athlete Id="1702965" Order="4" ParticipationName="Anastasia Shlapak">
+      <NOC Code="CNTR$RUS"/>
+      <Result Rank="4" Order="4" Value="58.73" ValueType="TIME"/>
+    </Athlete>
+    <Athlete Id="920317" Order="5" ParticipationName="Kim Meylemans">
+      <NOC Code="CNTR$BEL"/>
+      <Result Rank="5" Order="5" Value="59.02" ValueType="TIME"/>
+    </Athlete>
+    <Athlete Id="1704175" Order="6" ParticipationName="Elizaveta Zubkova">
+      <NOC Code="CNTR$RUS"/>
+      <Result Rank="6" Order="6" Value="59.28" ValueType="TIME"/>
+    </Athlete>
+    <Athlete Id="1718975" Order="7" ParticipationName="Lizzie Maxwell">
+      <NOC Code="CNTR$USA"/>
+      <Result Rank="7" Order="7" Value="59.5" ValueType="TIME"/>
+    </Athlete>
+    <Athlete Id="1704176" Order="8" ParticipationName="Eva Vuga">
+      <NOC Code="CNTR$SLO"/>
+      <Result Rank="8" Order="8" Value="59.89" ValueType="TIME"/>
+    </Athlete>
+    <Athlete Id="1718970" Order="9" ParticipationName="Timi Earl">
+      <NOC Code="CNTR$USA"/>
+      <Result Rank="9" Order="9" Value="1:01.04" ValueType="TIME"/>
+    </Athlete>
+    <Athlete Id="1718971" Order="10" ParticipationName="Ramona Arcos">
+      <NOC Code="CNTR$ROU"/>
+      <Result Rank="10" Order="10" Value="1:01.23" ValueType="TIME"/>
+    </Athlete>
+    <Athlete Id="1704178" Order="11" ParticipationName="Guendalina Bergonzoni">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="11" Order="11" Value="1:01.57" ValueType="TIME"/>
+    </Athlete>
+    <Athlete Id="1718977" Order="12" ParticipationName="Andreea Chiosa">
+      <NOC Code="CNTR$ROU"/>
+      <Result Rank="12" Order="12" Value="1:01.65" ValueType="TIME"/>
+    </Athlete>
+    <Athlete Id="1718972" Order="13" ParticipationName="Astrid Ekelmans">
+      <NOC Code="CNTR$NED"/>
+      <Result Rank="13" Order="13" Value="1:01.68" ValueType="TIME"/>
+    </Athlete>
+    <Athlete Id="1718973" Order="14" ParticipationName="Saki Ando">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="14" Order="14" Value="1:02.42" ValueType="TIME"/>
+    </Athlete>
+    <Discipline Code="SDIS$SKN" Id="3039" Title="Skeleton">
+      <Competition City="No City" Country="No Country" Id="5024" Title="Winter Youth Olympics">
+        <Schedule StartDate="2012-01-13 00:00:00" EndDate="2012-01-22 00:00:00"/>
+      </Competition>
+    </Discipline>
+  </EventStandings>
+  <EventStandings CompetitorType="INDIVIDUAL" Gender="SGEN$M" Id="20051" Title="Boys Skeleton" Type="Singles">
+    <Athlete Id="1718961" Order="1" ParticipationName="Sebastian Berneker">
+      <NOC Code="CNTR$GER"/>
+      <Medal Date="2025-02-19 17:17:38" Kind="AWSB$ME_GOLD"/>
+      <Result Rank="1" Order="1" Value="1:52.73" ValueType="TIME"/>
+    </Athlete>
+    <Athlete Id="1703856" Order="2" ParticipationName="Stefan Geisler">
+      <NOC Code="CNTR$AUT"/>
+      <Medal Date="2025-02-19 17:17:38" Kind="AWSB$ME_SILVER"/>
+      <Result Rank="2" Order="2" Value="1:54.70" ValueType="TIME"/>
+    </Athlete>
+    <Athlete Id="1704122" Order="3" ParticipationName="Corey Gillies">
+      <NOC Code="CNTR$CAN"/>
+      <Medal Date="2025-02-19 17:17:38" Kind="AWSB$ME_BRONZE"/>
+      <Result Rank="3" Order="3" Value="1:55.82" ValueType="TIME"/>
+    </Athlete>
+    <Athlete Id="1704140" Order="4" ParticipationName="Cosmin Chioibasu">
+      <NOC Code="CNTR$ROU"/>
+      <Result Rank="4" Order="4" Value="1:55.86" ValueType="TIME"/>
+    </Athlete>
+    <Athlete Id="1718968" Order="5" ParticipationName="Sacha Berger">
+      <NOC Code="CNTR$SUI"/>
+      <Result Rank="5" Order="5" Value="1:57.68" ValueType="TIME"/>
+    </Athlete>
+    <Athlete Id="1718960" Order="6" ParticipationName="Valery Myshayev">
+      <NOC Code="CNTR$RUS"/>
+      <Result Rank="6" Order="6" Value="1:57.71" ValueType="TIME"/>
+    </Athlete>
+    <Athlete Id="1718962" Order="7" ParticipationName="Anthony Herringshaw">
+      <NOC Code="CNTR$USA"/>
+      <Result Rank="7" Order="7" Value="1:58.16" ValueType="TIME"/>
+    </Athlete>
+    <Athlete Id="1704162" Order="8" ParticipationName="Davis Dreimanis">
+      <NOC Code="CNTR$LAT"/>
+      <Result Rank="8" Order="8" Value="1:58.46" ValueType="TIME"/>
+    </Athlete>
+    <Athlete Id="1718966" Order="9" ParticipationName="Dan Sato">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="9" Order="9" Value="1:58.89" ValueType="TIME"/>
+    </Athlete>
+    <Athlete Id="1718967" Order="10" ParticipationName="Hiroki Nokura">
+      <NOC Code="CNTR$JPN"/>
+      <Result Rank="10" Order="10" Value="1:59.72" ValueType="TIME"/>
+    </Athlete>
+    <Athlete Id="1704158" Order="11" ParticipationName="Ferdinando Mulassano">
+      <NOC Code="CNTR$ITA"/>
+      <Result Rank="11" Order="11" Value="1:59.80" ValueType="TIME"/>
+    </Athlete>
+    <Athlete Id="1718965" Order="12" ParticipationName="Ban-Seok Kim">
+      <NOC Code="CNTR$KOR"/>
+      <Result Rank="12" Order="12" Value="2:00.42" ValueType="TIME"/>
+    </Athlete>
+    <Athlete Id="1718963" Order="13" ParticipationName="Marc Alcaraz">
+      <NOC Code="CNTR$ESP"/>
+      <Result Rank="13" Order="13" Value="2:02.38" ValueType="TIME"/>
+    </Athlete>
+    <Athlete Id="1718964" Order="14" ParticipationName="Josue Montiel">
+      <NOC Code="CNTR$MEX"/>
+      <Result Rank="14" Order="14" Value="2:04.37" ValueType="TIME"/>
+    </Athlete>
+    <Discipline Code="SDIS$SKN" Id="3039" Title="Skeleton">
+      <Competition City="No City" Country="No Country" Id="5024" Title="Winter Youth Olympics">
+        <Schedule StartDate="2012-01-13 00:00:00" EndDate="2012-01-22 00:00:00"/>
+      </Competition>
+    </Discipline>
+  </EventStandings>
+</Usdf20>

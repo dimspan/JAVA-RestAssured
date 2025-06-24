@@ -1,0 +1,9 @@
+#version: '3.3'
+
+services:
+  rest-assured:
+    build: .
+    entrypoint:  /mnt/restassured/.docker/startup.sh
+    tty: true
+    volumes:
+      - '../:/mnt/restassured'
