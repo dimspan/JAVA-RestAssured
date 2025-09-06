@@ -24,7 +24,7 @@ public class N17B {
 
     @BeforeClass
     public void setUp() throws Exception {
-        String xmlUrl = "http://icodev.ldev.enetpulse.com:8003/n_files/discipline/74/types/141/n_files/141/xmlPreviewTab";
+        String xmlUrl = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
         // Initialize instances
         htmlFormatValidator = new HTML_Format_Validator(xmlUrl);

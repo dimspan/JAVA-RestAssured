@@ -24,7 +24,7 @@ public class N22Pair {
 
     @BeforeClass
     public void setUp() throws Exception {
-        String xmlUrl = "http://icodev.ldev.enetpulse.com:8003/n_files/discipline/7/types/190/n_files/662/xmlPreviewTab?participant_id=889885";
+        String xmlUrl = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
         // Initialize instances
         htmlFormatValidator = new HTML_Format_Validator(xmlUrl);
