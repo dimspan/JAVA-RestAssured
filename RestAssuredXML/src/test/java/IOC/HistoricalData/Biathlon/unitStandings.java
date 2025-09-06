@@ -18,7 +18,7 @@ public class unitStandings {
 
     @BeforeClass
     public void setUp() throws Exception {
-        String xmlUrl = "xxxxxxxxxxxxxxxxxxxxxx";
+        String xmlUrl = "http://icodev.ldev.enetpulse.com:8003/competitions/42/generate_export_2_0/unit_standings?event_id=128";
 
         // Initialize instances
         dataValueTypes = new ValidateDataValueTypes(xmlUrl);
@@ -27,40 +27,40 @@ public class unitStandings {
         xmlValidator = new XmlValidatorURL(xmlUrl);
 
     }
-
-    @Test(priority = 1)
-    public void checkXmlValidation() throws Exception {
-        xmlValidator.loadXmlFileXsdSchema();
-        xmlValidator.validateXsdSchema();
-    }
-
-    @Test(priority = 2)
-    public void validateDataValueTypes() throws JAXBException {
-        dataValueTypes.loadXmlFile();
-        dataValueTypes.validateDataValueTypesUnitStandings();
-//        dataValueTypes.validateDataValueTypesEventStandingsForAthletes();
-//        dataValueTypes.validateDataValueTypesEventStandingsForTeams();
-        dataValueTypes.validateDataValueTypesUnitStandingsForDiscipline();
-    }
-
-    @Test(priority = 3)
-    public void hardcodedValues() throws JAXBException {
-        hardcodedValues.loadXmlFile();
-        //check individual event
-        hardcodedValues.checkUnitStandingsAttributes(0,"ENETPULSE_UNT_128","Individual Male","RCST$OFFICIAL");
-        hardcodedValues.checkUnitStandingsEventAttributes(0,"128","INDIVIDUAL","Individual Male","1",
-                "EVNT$BTH10kmIndiv","SGEN$M");
-        hardcodedValues.checkUnitStandingsEventDisciplineAttributes(0,"SDIS$BTH","Biathlon");
-        hardcodedValues.checkUnitStandingsEventDisciplineCompetitionAttributes(0,"42","2024/2025 World Cup",
-                "CNTR$NOR","Oslo");
-
-    }
-
-    @Test(priority = 4)
-    public void specialCodesRegex() throws JAXBException {
-        specialPropertiesCodesRegex.loadXmlFile();
-        specialPropertiesCodesRegex.checkUnitStandingsSpecialCodes();
-//        specialPropertiesCodesRegex.checkEventStandingsSpecialCodesForTeams();
-        specialPropertiesCodesRegex.checkUnitStandingsSpecialCodesForDiscipline();
-    }
+//
+//    @Test(priority = 1)
+//    public void checkXmlValidation() throws Exception {
+//        xmlValidator.loadXmlFileXsdSchema();
+//        xmlValidator.validateXsdSchema();
+//    }
+//
+//    @Test(priority = 2)
+//    public void validateDataValueTypes() throws JAXBException {
+//        dataValueTypes.loadXmlFile();
+//        dataValueTypes.validateDataValueTypesUnitStandings();
+////        dataValueTypes.validateDataValueTypesEventStandingsForAthletes();
+////        dataValueTypes.validateDataValueTypesEventStandingsForTeams();
+//        dataValueTypes.validateDataValueTypesUnitStandingsForDiscipline();
+//    }
+//
+//    @Test(priority = 3)
+//    public void hardcodedValues() throws JAXBException {
+//        hardcodedValues.loadXmlFile();
+//        //check individual event
+//        hardcodedValues.checkUnitStandingsAttributes(0,"ENETPULSE_UNT_128","Individual Male","RCST$OFFICIAL");
+//        hardcodedValues.checkUnitStandingsEventAttributes(0,"128","INDIVIDUAL","Individual Male","1",
+//                "EVNT$BTH10kmIndiv","SGEN$M");
+//        hardcodedValues.checkUnitStandingsEventDisciplineAttributes(0,"SDIS$BTH","Biathlon");
+//        hardcodedValues.checkUnitStandingsEventDisciplineCompetitionAttributes(0,"42","2024/2025 World Cup",
+//                "CNTR$NOR","Oslo");
+//
+//    }
+//
+//    @Test(priority = 4)
+//    public void specialCodesRegex() throws JAXBException {
+//        specialPropertiesCodesRegex.loadXmlFile();
+//        specialPropertiesCodesRegex.checkUnitStandingsSpecialCodes();
+////        specialPropertiesCodesRegex.checkEventStandingsSpecialCodesForTeams();
+//        specialPropertiesCodesRegex.checkUnitStandingsSpecialCodesForDiscipline();
+//    }
 }

@@ -19,11 +19,11 @@ import java.nio.charset.StandardCharsets;
 
 public class APItestXML_XSD_URL {
 
-    private static final String XML_URL = "xxxxxxxxx"; // Update with actual API URL
-    private static final String XSD_URL = "xxxxxxxxxxx"; // Update with actual XSD URL
+    private static final String XML_URL = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"; // Update with actual API URL
+    private static final String XSD_URL = "xxxxxxxxxxxxxxxxxxxxxxx"; // Update with actual XSD URL
 
-    private static final String USERNAME = "xxxxxxx";
-    private static final String PASSWORD = "xxxxxxxxx";
+    private static final String USERNAME = "xxxxxxxxxxxxxxx";
+    private static final String PASSWORD = "xxxxxxxxxxxxx";
 
     private static String xmlContent; // Shared XML response
     private static String xsdContent; // Shared XSD schema

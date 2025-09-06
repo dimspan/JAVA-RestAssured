@@ -11,6 +11,12 @@ import java.util.List;
 @XmlAccessorType(XmlAccessType.FIELD)
 public class Competition {
 
+    @XmlElement(name = "Organisation")
+    private Organisation organisation;
+
+    @XmlElement(name = "TeamBiography")
+    private TeamBiography teamBiography;
+
     @XmlElement(name = "Categories")
     private Categories categories;
 
@@ -24,6 +30,22 @@ public class Competition {
     private String codes;
 
     // Getters and setters
+    public Organisation getOrganisation() {
+        return organisation;
+    }
+
+    public void setOrganisation(Organisation organisation) {
+        this.organisation = organisation;
+    }
+
+    public TeamBiography getTeamBiography() {
+        return teamBiography;
+    }
+
+    public void setTeamBiography(TeamBiography teamBiography) {
+        this.teamBiography = teamBiography;
+    }
+
     public Categories getCategories() {
         return categories;
     }

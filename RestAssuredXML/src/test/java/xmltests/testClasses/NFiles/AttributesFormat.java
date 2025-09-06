@@ -87,4 +87,11 @@ public class AttributesFormat {
         String documentCode = odfBody.getDocumentCode();
         Assert.assertEquals(documentCode.length(), 34, "DocumentCode value must be exactly 34 characters long");
     }
+    //for N22 and N24
+    @Test
+    public void testDocumentCodeFormatBiographyAndProfileFiles() {
+        String documentCode = odfBody.getDocumentCode();
+        Assert.assertEquals(documentCode.length(), 13, "DocumentCode value must be exactly 13 characters long");
+    }
+
 }

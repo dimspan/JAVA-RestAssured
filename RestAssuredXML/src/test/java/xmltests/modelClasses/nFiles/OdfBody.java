@@ -155,7 +155,8 @@ public class OdfBody {
     @Override
     public String toString() {
         return "OdfBody{\n" +
-                "    Record='" + record + "',\n" +
+                "    record='" + record + "',\n" +
+                "    competition='" + competition + "',\n" +
                 "    version='" + version + "',\n" +
                 "    competitionCode='" + competitionCode + "',\n" +
                 "    documentCode='" + documentCode + "',\n" +

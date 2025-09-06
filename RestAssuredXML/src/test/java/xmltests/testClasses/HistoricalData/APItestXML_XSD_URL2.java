@@ -22,12 +22,12 @@ import static org.hamcrest.MatcherAssert.assertThat;
 public class APItestXML_XSD_URL2 {
 
     //    private static final String XML_FILE_PATH = "./eventStanding.xml"; // Replace with actual API URL later
-//    private static final String XML_URL = "xxxxxxxxxxxxxxxxxxxxxx"; // Update with actual API URL
+//    private static final String XML_URL = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"; // Update with actual API URL
     private String xmlUrl;
-    private static final String XSD_URL = "xxxxxxxxxxxxxxx"; // Update with actual XSD path later
+    private static final String XSD_URL = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"; // Update with actual XSD path later
 
-    private static final String USERNAME = "xxxxxxxxxxx";
-    private static final String PASSWORD = "xxxxxxxxxxxxx";
+    private static final String USERNAME = "xxxxxxxxxxxxx";
+    private static final String PASSWORD = "xxxxxxxxx";
 
     private static String xmlContent; // Shared response for all tests
     private static String xsdContent; // Shared XSD schema
@@ -39,7 +39,7 @@ public class APItestXML_XSD_URL2 {
         xmlUrl = System.getProperty("xmlUrl");  // 🔹 Read from Maven command
 
         if (xmlUrl == null || xmlUrl.isEmpty()) {
-            throw new IllegalArgumentException("❌ ERROR: Missing 'xmlUrl' parameter! Pass it using -DxmlUrl=<URL>");
+            throw new IllegalArgumentException(" ERROR: Missing 'xmlUrl' parameter! Pass it using -DxmlUrl=<URL>");
         }
 
         System.out.println("🔹 Running test with XML URL: " + xmlUrl);
@@ -91,7 +91,7 @@ public class APItestXML_XSD_URL2 {
             validator.validate(new StreamSource(xmlStream));
 
             if (errorMessages.isEmpty()) {
-                System.out.println("✅ XML is valid against XSD!");
+                System.out.println(" XML is valid against XSD!");
             } else {
                 throw new AssertionError("XML validation failed with errors:\n" + String.join("\n", errorMessages));
             }

@@ -17,14 +17,14 @@ public class N20 {
     private AttributesFormat attributesFormat;
 
     // Credentials for the XML url
-    private static final String USERNAME = "xxxxxxxxx";
-    private static final String PASSWORD = "xxxxxxxxxx";
+    private static final String USERNAME = "xxxxxxxxxxxx";
+    private static final String PASSWORD = "xxxxxxxxxxx";
 
     private static String xmlContent;
 
     @BeforeClass
     public void setUp() throws Exception {
-        String xmlUrl = "xxxxxxxxxxxxxxxxxx";
+        String xmlUrl = "http://icodev.ldev.enetpulse.com:8003/n_files/discipline/71/types/62/n_files/660/xmlPreviewTab?participant_id=977132";
 
         // Initialize instances
         htmlFormatValidator = new HTML_Format_Validator(xmlUrl);

@@ -17,14 +17,14 @@ public class N11 {
     private AttributesFormat attributesFormat;
 
     // Credentials for the XML url
-    private static final String USERNAME = "xxxxxxxxx";
+    private static final String USERNAME = "xxxxxxxxxxx";
     private static final String PASSWORD = "xxxxxxxxxx";
 
     private static String xmlContent;
 
     @BeforeClass
     public void setUp() throws Exception {
-        String xmlUrl = "xxxxxxxxxxxxxxxxxxxx";
+        String xmlUrl = "http://icodev.ldev.enetpulse.com:8003/n_files/discipline/1/types/25/n_files/240/xmlPreviewTab";
 
         // Initialize instances
         htmlFormatValidator = new HTML_Format_Validator(xmlUrl);
@@ -61,7 +61,7 @@ public class N11 {
     @Test(priority = 4)
     public void checkAllElementsAttributes() throws Exception {
         hardcodedValues.checkOdfBodyAttributes(xmlContent,"OWG2026","ALP201N11","DT_BCK_IMP","ENG","T","HR");
-        hardcodedValues.checkCompetitionAttributes(xmlContent,"OWG-2026-GEN-4.4","OWG-2026-8.0.0");
+        hardcodedValues.checkCompetitionAttributes(xmlContent,"OWG-2026-GEN-4.4");
         hardcodedValues.checkCategoryAttributes(xmlContent,"ALP","Alpine Skiing","Y");
         hardcodedValues.checkDocumentAttributes(xmlContent,"0","MDL","Past Medallists","201N11","ALP0111","H");
     }

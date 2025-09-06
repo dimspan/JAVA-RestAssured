@@ -17,14 +17,14 @@ public class N17A {
     private AttributesFormat attributesFormat;
 
     // Credentials for the XML url
-    private static final String USERNAME = "xxxxxxxxxx";
-    private static final String PASSWORD = "xxxxxxxxxxx";
+    private static final String USERNAME = "xxxxxxxxxxx";
+    private static final String PASSWORD = "xxxxxxxxxx";
 
     private static String xmlContent;
 
     @BeforeClass
     public void setUp() throws Exception {
-        String xmlUrl = "xxxxxxxxxxxxxxxxxxx";
+        String xmlUrl = "http://icodev.ldev.enetpulse.com:8003/n_files/discipline/71/types/94/n_files/100/xmlPreviewTab";
 
         // Initialize instances
         htmlFormatValidator = new HTML_Format_Validator(xmlUrl);
@@ -63,7 +63,7 @@ public class N17A {
     @Test(priority = 4)
     public void checkAllElementsAttributes() throws Exception {
         hardcodedValues.checkOdfBodyAttributes(xmlContent,"OWG2026","STK401N17A","DT_BCK_IMP","ENG","T","HR");
-        hardcodedValues.checkCompetitionAttributes(xmlContent,"OWG-2026-GEN-4.4","OWG-2026-8.0.0");
+        hardcodedValues.checkCompetitionAttributes(xmlContent,"OWG-2026-GEN-4.4");
         hardcodedValues.checkCategoryAttributes(xmlContent,"STK","Short Track Speed Skating","Y");
         hardcodedValues.checkDocumentAttributes(xmlContent,"0","PRE","Past Results","401N17A","STK0117A","H");
     }

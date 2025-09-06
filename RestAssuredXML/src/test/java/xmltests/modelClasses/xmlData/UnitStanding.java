@@ -21,6 +21,9 @@ public class UnitStanding {
     @XmlElement(name = "Event")
     private Event event;
 
+    @XmlElement(name = "Team")
+    private List<Team>  teams;
+
     public String getId() {
         return id;
     }
@@ -51,6 +54,12 @@ public class UnitStanding {
         this.event = event;
     }
 
+    public List<Team> getTeams() { return teams;}
+
+    public void setTeams(List<Team>  teams) {
+        this.teams = teams;
+    }
+
     @Override
     public String toString() {
         return "UnitStanding{\n" +
@@ -58,6 +67,7 @@ public class UnitStanding {
                 "    id='" + id + "',\n" +
                 "    status='" + status + "',\n" +
                 "    event='" + event + "'\n" +
+                "    teams='" + teams + "'\n" +
                 "}";
     }
 

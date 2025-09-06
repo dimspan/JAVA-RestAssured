@@ -75,7 +75,7 @@ public class APItestXSD_URL {
             validator.validate(new StreamSource(xmlStream));
 
             if (errorMessages.isEmpty()) {
-                System.out.println("✅ XML is valid against XSD!");
+                System.out.println(" XML is valid against XSD!");
             } else {
                 throw new AssertionError("XML validation failed with errors:\n" + String.join("\n", errorMessages));
             }

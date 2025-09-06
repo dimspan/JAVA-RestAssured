@@ -24,12 +24,12 @@ import java.util.*;
 public class XmlValidatorURL {
 
     //    private static final String XML_FILE_PATH = "./eventStanding.xml"; // Replace with actual API URL later
-//    private static final String XML_URL = "xxxxxxxxxxxxxxxxx"; // Update with actual API URL
+//    private static final String XML_URL = "xxxxxxxxxxxxxxxxxxxxxx"; // Update with actual API URL
     private String xmlUrl;
-    private static final String XSD_URL = "xxxxxxxxxxxxxxxxx"; // Update with actual XSD path later
+    private static final String XSD_URL = "xxxxxxxxxxxxxxxx"; // Update with actual XSD path later
 
-    private static final String USERNAME = "xxxxxxxxx";
-    private static final String PASSWORD = "xxxxxxxxx";
+    private static final String USERNAME = "xxxxxxxxxxx";
+    private static final String PASSWORD = "xxxxxxxxxxxxx";
 
     private String xmlContent; // Shared response for all tests
     private static String xsdContent; // Shared XSD schema
@@ -91,7 +91,7 @@ public class XmlValidatorURL {
             validator.validate(new StreamSource(xmlStream));
 
             if (errorMessages.isEmpty()) {
-                System.out.println("✅ XML is valid against XSD!");
+                System.out.println(" XML is valid against XSD!");
             } else {
                 throw new AssertionError("XML validation failed with errors:\n" + String.join("\n", errorMessages));
             }

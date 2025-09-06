@@ -24,7 +24,7 @@ public class N10 {
 
     @BeforeClass
     public void setUp() throws Exception {
-        String xmlUrl = "xxxxxxxxxxxx";
+        String xmlUrl = "http://icodev.ldev.enetpulse.com:8003/n_files/discipline/1/types/3/n_files/12/xmlPreviewTab";
 
         // Initialize instances
         htmlFormatValidator = new HTML_Format_Validator(xmlUrl);
@@ -62,10 +62,10 @@ public class N10 {
 
     @Test(priority = 4)
     public void checkAllElementsAttributes() throws Exception {
-        hardcodedValues.checkOdfBodyAttributes(xmlContent,"OWG2026","ALP102N10","DT_BCK_IMP","ENG","T","HR");
-        hardcodedValues.checkCompetitionAttributes(xmlContent,"OWG-2026-GEN-4.4","OWG-2026-6.0.0");
+        hardcodedValues.checkOdfBodyAttributes(xmlContent,"OWG2026","ALP101N10","DT_BCK_IMP","ENG","T","HR");
+        hardcodedValues.checkCompetitionAttributes(xmlContent,"OWG-2026-GEN-4.4");
         hardcodedValues.checkCategoryAttributes(xmlContent,"ALP","Alpine Skiing","Y");
-        hardcodedValues.checkDocumentAttributes(xmlContent,"0","MDL","Past Medallists","102N10","ALP0210","H");
+        hardcodedValues.checkDocumentAttributes(xmlContent,"0","MDL","Past Medallists","101N10","ALP0110","H");
     }
 
     @Test(priority = 5)

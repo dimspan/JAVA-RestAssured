@@ -18,7 +18,7 @@ public class UtilityMethods {
     private String xmlUrl;
 
     private static final String USERNAME = "xxxxxxxxxxxx";
-    private static final String PASSWORD = "xxxxxxxxxx";
+    private static final String PASSWORD = "xxxxxxxxxxxx";
 
     private String xmlContent; // Shared response for all tests
 

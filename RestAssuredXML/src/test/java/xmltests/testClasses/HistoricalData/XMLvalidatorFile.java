@@ -12,8 +12,8 @@ import java.nio.file.Paths;
 
 public class XMLvalidatorFile {
 
-    private static final String XML_FILE_PATH = "/xxxxxxxx/xxxxx"; // Local XML file
-    private static final String XSD_SCHEMA_PATH = "/xxxxxxxx/xxxxxxx"; // Local XSD file
+    private static final String XML_FILE_PATH = "xxxxxxxxxxxxxxxxx"; // Local XML file
+    private static final String XSD_SCHEMA_PATH = "xxxxxxxxxxxxxxxxxxxxxxxxxxx"; // Local XSD file
     private static String xmlContent; // XML data
     private static String xsdContent; // XSD data
 

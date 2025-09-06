@@ -20,11 +20,11 @@ import static org.testng.AssertJUnit.assertFalse;
 public class HardcodedValues {
 
     //    private static final String XML_FILE_PATH = "./eventStanding.xml"; // Replace with actual API URL later
-//    private static final String XML_URL = "xxxxxxxxxx"; // Update with actual API URL
+//    private static final String XML_URL = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"; // Update with actual API URL
     private String xmlUrl;
 
-    private static final String USERNAME = "xxxxxxxxxx";
-    private static final String PASSWORD = "xxxxxxxxxx";
+    private static final String USERNAME = "xxxxxxxxxxxxxxxxx";
+    private static final String PASSWORD = "xxxxxxxxxxxxx";
 
     private String xmlContent; // Shared response for all tests
 
@@ -181,6 +181,7 @@ public class HardcodedValues {
         assertEquals(competition.getPlace(), compCity, "check competition place");
         assertEquals(competition.getId(), compId, "check competition id");
         assertEquals(competition.getTitle(), compTitle, "check competition title");
+//        assertEquals(competition.getRegion(), compRegion, "check competition region");
 
     }
     //participants
@@ -339,4 +340,202 @@ public class HardcodedValues {
         assertEquals(competition.getCountry(), country, "check 1st unitStanding event discipline competition country");
         assertEquals(competition.getPlace(), place, "check 1st unitStanding event discipline competition place");
     }
+
+    @Test
+    public void checkUnitStandingsFirstTeamAttributes(Integer unitStandingsNumber,String teamId,String teamOrder,String participationName,String teamNfCountry,
+                                                       String resultOrder, String resultValue, String resultValueType) throws JAXBException {
+        JAXBContext context = JAXBContext.newInstance(Usdf20.class, EventStanding.class);
+        Unmarshaller unmarshaller = context.createUnmarshaller();
+        Usdf20 usdf20 = (Usdf20) unmarshaller.unmarshal(new StringReader(xmlContent));
+
+        //get first unitStanding
+        List<UnitStanding> unitStandings = usdf20.getUnitStandings();
+        UnitStanding unitStanding = unitStandings.get(unitStandingsNumber);
+
+        //get the 1st team and check its attributes
+        List<Team> teams = unitStanding.getTeams();
+        Team firstTeam = teams.get(0);
+        assertEquals(firstTeam.getId(), teamId, "check 1st team id");
+        assertEquals(firstTeam.getOrder(), teamOrder, "check 1st team order");
+        assertEquals(firstTeam.getParticipationName(), participationName, "check 1st team participationName");
+
+        //check the attributes for 1st team NF
+        NF nf = firstTeam.getNF();
+//        assertEquals(nf.getCode(), teamNFCode, "check 1st team nf code");
+        assertEquals(nf.getCountry(), teamNfCountry, "check 1st team nf country");
+
+        //check the attributes for 1st team result
+        Result result = firstTeam.getResult();
+//        assertEquals(result.getRank(), resultRank, "check 1st team result rank");
+        assertEquals(result.getOrder(), resultOrder, "check 1st team result order");
+        assertEquals(result.getValue(), resultValue, "check 1st team result value");
+        assertEquals(result.getValueType(), resultValueType, "check 1st team result valueType");
+
+    }
+    //poolStandings
+    @Test
+    public void checkPoolStandingsAttributes(Integer poolStandingsNumber,String id,String title,String status) throws JAXBException {
+        JAXBContext context = JAXBContext.newInstance(Usdf20.class, EventStanding.class);
+        Unmarshaller unmarshaller = context.createUnmarshaller();
+        Usdf20 usdf20 = (Usdf20) unmarshaller.unmarshal(new StringReader(xmlContent));
+
+        //check the attributes for poolStandings
+        List<PoolStanding> poolStandings = usdf20.getPoolStandings();
+        PoolStanding firstPoolStanding = poolStandings.get(poolStandingsNumber);
+
+        assertEquals(firstPoolStanding.getId(), id, "check 1st poolStanding id");
+        assertEquals(firstPoolStanding.getTitle(), title, "check 1st poolStanding title");
+        assertEquals(firstPoolStanding.getStatus(), status, "check 1st poolStanding status");
+
+    }
+
+    @Test
+    public void checkPoolStandingsEventAttributes(Integer poolStandingsNumber,String id,String competitorType,String title,String order,String type,String gender) throws JAXBException {
+        JAXBContext context = JAXBContext.newInstance(Usdf20.class, EventStanding.class);
+        Unmarshaller unmarshaller = context.createUnmarshaller();
+        Usdf20 usdf20 = (Usdf20) unmarshaller.unmarshal(new StringReader(xmlContent));
+
+        //check the attributes for poolStandings
+        List<PoolStanding> poolStandings = usdf20.getPoolStandings();
+        PoolStanding firstPoolstanding = poolStandings.get(poolStandingsNumber);
+        Event event = firstPoolstanding.getEvent();
+
+        assertEquals(event.getId(), id, "check 1st poolStanding id");
+        assertEquals(event.getTitle(), title, "check 1st poolStanding title");
+        assertEquals(event.getCompetitorType(), competitorType, "check 1st poolStanding competitorType");
+        assertEquals(event.getGender(), gender, "check 1st poolStanding gender");
+        assertEquals(event.getType(), type, "check 1st poolStanding type");
+        assertEquals(event.getOrder(), order, "check 1st poolStanding order");
+
+    }
+
+    @Test
+    public void checkPoolStandingsEventDisciplineAttributes(Integer poolStandingsNumber,String id,String title) throws JAXBException {
+        JAXBContext context = JAXBContext.newInstance(Usdf20.class, EventStanding.class);
+        Unmarshaller unmarshaller = context.createUnmarshaller();
+        Usdf20 usdf20 = (Usdf20) unmarshaller.unmarshal(new StringReader(xmlContent));
+
+        //check the attributes for poolStandings
+        List<PoolStanding> poolStandings = usdf20.getPoolStandings();
+        PoolStanding firstPoolStanding = poolStandings.get(poolStandingsNumber);
+        Event event = firstPoolStanding.getEvent();
+        Discipline discipline = event.getDiscipline();
+
+        assertEquals(discipline.getId(), id, "check 1st unitStanding id");
+        assertEquals(discipline.getTitle(), title, "check 1st unitStanding title");
+    }
+
+    @Test
+    public void checkPoolStandingsEventDisciplineCompetitionAttributes(Integer poolStandingsNumber,String id,String title, String country, String place) throws JAXBException {
+        JAXBContext context = JAXBContext.newInstance(Usdf20.class, EventStanding.class);
+        Unmarshaller unmarshaller = context.createUnmarshaller();
+        Usdf20 usdf20 = (Usdf20) unmarshaller.unmarshal(new StringReader(xmlContent));
+
+        //check the attributes for poolStandings
+        List<PoolStanding> poolStandings = usdf20.getPoolStandings();
+        PoolStanding firstPoolStanding = poolStandings.get(poolStandingsNumber);
+        Competition competition = firstPoolStanding.getEvent().getDiscipline().getCompetition();
+
+        assertEquals(competition.getId(), id, "check 1st poolStanding event discipline competition id");
+        assertEquals(competition.getTitle(), title, "check 1st poolStanding event discipline competition title");
+        assertEquals(competition.getCountry(), country, "check 1st poolStanding event discipline competition country");
+        assertEquals(competition.getPlace(), place, "check 1st poolStanding event discipline competition place");
+    }
+
+    //eventBreakdown
+    @Test
+    public void checkeventBreakdownAttributes(String id,String title,String competitorType, String gender, String type, String order) throws JAXBException {
+        JAXBContext context = JAXBContext.newInstance(Usdf20.class, EventStanding.class);
+        Unmarshaller unmarshaller = context.createUnmarshaller();
+        Usdf20 usdf20 = (Usdf20) unmarshaller.unmarshal(new StringReader(xmlContent));
+
+        //check the attributes for eventBreakdown
+        EventBreakdown eventBreakdown = usdf20.getEventBreakdown();
+        assertEquals(eventBreakdown.getId(), id, "check 1st eventBreakdown id");
+        assertEquals(eventBreakdown.getTitle(), title, "check 1st eventBreakdown title");
+        assertEquals(eventBreakdown.getCompetitorType(), competitorType, "check 1st eventBreakdown competitorType");
+        assertEquals(eventBreakdown.getGender(), gender, "check 1st eventBreakdown gender");
+        assertEquals(eventBreakdown.getType(), type, "check 1st eventBreakdown type");
+        assertEquals(eventBreakdown.getOrder(), order, "check 1st eventBreakdown order");
+
+    }
+
+    @Test
+    public void checkeventBreakdownPoolsStageAttributes(Integer poolsStagesNumber,String id,String title,String order,String roundType,
+                                                        String poolId, String poolOrder, String poolTitle, String poolGroup) throws JAXBException {
+        JAXBContext context = JAXBContext.newInstance(Usdf20.class, EventStanding.class);
+        Unmarshaller unmarshaller = context.createUnmarshaller();
+        Usdf20 usdf20 = (Usdf20) unmarshaller.unmarshal(new StringReader(xmlContent));
+
+        //check the attributes for first poolStanding
+        List<PoolsStage> poolsStages = usdf20.getEventBreakdown().getPoolsStages();
+        PoolsStage firstPoolsStage = poolsStages.get(poolsStagesNumber);
+
+        assertEquals(firstPoolsStage.getId(), id, "check 1st firstPoolsStage id");
+        assertEquals(firstPoolsStage.getTitle(), title, "check 1st firstPoolsStage title");
+        assertEquals(firstPoolsStage.getRoundType(), roundType, "check 1st firstPoolsStage roundType");
+        assertEquals(firstPoolsStage.getOrder(), order, "check 1st firstPoolsStage order");
+
+        //check the attributes for pool
+        Pool pool = firstPoolsStage.getPool();
+
+        assertEquals(pool.getId(), poolId, "check 1st pool id");
+        assertEquals(pool.getTitle(), poolTitle, "check 1st pool title");
+        assertEquals(pool.getGroup(), poolGroup, "check 1st pool group");
+        assertEquals(pool.getOrder(), poolOrder, "check 1st pool order");
+
+    }
+
+    @Test
+    public void checkeventBreakdownEventDisciplineAttributes(String id,String title) throws JAXBException {
+        JAXBContext context = JAXBContext.newInstance(Usdf20.class, EventStanding.class);
+        Unmarshaller unmarshaller = context.createUnmarshaller();
+        Usdf20 usdf20 = (Usdf20) unmarshaller.unmarshal(new StringReader(xmlContent));
+
+        //check the attributes for poolStandings
+        EventBreakdown eventBreakdown = usdf20.getEventBreakdown();
+        Discipline discipline = eventBreakdown.getDiscipline();
+
+        assertEquals(discipline.getId(), id, "check 1st unitStanding id");
+        assertEquals(discipline.getTitle(), title, "check 1st unitStanding title");
+    }
+
+    @Test
+    public void checkeventBreakdownEventDisciplineCompetitionAttributes(String id,String title, String country, String place) throws JAXBException {
+        JAXBContext context = JAXBContext.newInstance(Usdf20.class, EventStanding.class);
+        Unmarshaller unmarshaller = context.createUnmarshaller();
+        Usdf20 usdf20 = (Usdf20) unmarshaller.unmarshal(new StringReader(xmlContent));
+
+        //check the attributes for eventBreakdown discipline competition
+        EventBreakdown eventBreakdown = usdf20.getEventBreakdown();
+        Competition competition = eventBreakdown.getDiscipline().getCompetition();
+
+        assertEquals(competition.getId(), id, "check 1st poolStanding event discipline competition id");
+        assertEquals(competition.getTitle(), title, "check 1st poolStanding event discipline competition title");
+        assertEquals(competition.getCountry(), country, "check 1st poolStanding event discipline competition country");
+        assertEquals(competition.getPlace(), place, "check 1st poolStanding event discipline competition place");
+    }
+
+    //competitionProfile
+    @Test
+    public void checkCompetitionProfileAttributes(String id,String title, String country, String place, String region, String sheduleStartDate, String sheduleFinishDate) throws JAXBException {
+        JAXBContext context = JAXBContext.newInstance(Usdf20.class, EventStanding.class);
+        Unmarshaller unmarshaller = context.createUnmarshaller();
+        Usdf20 usdf20 = (Usdf20) unmarshaller.unmarshal(new StringReader(xmlContent));
+
+        //check the attributes for competitionProfile
+        CompetitionProfile competitionProfile = usdf20.getCompetitionProfile();
+
+        assertEquals(competitionProfile.getId(), id, "check competitionProfile id");
+        assertEquals(competitionProfile.getTitle(), title, "check competitionProfile title");
+        assertEquals(competitionProfile.getCountry(), country, "check competitionProfile country");
+        assertEquals(competitionProfile.getPlace(), place, "check competitionProfile place");
+        assertEquals(competitionProfile.getRegion(), region, "check competitionProfile region");
+
+        //check the attributes for competitionProfile schedule
+        Schedule schedule = competitionProfile.getSchedule();
+        assertEquals(schedule.getStartDate(), sheduleStartDate, "check competitionProfile schedule startDate");
+        assertEquals(schedule.getFinishDate(), sheduleFinishDate, "check competitionProfile schedule finishDate");
+    }
+
 }

@@ -14,7 +14,7 @@ public class shortTrackSpeedSkating {
 
     @BeforeClass
     public void setUp() throws Exception {
-        String xmlUrl = "xxxxxxxxxxxxxxxxxxxx";
+        String xmlUrl = "http://icodev.ldev.enetpulse.com:8003/n_files/discipline/71/types/22/n_files/xmlPreviewTab";
 
         // Initialize instances
         xmlFormatValidator = new XML_Format_Validator(xmlUrl);

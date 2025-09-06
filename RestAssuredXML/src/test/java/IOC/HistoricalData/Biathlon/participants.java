@@ -18,7 +18,7 @@ public class participants {
 
     @BeforeClass
     public void setUp() throws Exception {
-        String xmlUrl = "xxxxxxxxxxxxxxxxx";
+        String xmlUrl = "http://icodev.ldev.enetpulse.com:8003/competitions/42/generate_export_2_0/participants";
 
         // Initialize instances
         dataValueTypes = new ValidateDataValueTypes(xmlUrl);

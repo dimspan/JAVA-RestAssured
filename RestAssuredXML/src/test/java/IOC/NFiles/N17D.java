@@ -17,14 +17,14 @@ public class N17D {
     private AttributesFormat attributesFormat;
 
     // Credentials for the XML url
-    private static final String USERNAME = "xxxxxxxxx";
-    private static final String PASSWORD = "xxxxxxxxxxx";
+    private static final String USERNAME = "xxxxxxxxxxxxxx";
+    private static final String PASSWORD = "xxxxxxxxx";
 
     private static String xmlContent;
 
     @BeforeClass
     public void setUp() throws Exception {
-        String xmlUrl = "xxxxxxxxxxxxxxxxxxxxxx";
+        String xmlUrl = "http://icodev.ldev.enetpulse.com:8003/n_files/discipline/5/types/122/n_files/122/xmlPreviewTab";
 
         // Initialize instances
         htmlFormatValidator = new HTML_Format_Validator(xmlUrl);
@@ -55,38 +55,38 @@ public class N17D {
         htmlFormatValidator.validateHtmlFormat(xmlContent);
     }
 
-//    @Test(priority = 3)
-//    public void validateDataValues() throws Exception {
-//        validateDataValueTypes.validateDataValueTypes(xmlContent);
-//    }
-//
-//    @Test(priority = 4)
-//    public void checkAllElementsAttributes() throws Exception {
-//        hardcodedValues.checkOdfBodyAttributes(xmlContent,"OWG2026","ALP102N10","DT_BCK_IMP","ENG","T","HR");
-//        hardcodedValues.checkCompetitionAttributes(xmlContent,"OWG-2026-GEN-4.4","OWG-2026-6.0.0");
-//        hardcodedValues.checkCategoryAttributes(xmlContent,"ALP","Alpine Skiing","Y");
-//        hardcodedValues.checkDocumentAttributes(xmlContent,"0","MDL","Past Medallists","102N10","ALP0210","H");
-//    }
-//
-//    @Test(priority = 5)
-//    public void checkAttributesFormats() throws Exception {
-//        //load the xml file
-//        attributesFormat.setUp(xmlContent);
-//
-//        //check the Time format
-//        attributesFormat.testTimeFormat();
-//
-//        //check the Version format
-//        attributesFormat.testVersionFormat();
-//
-//        //check the Date format
-//        attributesFormat.testDateFormat();
-//
-//        //check the LogicalDate format
-//        attributesFormat.testLogicalDateFormat();
-//
-//        //check the DocumentCode format
-//        attributesFormat.testDocumentCodeFormat();
-//    }
+    @Test(priority = 3)
+    public void validateDataValues() throws Exception {
+        validateDataValueTypes.validateDataValueTypes(xmlContent);
+    }
+
+    @Test(priority = 4)
+    public void checkAllElementsAttributes() throws Exception {
+        hardcodedValues.checkOdfBodyAttributes(xmlContent,"OWG2026","BOB702N17D","DT_BCK_IMP","ENG","T","HR");
+        hardcodedValues.checkCompetitionAttributes(xmlContent,"OWG-2026-GEN-4.4");
+        hardcodedValues.checkCategoryAttributes(xmlContent,"BOB","Bobsleigh","Y");
+        hardcodedValues.checkDocumentAttributes(xmlContent,"0","PRE","Past Results","702N17D","BOB0217D","H");
+    }
+
+    @Test(priority = 5)
+    public void checkAttributesFormats() throws Exception {
+        //load the xml file
+        attributesFormat.setUp(xmlContent);
+
+        //check the Time format
+        attributesFormat.testTimeFormat();
+
+        //check the Version format
+        attributesFormat.testVersionFormat();
+
+        //check the Date format
+        attributesFormat.testDateFormat();
+
+        //check the LogicalDate format
+        attributesFormat.testLogicalDateFormat();
+
+        //check the DocumentCode format
+        attributesFormat.testDocumentCodeFormat();
+    }
 
 }

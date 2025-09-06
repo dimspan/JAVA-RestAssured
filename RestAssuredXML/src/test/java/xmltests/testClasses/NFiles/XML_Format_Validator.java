@@ -17,10 +17,10 @@ public class XML_Format_Validator {
 
     private String xmlUrl;
 
-//    private static final String XML_URL = "xxxxxxxxxxx"; // Update with actual API URL
+//    private static final String XML_URL = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"; // Update with actual API URL
 
-    private static final String USERNAME = "xxxxxxxxx";
-    private static final String PASSWORD = "xxxxxxxxx";
+    private static final String USERNAME = "xxxxxxxxxxxxxxx";
+    private static final String PASSWORD = "xxxxxxxxxxxxxx";
 
     // 🔹 Constructor to set XML URL dynamically
     public XML_Format_Validator(String xmlUrl) {

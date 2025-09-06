@@ -17,14 +17,14 @@ public class N15A {
     private AttributesFormat attributesFormat;
 
     // Credentials for the XML url
-    private static final String USERNAME = "xxxxxxxxxxxxxxx";
-    private static final String PASSWORD = "xxxxxxx";
+    private static final String USERNAME = "xxxxxxxxxxx";
+    private static final String PASSWORD = "Sxxxxxxxxxx";
 
     private static String xmlContent;
 
     @BeforeClass
     public void setUp() throws Exception {
-        String xmlUrl = "xxxxxxxxxxxxxxxxx";
+        String xmlUrl = "http://icodev.ldev.enetpulse.com:8003/n_files/discipline/3/types/157/n_files/142/xmlPreviewTab";
 
         // Initialize instances
         htmlFormatValidator = new HTML_Format_Validator(xmlUrl);
@@ -63,7 +63,7 @@ public class N15A {
     @Test(priority = 4)
     public void checkAllElementsAttributes() throws Exception {
         hardcodedValues.checkOdfBodyAttributes(xmlContent,"OWG2026","CCS501N15A","DT_BCK_IMP","ENG","T","HR");
-        hardcodedValues.checkCompetitionAttributes(xmlContent,"OWG-2026-GEN-4.4","OWG-2026-8.0.0");
+        hardcodedValues.checkCompetitionAttributes(xmlContent,"OWG-2026-GEN-4.4");
         hardcodedValues.checkCategoryAttributes(xmlContent,"CCS","Cross-Country Skiing","Y");
         hardcodedValues.checkDocumentAttributes(xmlContent,"0","MDL","Past Medallists","501N15A","CCS0115A","H");
     }

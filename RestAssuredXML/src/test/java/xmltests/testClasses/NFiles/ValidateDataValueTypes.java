@@ -7,6 +7,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 import xmltests.modelClasses.nFiles.*;
 import xmltests.modelClasses.nFiles.Competition;
+import xmltests.modelClasses.nFiles.Discipline;
 import xmltests.modelClasses.nFiles.Record;
 import xmltests.modelClasses.xmlData.*;
 
@@ -21,7 +22,7 @@ import static org.testng.AssertJUnit.assertFalse;
 public class ValidateDataValueTypes {
 
     //    private static final String XML_FILE_PATH = "./eventStanding.xml"; // Replace with actual API URL later
-//    private static final String XML_URL = "xxxxxxxxxxx"; // Update with actual API URL
+//    private static final String XML_URL = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"; // Update with actual API URL
     private String xmlUrl;
 
     // 🔹 Constructor to set XML URL dynamically
@@ -109,7 +110,7 @@ public class ValidateDataValueTypes {
         }
     }
 
-    //N11 & N10
+    //N11 & N10, etc.
     @Test
     public void validateDataValueTypes(String xmlContent) throws JAXBException {
         JAXBContext context = JAXBContext.newInstance(OdfBody.class);
@@ -161,6 +162,103 @@ public class ValidateDataValueTypes {
 
         assertNotNull(title, "Title object is empty");
 
+    }
+
+    //N22
+    @Test
+    public void validateDataValueTypesBiography(String xmlContent) throws JAXBException {
+        JAXBContext context = JAXBContext.newInstance(OdfBody.class);
+        Unmarshaller unmarshaller = context.createUnmarshaller();
+        OdfBody odfBody = (OdfBody) unmarshaller.unmarshal(new StringReader(xmlContent));
+
+        //check the odfBody element and attributes response is not null
+        assertNotNull(odfBody, "OdfBody object is empty");
+        assertNotNull(odfBody.getCompetitionCode(), "odfBody competitionCode object is empty");
+        assertNotNull(odfBody.getDocumentCode(), "odfBody DocumentCode object is empty");
+        assertNotNull(odfBody.getDocumentType(), "odfBody DocumentType object is empty");
+        assertNotNull(odfBody.getVersion(), "odfBody Version object is empty");
+        assertNotNull(odfBody.getLanguage(), "odfBody Language object is empty");
+        assertNotNull(odfBody.getFeedFlag(), "odfBody FeedFlag object is empty");
+        assertNotNull(odfBody.getDate(), "odfBody Date object is empty");
+        assertNotNull(odfBody.getTime(), "odfBody Time object is empty");
+        assertNotNull(odfBody.getLogicalDate(), "odfBody LogicalDate object is empty");
+        assertNotNull(odfBody.getSource(), "odfBody Source object is empty");
+
+        //check the Competition element and attributes response is not null
+        Competition competition = odfBody.getCompetition();
+
+        assertNotNull(competition, "Competition object is empty");
+        assertNotNull(competition.getGen(), "Competition Gen object is empty");
+        assertNotNull(competition.getCodes(), "Competition Codes object is empty");
+
+        //check the TeamBiography element and attributes response is not null
+        TeamBiography teamBiography = competition.getTeamBiography();
+
+        assertNotNull(teamBiography, "TeamBiography object is empty");
+        assertNotNull(teamBiography.getGender(), "TeamBiography Gender object is empty");
+        assertNotNull(teamBiography.getOrganisation(), "TeamBiography Organisation object is empty");
+        assertNotNull(teamBiography.getName(), "TeamBiography Name object is empty");
+        assertNotNull(teamBiography.getCurrent(), "TeamBiography Current object is empty");
+        assertNotNull(teamBiography.getExternalCode(), "TeamBiography ExternalCode object is empty");
+
+        //check the Language element and attributes response is not null
+        Language language = competition.getTeamBiography().getLanguage();
+
+        assertNotNull(language, "Language object is empty");
+        assertNotNull(language.getLanguage(), "Language Language object is empty");
+
+        //check the Discipline element and attributes response is not null
+        Discipline discipline = competition.getTeamBiography().getDiscipline();
+
+        assertNotNull(discipline, "Discipline object is empty");
+        assertNotNull(discipline.getCode(), "Discipline Code object is empty");
+
+        //check the RegisteredEvent element and attributes response is not null
+        RegisteredEvent registeredEvent = competition.getTeamBiography().getDiscipline().getRegisteredEvent();
+
+        assertNotNull(registeredEvent, "RegisteredEvent object is empty");
+        assertNotNull(registeredEvent.getEvent(), "RegisteredEvent Event object is empty");
+    }
+
+    //N24
+    @Test
+    public void validateDataValueTypesProfile(String xmlContent) throws JAXBException {
+        JAXBContext context = JAXBContext.newInstance(OdfBody.class);
+        Unmarshaller unmarshaller = context.createUnmarshaller();
+        OdfBody odfBody = (OdfBody) unmarshaller.unmarshal(new StringReader(xmlContent));
+
+        //check the odfBody element and attributes response is not null
+        assertNotNull(odfBody, "OdfBody object is empty");
+        assertNotNull(odfBody.getCompetitionCode(), "odfBody competitionCode object is empty");
+        assertNotNull(odfBody.getDocumentCode(), "odfBody DocumentCode object is empty");
+        assertNotNull(odfBody.getDocumentType(), "odfBody DocumentType object is empty");
+        assertNotNull(odfBody.getVersion(), "odfBody Version object is empty");
+        assertNotNull(odfBody.getLanguage(), "odfBody Language object is empty");
+        assertNotNull(odfBody.getFeedFlag(), "odfBody FeedFlag object is empty");
+        assertNotNull(odfBody.getDate(), "odfBody Date object is empty");
+        assertNotNull(odfBody.getTime(), "odfBody Time object is empty");
+        assertNotNull(odfBody.getLogicalDate(), "odfBody LogicalDate object is empty");
+
+        //check the Competition element and attributes response is not null
+        Competition competition = odfBody.getCompetition();
+
+        assertNotNull(competition, "Competition object is empty");
+        assertNotNull(competition.getGen(), "Competition Gen object is empty");
+        assertNotNull(competition.getCodes(), "Competition Codes object is empty");
+
+        //check the Organisation element and attributes response is not null
+        Organisation organisation = competition.getOrganisation();
+
+        assertNotNull(organisation, "Organisation object is empty");
+        assertNotNull(organisation.getCurrent(), "Organisation Current object is empty");
+        assertNotNull(organisation.getExternalCode(), "Organisation ExternalCode object is empty");
+        assertNotNull(organisation.getCode(), "Organisation Code object is empty");
+
+        //check the Language element and attributes response is not null
+        Language language = competition.getOrganisation().getLanguage();
+
+        assertNotNull(language, "Language object is empty");
+        assertNotNull(language.getLanguage(), "Language Language object is empty");
     }
 
 }

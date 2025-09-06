@@ -18,7 +18,7 @@ public class eventStandings {
 
     @BeforeClass
     public void setUp() throws Exception {
-        String xmlUrl = "xxxxxxxxxxxxxxxxxxxxx";
+        String xmlUrl = "http://icodev.ldev.enetpulse.com:8003/competitions/42/generate_export_2_0/event_standings?event_id=128";
 
         // Initialize instances
         dataValueTypes = new ValidateDataValueTypes(xmlUrl);

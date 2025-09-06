@@ -17,6 +17,9 @@ public class Competition {
     @XmlAttribute(name = "Country")
     private String country;
 
+    @XmlAttribute(name = "Region")
+    private String region;
+
     @XmlAttribute(name = "Title")
     private String title;
 
@@ -46,6 +49,14 @@ public class Competition {
 
     public void setCountry(String country) {
         this.country = country;
+    }
+
+    public String getRegion() {
+        return region;
+    }
+
+    public void setRegion(String region) {
+        this.region = region;
     }
 
     public String getTitle() {
